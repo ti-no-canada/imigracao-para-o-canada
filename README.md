@@ -4,7 +4,11 @@ Repositorio geral do grupo no telegram TI no Canada
 
 [Grupo Oficial no Telegram](https://t.me/tinocanada)
 
+[Regras do Grupo no Telegram](https://github.com/ti-no-canada/Geral/blob/master/regras-do-grupo.md)
+
 [Link oficial do GitHub](https://github.com/ti-no-canada)
+
+
 
 [Informacoes sobre visto](https://github.com/ti-no-canada/Geral/blob/master/informacoes-gerais-sobre-visto.md)
 
