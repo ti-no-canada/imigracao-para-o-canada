@@ -1,5 +1,5 @@
 # Geral
-Repositorio geral do grupo no telegram TI no Canada
+Repositório geral do grupo no telegram TI no Canada
 
 
 [Grupo Oficial no Telegram](https://t.me/tinocanada)
@@ -10,12 +10,12 @@ Repositorio geral do grupo no telegram TI no Canada
 
 
 
-[Informacoes sobre visto](https://github.com/ti-no-canada/Geral/blob/master/informacoes-gerais-sobre-visto.md)
+[Informações sobre visto](https://github.com/ti-no-canada/Geral/blob/master/informacoes-gerais-sobre-visto.md)
 
 # Sites do Governo Canadense
 [Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
 
-[Site do governo para faixas salariais no Canada (por profissao)](https://www.jobbank.gc.ca/explorecareers)
+[Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
 
 # Sites de busca de emprego
