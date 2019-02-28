@@ -15,6 +15,8 @@ Repositorio geral do grupo no telegram TI no Canada
 # Sites do Governo Canadense
 [Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
 
+[Site do governo para faixas salariais no Canada (por profissao)](https://www.jobbank.gc.ca/explorecareers)
+
 
 # Sites de busca de emprego
 * [BC Jobs](https://www.bcjobs.ca)
