@@ -22,7 +22,6 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
 
  * Open: Você tem direito de trabalho em qualquer lugar durante o período de validade do visto.
 
-
 ## O que é Permanent Resident(PR)?
 É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá(Ex. EUA) e seu status no país é de imigrante.
 
@@ -38,7 +37,7 @@ As datas abaixo são baseadas em relato de pessoas que aplicaram no Brasil. Isso
  * **Estudante de college:** 2 a 8 meses.
  * **Imigração permanente:** É uma verdadeira incognita, pois varia de acordo com seu perfil, tipo de visto e número de aplicações realizadas no mesmo período.
 
-Voce pode consultar a tabela inteira no [link do site oficial](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html), normalmente sempre o tempo varia de acordo com a epoca do ano 
+Voce pode consultar a tabela inteira no [link do site oficial](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html), normalmente sempre o tempo varia de acordo com a epoca do ano.
 
 
 ## É preciso saber Francês?
@@ -48,7 +47,8 @@ Não na maior parte do país. Apenas é necessário para imigrações na provín
 Em T.I. não é necessário se você tiver mais de 3 anos de experiência comprovada(carta de recomendação) e equivalente com a vaga de trabalho. Tenha em mente que graduação sempre conta mais pontos no processo de seleção do governo. Corporações(bancos e etc.) normalmente só imigram pessoas graduadas.
 
 ## Qual é o salário mínimo?
-O salário mínino é [definido por Província](http://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx)
+O salário mínino é [definido por Província](http://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx).
+Existe um [site oficial do governo para consultar salarios (por profissão)](https://www.jobbank.gc.ca/explorecareers).
 
 ## É cobrado imposto sobre o salário?
 Sim se você ganha acima de $44.000cad ano. Varia por província e salário anual. [Saiba mais](http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html).
