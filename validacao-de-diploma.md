@@ -31,6 +31,6 @@ Voce vai nos correios com esses dois envelopes e envia em um unico pacote de env
 ### Mais informações
 * [Help Center WES](https://www.wes.org/help#/path/Applying-to-WES/)
 * [Custo para Equivalência](https://www.wes.org/evaluations-and-fees/immigration/)
-* [Como preparar seu envelope e da universidade](https://www.youtube.com/watch?v=_dmkibY8DPk&t=4s)
+* [WES Document Requirements: What is a Sealed Envelope?](https://www.youtube.com/watch?v=_dmkibY8DPk&t=4s)
 * [Equivalência de diploma via WES](https://vainevar.wordpress.com/2017/04/27/equivalencia-de-diploma-via-wes/)
 
