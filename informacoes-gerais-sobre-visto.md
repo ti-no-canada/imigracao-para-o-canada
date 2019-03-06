@@ -26,7 +26,11 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
 É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá(Ex. EUA) e seu status no país é de imigrante.
 
 ## O que é Express Entry?
-É o processo eletrônico de avaliação para residência permanente mantido pelo governo Canadense. [Mais informações](http://www.canadaparabrasileiros.com/blog/2015/01/imigracao-canada-express-entry/).
+É o processo eletrônico de avaliação para residência permanente mantido pelo governo Canadense, onde usa um sistema de pontos que leva em consideração seu nivel de ensino, sua fluência no idioma (inglês e/ou francês), sua experiência profissional.
+* Para comprovar sua fluência no idioma **inglês**, você irá precisar fazer um teste que seja aceito para o governo canadense. O governo canadense aceita o [CELPIP](https://www.celpip.ca) e o [IELTS](https://www.ielts.org).
+* Você pode usar a ferramenta do governo canadense [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) para simular sua pontuação para a imigração para o Canadá.
+* [Language test equivalency charts](http://www.cic.gc.ca/english/resources/tools/language/charts.asp)
+* [Mais informações](http://www.canadaparabrasileiros.com/blog/2015/01/imigracao-canada-express-entry/)
 
 ## Qual é o tempo médio de espera para cada processo?
 As datas abaixo são baseadas em relato de pessoas que aplicaram no Brasil. Isso pode variar para mais ou para menos dependendo o país em que você estiver. Seu visto normalmente é processado mais rápido estando no Canadá.
