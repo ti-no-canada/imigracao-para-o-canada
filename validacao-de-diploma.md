@@ -24,9 +24,10 @@ você precisa enviar dois envelopes separados (pode ser no mesmo pacote de envio
 * O segundo envelope quem faz é a sua faculdade, esse envelope deve ser lacrado e carimbado nas dobras, colado, e de preferencia em um envelope da faculdade. Esse deve conter:
   * Historico escolar em papel timbrado e assinado. 
   * Você terá o *WES Reference Number* na frente do envelope (coloque dentro do envelope também).
-  
-  
-### Endereço do WES
+ 
+### Endereço do WES para envio dos documentos
+Voce vai nos correios com esses dois envelopes e envia em um unico pacote de envio com o endereço e o seu numero do WES.
+
 ```
 World Education Services
 Attention: Documentation Center
@@ -34,8 +35,6 @@ Attention: Documentation Center
 Toronto, Ontario M5B 1J3
 CANADA
 ```
-
-Voce vai nos correios com esses dois envelopes e envia em um unico pacote de envio com o endereço e o seu numero do WES.
 
 ### Mais informações
 * [WES - Help Center](https://www.wes.org/help#/path/Applying-to-WES/)
