@@ -12,6 +12,8 @@ Repositório geral do grupo no telegram TI no Canada
 
 [Informações sobre visto](https://github.com/ti-no-canada/Geral/blob/master/informacoes-gerais-sobre-visto.md)
 
+[Equivalência de diploma no Canadá (Validação do diploma)](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md)
+
 # Sites do Governo Canadense
 [Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
 
