@@ -31,6 +31,8 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
   * Você pode usar a ferramenta do governo canadense [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) para simular sua pontuação para a imigração para o Canadá.
   * Para ganhar pontos de experiência profissional no Express Entry, você vai precisar ter trabalhado em profissões de **NOC (National Occupational Classification)** ***0***, ***A*** ou ***B***, [Para descobrir qual o seu NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).
   * Para se qualificar como trabalhador qualificado, também é exigido uma proficiência de idioma de **CLB (Canadian Language Benchmark)** de nota 7, seu CLB é calculado baseado na sua nota no **IELTS**/**CELPIP**, você pode consultar a tabela [Language test equivalency charts](http://www.cic.gc.ca/english/resources/tools/language/charts.asp) para ter mais informações sobre o assunto.
+ * A cada duas semanas o governo canadense faz uma rodada de convite para as pessoas que estão cadastradas no programa, e essas recebem o **ITA (Invitation to apply)** para comprovar aquilo que foi informado nos formulários do governo no momento do seu cadastro. Para consultar as pontuações por rodada, você pode consultar [Express Entry rounds of invitations](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html).
+
 [Mais informações](http://www.canadaparabrasileiros.com/blog/2015/01/imigracao-canada-express-entry/)
 
 ## Qual é o tempo médio de espera para cada processo?
