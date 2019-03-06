@@ -29,8 +29,10 @@ você precisa enviar dois envelopes separados (pode ser no mesmo pacote de envio
 Voce vai nos correios com esses dois envelopes e envia em um unico pacote de envio com o endereço e o seu numero do WES.
 
 ### Mais informações
-* [Help Center WES](https://www.wes.org/help#/path/Applying-to-WES/)
-* [Custo para Equivalência](https://www.wes.org/evaluations-and-fees/immigration/)
-* [WES Document Requirements: What is a Sealed Envelope?](https://www.youtube.com/watch?v=_dmkibY8DPk&t=4s)
+* [WES - Help Center](https://www.wes.org/help#/path/Applying-to-WES/)
+* [WES - Custo para Equivalência](https://www.wes.org/evaluations-and-fees/immigration/)
+* [WES - Document Requirements: What is a Sealed Envelope?](https://www.youtube.com/watch?v=_dmkibY8DPk&t=4s)
+* [WES - Documentos necessário para validaçao de diploma - Em inglês](https://www.wes.org/ca/required-documents/)
+* [WES - Documentos necessário para validaçao de diploma - Em Português](https://applications.wes.org/required/brazil.asp?ctry=ca)
 * [Equivalência de diploma via WES](https://vainevar.wordpress.com/2017/04/27/equivalencia-de-diploma-via-wes/)
 
