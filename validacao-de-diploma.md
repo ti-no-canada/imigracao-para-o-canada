@@ -1,4 +1,4 @@
-# Validação de diploma no Canadá
+# Equivalência de diploma no Canadá (Validação do diploma)
 
 ### Passo a passo
 Para validar o diploma no Canadá, você terá que usar uma das instituíçoes que o governo aceita.
