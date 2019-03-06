@@ -46,6 +46,9 @@ Não na maior parte do país. Apenas é necessário para imigrações na provín
 ## E quanto ao Ensino Superior?
 Em T.I. não é necessário se você tiver mais de 3 anos de experiência comprovada(carta de recomendação) e equivalente com a vaga de trabalho. Tenha em mente que graduação sempre conta mais pontos no processo de seleção do governo. Corporações(bancos e etc.) normalmente só imigram pessoas graduadas.
 
+## Como valido meu Diploma no canadá?
+Para saber mais sobre o processo clique [aqui](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md)
+
 ## Qual é o salário mínimo?
 O salário mínino é [definido por Província](http://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx).
 Existe um [site oficial do governo para consultar salarios (por profissão)](https://www.jobbank.gc.ca/explorecareers).
