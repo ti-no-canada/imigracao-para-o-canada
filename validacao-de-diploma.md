@@ -27,3 +27,7 @@ você precisa enviar dois envelopes separados (pode ser no mesmo pacote de envio
 
 
 Voce vai nos correios com esses dois envelopes e envia em um unico pacote de envio com o endereço e o seu numero do WES.
+
+## Mais informações
+[Equivalência de diploma via WES](https://vainevar.wordpress.com/2017/04/27/equivalencia-de-diploma-via-wes/)
+[Help Center WES](https://www.wes.org/help#/path/Applying-to-WES/)
