@@ -33,7 +33,15 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
   * Para se qualificar como [trabalhador qualificado](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html), também é exigido uma proficiência de idioma de **CLB (Canadian Language Benchmark)** de nota 7, seu CLB é calculado baseado na sua nota no **IELTS**/**CELPIP**, você pode consultar a tabela [Language test equivalency charts](http://www.cic.gc.ca/english/resources/tools/language/charts.asp) para ter mais informações sobre o assunto.
  * A cada duas semanas o governo canadense faz uma rodada de convite para as pessoas que estão cadastradas no programa e que atingiram a pontuação exigida na rodada de convites, e essas pessoas recebem o **ITA (Invitation to apply)** para comprovar aquilo que foi informado nos formulários do governo no momento do seu cadastro. Para consultar as pontuações por rodada, você pode consultar [Express Entry rounds of invitations](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html).
 
-[Mais informações](http://www.canadaparabrasileiros.com/blog/2015/01/imigracao-canada-express-entry/)
+### Mais informações
+[Imigração Canadá Express Entry](http://www.canadaparabrasileiros.com/blog/2015/01/imigracao-canada-express-entry/)
+
+[Eligibility to apply as a Federal Skilled Worker (Express Entry)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html)
+
+[Six selection factors – Federal Skilled Worker Program (Express Entry)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html)
+
+[What is a Labour Market Impact Assessment?](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=163&top=17)
+
 
 ## Qual é o tempo médio de espera para cada processo?
 As datas abaixo são baseadas em relato de pessoas que aplicaram no Brasil. Isso pode variar para mais ou para menos dependendo o país em que você estiver. Seu visto normalmente é processado mais rápido estando no Canadá.
