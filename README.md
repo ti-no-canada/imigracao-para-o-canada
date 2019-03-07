@@ -1,5 +1,5 @@
 # Geral
-Repositório geral do grupo no telegram TI no Canada
+Repositório do grupo no telegram TI no Canada
 
 
 [Grupo Oficial no Telegram](https://t.me/tinocanada)
