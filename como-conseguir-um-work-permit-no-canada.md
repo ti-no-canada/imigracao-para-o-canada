@@ -25,4 +25,6 @@ aplicada para residência permanente no Canadá
   
  ### Saiba mais
  [Who can apply for an open work permit?](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=177&top=17&fbclid=IwAR1RbUAwHkqTGU2N0wLXeFpgmBhKNwzZEh1ir0YP4wj7Zm_Hs-7xO3PFRxI)
+ 
+ 
  [Types of work permits for your situation](http://www.cic.gc.ca/english/work/apply-who-permit-result.asp?q1_options=1i&q2_options=2d&fbclid=IwAR2qqRq46f0C6RDOw1VG_PAlb-6L6V2V2GI1VMFGvy8fWhg7v4GzPGkklYg)
