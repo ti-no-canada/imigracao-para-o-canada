@@ -29,13 +29,13 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 * [BC Jobs](https://www.bcjobs.ca)
 * [Careerbeacon](http://www.careerbeacon.com)
 * [CareerJet CA](http://www.careerjet.ca)
-* [Indeed CA](http://www.indeed.ca)
+* [Indeed CA](http://www.indeed.ca) *
 * [Jobillico](https://www.jobillico.com)
 * [Jobs Sap CA](http://jobs.sap.com)
-* [Monster CA](http://www.monster.ca)
+* [Monster CA](http://www.monster.ca) *
 * [Work BC](http://www.workbc.ca)
 * [Workintech CA](https://www.workintech.ca)
-* [Workopolis](http://www.workopolis.com)
+* [Workopolis](http://www.workopolis.com) *
 * [careerbuilder](www.careerbuilder.ca)
 
 * [6figures](www.6figures.com)
@@ -45,7 +45,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 * [auto-jobs](www.auto-jobs.ca)
 * [bestjobsca](www.bestjobsca.com)
 * [bridges](www.bridges.com)
-* [linkedin](www.ca.linkedin.com)
+* [linkedin](www.ca.linkedin.com) *
 * [canadainfonet](www.canadainfonet.org)
 
 <!-- www.canadajobexpo.com
@@ -121,6 +121,8 @@ www.wowjobs.ca
 www.youhaveaproject.com
 www.youth.gc.ca
  -->
+
+*Most Common
 
 # Províncias e territórios do Canada
 * [Alberta](https://en.wikipedia.org/wiki/Alberta)  
