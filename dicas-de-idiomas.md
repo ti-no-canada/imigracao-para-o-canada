@@ -3,8 +3,8 @@ Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhor
 
 ## Inglês
 
-1. [Duolingo - ferramenta para aprender diversas linguas](https://pt.duolingo.com)
-2. [quizlet - ](https://quizlet.com)
+1. [Duolingo - Ferramenta para aprender diversas linguas.](https://pt.duolingo.com)
+2. [quizlet - Ferramentas com vários puzzles para ajudar a aprender o idioma, também usa o sistema de repetição espaçada.](https://quizlet.com)
 3. [Anki - Software para usar o Sistema de Repetição Espaçada](https://www.ankiapp.com)
 4. [Anki Web - Software para usar o Sistema de Repetição Espaçada](https://ankiweb.net/about)
 5. [English Live - Serviço para aprender inglês com conteúdo online, aulas em grupos e aulas particulares com professores nativos](https://englishlive.ef.com/pt-br/)
