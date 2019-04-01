@@ -3,6 +3,13 @@ Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhor
 
 ## Inglês
 
+1. [Duolingo - ferramenta para aprender diversas linguas](https://pt.duolingo.com)
+2. [quizlet - ](https://quizlet.com)
+3. [Anki - Software para usar o Sistema de Repetição Espaçada](https://www.ankiapp.com)
+4. [Anki Web - Software para usar o Sistema de Repetição Espaçada](https://ankiweb.net/about)
+5. [English Live - Serviço para aprender inglês com conteúdo online, aulas em grupos e aulas particulares com professores nativos](https://englishlive.ef.com/pt-br/)
+6. [Mairo Vergara - Aprender inglês com vídeos, ensino do Sistema de Repetição Espaçada e frases para uso desse metódo](https://www.mairovergara.com)
+7. [EngVid - Site com milhares de videos do youtube onde diferentes professores nativos ensinam o inglês para você](https://www.engvid.com)
 
 ## Francês
 ### Tudo o que você precisa para um estudo independente da língua francesa.
