@@ -24,6 +24,11 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
+# Custo de vida
+[Calcular imposto de renda do Canada](https://www.ey.com/ca/en/services/tax/tax-calculators-2018-personal-tax)
+
+[Calcular custo de vida no Canada](https://www.numbeo.com/cost-of-living/in/Toronto) 
+
 
 # Sites de busca de emprego
 * [BC Jobs](https://www.bcjobs.ca)
