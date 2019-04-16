@@ -19,15 +19,15 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Estudo de Inglês e/ou Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/dicas-de-idiomas.md)
 
-# Sites do Governo Canadense
-[Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
-
-[Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
-
 # Custo de vida
 [Calcular imposto de renda do Canada](https://www.ey.com/ca/en/services/tax/tax-calculators-2018-personal-tax)
 
 [Calcular custo de vida no Canada](https://www.numbeo.com/cost-of-living/in/Toronto) 
+
+# Sites do Governo Canadense
+[Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
+
+[Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
 
 # Sites de busca de emprego
