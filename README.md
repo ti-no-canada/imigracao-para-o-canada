@@ -25,9 +25,13 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 [Calcular custo de vida no Canadá](https://www.numbeo.com/cost-of-living/in/Toronto) 
 
 # Sites do Governo Canadense
+[Previsão do tempo e dados históricos sobre o Clima](https://weather.gc.ca/canada_e.html)
+
 [Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
 
 [Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
+
+[Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
 
 # Sites de busca de emprego
