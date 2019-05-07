@@ -52,7 +52,28 @@ aplicada para residência permanente no Canadá
   * são titulares de uma autorização de residente temporário
   * é um jovem trabalhador participando de programas especiais (como o [IEC Work Holiday Visa](http://www.cic.gc.ca/english/work/iec/eligibility.asp))
   
+### IEC Work Holiday Visa
+
+O Working Holidays (WHV) é uma das três modalidades do International Experience Canada (IEC) , para pessoas de países que possuem o Youth Mobility Agreement (YMA). O Brasil não faz parte do YMA, porém é possível requisitar através de uma Recognized Organization (RO) ou empresas que as representem, como World Study e Encubate.
+
+Mesmo o Brasil não fazendo parte dos países homologados, é possível aplicar para esse visto por uma RO Canadense e empresas parceiras. Informação oficial.
+
+O visto recebido através do Work Holiday Visa é um **OWP – Open Work Permit** ou seja um visto de trabalho aberto, com ele você pode trabalhar em qualquer região do Canadá até 40h por semana (full-time) permitidas por lei e em qualquer área, desde que a área não seja regulamentada ou seja você não pode exercer: medicina, advocacia, engenharia etc, sem uma validação do seu diploma, antes de requisitar o visto verifique se sua área exige esse tipo de validação, na maioria dos casos essa re-validação exigirá uma faculdade no Canadá o que pode sair caro. A título de informação áreas de TI – Tecnologia da Informação são profissões não regulamentadas, ou seja, você não precisa revalidar seu diploma para trabalhar em empregos dessa área.
+
+**QUAIS SÃO AS EXIGÊNCIAS PARA CONSEGUIR UM WHV?**
+* Idade mínima de 18 e máxima de 35 anos. (…)
+* Você precisa apresentar um passaporte válido.
+* Seguro de saúde para toda duração do programa.
+* Nada consta criminal (Nem sempre é solicitado)
+* Exame médico realizado por um médico autorizado.
+* Ter sido fichado por dirigir embriagado é um crime sério no Canadá, e será um impeditivo, a não ser que você faça uma reabilitação.
+* Os EUA e Canadá compartilham informações entre si, se você ou um parente esteve ilegal nos EUA isso pode comprometer sua habilitação.
+
+
+  
  ### Saiba mais
+ [Tudo sobre o Work Holiday Visa](https://kittynocanada.com/tudo-sobre-o-working-holiday-visa/)
+ 
  [Você sabe o que é o Labour Market Impact Assessment (LMIA)?](https://www.immi-canada.com/voce-sabe-o-que-e-o-labour-market-impact-assessment-lmia/)
  
  [Who can apply for an open work permit?](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=177&top=17&fbclid=IwAR1RbUAwHkqTGU2N0wLXeFpgmBhKNwzZEh1ir0YP4wj7Zm_Hs-7xO3PFRxI)
