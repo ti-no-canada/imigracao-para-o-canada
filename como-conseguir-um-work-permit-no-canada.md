@@ -16,7 +16,7 @@ Para uma empresa canadense poder contratar um estrangeiro, ela precisará de um 
 A principal vantagem do *LMIA*, é que ele pode garantir até 200 pontos no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry) para o contratado.
 
 ### International Experience Canada (IEC): Young Professionals 
-Se voce tem idade entre 18 e 30 anos, também é possivel conseguir um Closed work permit através do processo [IEC Young Professionals](http://www.cic.gc.ca/english/work/iec/eligibility.asp) onde você aplica através de uma [RO (Recognized Organization)](http://www.cic.gc.ca/english/work/iec/ros.asp). A RO que atuam no Brasil com esse tipo de visto é a [AIESEC](aiesec.org).
+Se voce tem idade entre 18 e 30 anos e está fazendo curso superior; ou pós graduação; ou se formou nos ultimos 6 meses, é possivel conseguir um Closed work permit através do processo [IEC Young Professionals](http://www.cic.gc.ca/english/work/iec/eligibility.asp) onde você aplica através de uma [RO (Recognized Organization)](http://www.cic.gc.ca/english/work/iec/ros.asp). A RO que atuam no Brasil com esse tipo de visto é a [AIESEC](aiesec.org).
 A AIESEC é uma instituição de intercambio cultural, você poderá se candidatar a vagas de centenas de países e ir trabalhar lá. 
 O processo da AIESEC consiste em: 
 1. Se candidatar as vagas para trabalho.
