@@ -9,8 +9,8 @@
  * Open: Você tem direito de trabalho em qualquer lugar durante o período de validade do visto.
 
 ## Quem pode aplicar para o Closed work permit
-Normalmente esse permit está ligado a contratação de um estrangeiro por uma empresa. Para uma empresa canadense poder contratar um estrangeiro, ela precisará de um documento chamado LMIA (Labour Market Impact Assessment). Um LMIA é um processo de verificação do mercado de trabalho em que o Employment and Social Development Canada (ESDC) avalia se uma oferta de trabalho dada a um trabalhador estrangeiro não terá um impacto negativo sobre o mercado de trabalho canadense.
-A principal vantagem do LMIA, é que ele pode garantir até 200 pontos no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry) para o contratado.
+Normalmente esse permit está ligado a contratação de um estrangeiro por uma empresa. Para uma empresa canadense poder contratar um estrangeiro, ela precisará de um documento chamado *LMIA (Labour Market Impact Assessment)*. Um *LMIA* é um processo de verificação do mercado de trabalho em que o *Employment and Social Development Canada (ESDC)* avalia se uma oferta de trabalho dada a um trabalhador estrangeiro não terá um impacto negativo sobre o mercado de trabalho canadense.
+A principal vantagem do *LMIA*, é que ele pode garantir até 200 pontos no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry) para o contratado.
 
 Se voce tem idade entre 18 e 30 anos, também é possivel conseguir um Closed work permit através do processo [IEC Young Professionais](http://www.cic.gc.ca/english/work/iec/eligibility.asp) onde você aplica através de uma [RO (Recognized Organization)](http://www.cic.gc.ca/english/work/iec/ros.asp). A RO que atuam no Brasil com esse tipo de visto é a [AIESEC](aiesec.org).
 A AIESEC é uma instituição de intercambio cultural, você poderá se candidatar a vagas de centenas de países e ir trabalhar lá. 
