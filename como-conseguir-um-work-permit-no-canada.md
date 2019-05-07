@@ -52,7 +52,7 @@ aplicada para residência permanente no Canadá
   * são titulares de uma autorização de residente temporário
   * é um jovem trabalhador participando de programas especiais (como o [IEC Work Holiday Visa](http://www.cic.gc.ca/english/work/iec/eligibility.asp))
   
-### IEC Work Holiday Visa
+### International Experience Canada (IEC): Work Holiday Visa
 
 O Working Holidays (WHV) é uma das três modalidades do International Experience Canada (IEC) , para pessoas de países que possuem o Youth Mobility Agreement (YMA). O Brasil não faz parte do YMA, porém é possível requisitar através de uma Recognized Organization (RO) ou empresas que as representem, como World Study e Encubate.
 
