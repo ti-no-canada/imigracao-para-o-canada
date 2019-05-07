@@ -12,7 +12,7 @@
 Normalmente esse permit está ligado a contratação de um estrangeiro por uma empresa. Para uma empresa canadense poder contratar um estrangeiro, ela precisará de um documento chamado *LMIA (Labour Market Impact Assessment)*. Um *LMIA* é um processo de verificação do mercado de trabalho em que o *Employment and Social Development Canada (ESDC)* avalia se uma oferta de trabalho dada a um trabalhador estrangeiro não terá um impacto negativo sobre o mercado de trabalho canadense.
 A principal vantagem do *LMIA*, é que ele pode garantir até 200 pontos no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry) para o contratado.
 
-Se voce tem idade entre 18 e 30 anos, também é possivel conseguir um Closed work permit através do processo [IEC Young Professionais](http://www.cic.gc.ca/english/work/iec/eligibility.asp) onde você aplica através de uma [RO (Recognized Organization)](http://www.cic.gc.ca/english/work/iec/ros.asp). A RO que atuam no Brasil com esse tipo de visto é a [AIESEC](aiesec.org).
+Se voce tem idade entre 18 e 30 anos, também é possivel conseguir um Closed work permit através do processo [IEC Young Professionals](http://www.cic.gc.ca/english/work/iec/eligibility.asp) onde você aplica através de uma [RO (Recognized Organization)](http://www.cic.gc.ca/english/work/iec/ros.asp). A RO que atuam no Brasil com esse tipo de visto é a [AIESEC](aiesec.org).
 A AIESEC é uma instituição de intercambio cultural, você poderá se candidatar a vagas de centenas de países e ir trabalhar lá. 
 O processo da AIESEC consiste em: 
 1. Se candidatar as vagas para trabalho.
@@ -21,6 +21,14 @@ O processo da AIESEC consiste em:
 4. Ao ser contratado pela a empresa, você paga a taxa da Aiesec (em cada vaga tem o valor especifico).
 5. Receber a carta da AIESEC.
 6. Iniciar o processo de solicitação de visto de trabalho.
+
+A Vantagem do *IEC Young Professionals* é que o empregador não precisa emitir um LMIA para lhe contratar (processo que chega a levar 2 meses). Se você conseguir uma vaga Full Time você poderá usar a sua experiencia de trabalho no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry). 
+
+É possivel após o contrato com empregador, o empregador renovar seu contrato através de um *LMIA*, mas esse processo se torna mais simples, uma vez que você já está trabalhando na empresa, o empregador apenas emitirá uma carta para o governo canadense e você poderá aplicar para o processo de renovação do seu permit.
+
+Caso o empregador não renove seu visto, também é possivel reaplicar para o *IEC Young Professional*, conseguir outra vaga e assim extender sua permanencia no Canadá.
+
+A principal desvantagem do *IEC Young Professionals* em relação ao *LMIA*, normalmente o sálario é abaixo do mercado e a posição que você se candidata normalmente são de estagiários. Um bom planejamento financeiro é fundamental para o seu processo até a residencia permanente dar certo. 
 
 
 
