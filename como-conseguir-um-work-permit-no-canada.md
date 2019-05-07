@@ -33,6 +33,8 @@ Caso o empregador não renove seu visto, também é possivel reaplicar para o *I
 
 A principal desvantagem do *IEC Young Professionals* em relação ao *LMIA*, normalmente o sálario é abaixo do mercado e a posição que você se candidata normalmente são de estagiários. Um bom planejamento financeiro é fundamental para o seu processo até a residencia permanente dar certo. 
 
+Vale lembrar que as vagas da AIESEC não são exclusiva do Brasil, e você estará concorrendo com pessoas do mundo inteiro.
+
 
 
 ## Quem pode aplicar para o Open work permit
