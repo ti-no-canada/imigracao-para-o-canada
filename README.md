@@ -134,17 +134,30 @@ www.youth.gc.ca
 *Most Common
 
 # Províncias e territórios do Canada
-* [Alberta](https://en.wikipedia.org/wiki/Alberta)  
+* [Alberta](https://en.wikipedia.org/wiki/Alberta) 
+  - Idioma predominante: Inglês
 * [British Columbia](https://en.wikipedia.org/wiki/British_Columbia)  
+  - Idioma predominante: Inglês
 * [Manitoba](https://en.wikipedia.org/wiki/Manitoba)  
-* [New Brunswick](https://en.wikipedia.org/wiki/New_Brunswick)  
+  - Idioma predominante: Inglês
+* [New Brunswick](https://en.wikipedia.org/wiki/New_Brunswick) 
+  - Idiomas: Inglês e Francês
 * [Newfoundland and Labrador](https://en.wikipedia.org/wiki/Newfoundland_and_Labrador)  
+  - Idioma predominante: Inglês
 * [Northwest Territories](https://en.wikipedia.org/wiki/Northwest_Territories)  
+  - Idioma: Inglês, francês e outras linguas.
 * [Nova Scotia](https://en.wikipedia.org/wiki/Nova_Scotia)  
+  - Idioma predominante: Inglês
 * [Nunavut](https://en.wikipedia.org/wiki/Nunavut)  
+  - Idioma: Inglês, francês e outras linguas.
 * [Ontario](https://en.wikipedia.org/wiki/Ontario)  
+  - Idioma predominante: Inglês
 * [Prince Edward Island](https://en.wikipedia.org/wiki/Prince_Edward_Island)  
-* [Quebec](https://en.wikipedia.org/wiki/Quebec)  
+  - Idioma: Inglês e Francês
+* [Quebec](https://en.wikipedia.org/wiki/Quebec) 
+  - Idioma predominante: Francês
 * [Saskatchewan](https://en.wikipedia.org/wiki/Saskatchewan)  
+  - Idioma predominante: Inglês
 * [Yukon](https://en.wikipedia.org/wiki/Yukon)
+  - Idioma: Inglês, francês e outras linguas.
 
