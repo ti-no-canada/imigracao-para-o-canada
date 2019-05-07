@@ -9,9 +9,10 @@
  * Open: Você tem direito de trabalho em qualquer lugar durante o período de validade do visto.
 
 ## Quem pode aplicar para o Closed work permit
+Normalmente esse permit está ligado a contratação de um estrangeiro por uma empresa.
 
 ### LMIA (Labour Market Impact Assessment) 
-Normalmente esse permit está ligado a contratação de um estrangeiro por uma empresa. Para uma empresa canadense poder contratar um estrangeiro, ela precisará de um documento chamado *LMIA (Labour Market Impact Assessment)*. Um *LMIA* é um processo de verificação do mercado de trabalho em que o *Employment and Social Development Canada (ESDC)* avalia se uma oferta de trabalho dada a um trabalhador estrangeiro não terá um impacto negativo sobre o mercado de trabalho canadense.
+Para uma empresa canadense poder contratar um estrangeiro, ela precisará de um documento chamado *LMIA (Labour Market Impact Assessment)*. Um *LMIA* é um processo de verificação do mercado de trabalho em que o *Employment and Social Development Canada (ESDC)* avalia se uma oferta de trabalho dada a um trabalhador estrangeiro não terá um impacto negativo sobre o mercado de trabalho canadense.
 A principal vantagem do *LMIA*, é que ele pode garantir até 200 pontos no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry) para o contratado.
 
 ### International Experience Canada (IEC): Young Professionals 
