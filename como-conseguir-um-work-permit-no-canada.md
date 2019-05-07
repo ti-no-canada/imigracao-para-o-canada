@@ -8,6 +8,21 @@
 
  * Open: Você tem direito de trabalho em qualquer lugar durante o período de validade do visto.
 
+## Quem pode aplicar para o Closed work permit
+Normalmente esse permit está ligado a contratação de um estrangeiro por uma empresa. Para uma empresa canadense poder contratar um estrangeiro, ela precisará de um documento chamado LMIA (Labour Market Impact Assessment). Um LMIA é um processo de verificação do mercado de trabalho em que o Employment and Social Development Canada (ESDC) avalia se uma oferta de trabalho dada a um trabalhador estrangeiro não terá um impacto negativo sobre o mercado de trabalho canadense.
+A principal vantagem do LMIA, é que ele pode garantir até 200 pontos no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry) para o contratado.
+
+Se voce tem idade entre 18 e 30 anos, também é possivel conseguir um Closed work permit através do processo [IEC Young Professionais](http://www.cic.gc.ca/english/work/iec/eligibility.asp) onde você aplica através de uma [RO (Recognized Organization)](http://www.cic.gc.ca/english/work/iec/ros.asp). A RO que atuam no Brasil com esse tipo de visto é a [AIESEC](aiesec.org).
+A AIESEC é uma instituição de intercambio cultural, você poderá se candidatar a vagas de centenas de países e ir trabalhar lá. 
+O processo da AIESEC consiste em: 
+1. Se candidatar as vagas para trabalho.
+2. Entrevista com membros da AIESEC.
+3. Entrevista com a empresa contratante.
+4. Ao ser contratado pela a empresa, você paga a taxa da Aiesec (em cada vaga tem o valor especifico).
+5. Receber a carta da AIESEC.
+6. Iniciar o processo de solicitação de visto de trabalho.
+
+
 
 ## Quem pode aplicar para o Open work permit
 
@@ -21,9 +36,11 @@ aplicada para residência permanente no Canadá
   * são refugiados, requerentes de refugiados, pessoas protegidas ou seus familiares
   * estão sob um pedido de remoção inexequível
   * são titulares de uma autorização de residente temporário
-  * é um jovem trabalhador participando de programas especiais
+  * é um jovem trabalhador participando de programas especiais (como o [IEC Work Holiday Visa](http://www.cic.gc.ca/english/work/iec/eligibility.asp))
   
  ### Saiba mais
+ [Você sabe o que é o Labour Market Impact Assessment (LMIA)?](https://www.immi-canada.com/voce-sabe-o-que-e-o-labour-market-impact-assessment-lmia/)
+ 
  [Who can apply for an open work permit?](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=177&top=17&fbclid=IwAR1RbUAwHkqTGU2N0wLXeFpgmBhKNwzZEh1ir0YP4wj7Zm_Hs-7xO3PFRxI)
  
  
