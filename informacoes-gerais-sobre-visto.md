@@ -21,6 +21,8 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
  * Closed: Você só pode trabalhar para a empresa que patrocinou sua imigração. Seu visto expira com uma média de 3 anos ou em caso de desligamento de um dos lados(Empresa ou Funcionário).
 
  * Open: Você tem direito de trabalho em qualquer lugar durante o período de validade do visto.
+ 
+ [Saiba Mais (Super recomendado)](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md)
 
 ## O que é Permanent Resident(PR)?
 É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá(Ex. EUA) e seu status no país é de imigrante.
