@@ -15,6 +15,8 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Informações sobre visto](https://github.com/ti-no-canada/Geral/blob/master/informacoes-gerais-sobre-visto.md)
 
+[Como conseguir um Work Permit no Canadá](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md)
+
 [Equivalência de diploma no Canadá (Validação do diploma)](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md)
 
 [Estudo de Inglês e/ou Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/dicas-de-idiomas.md)
