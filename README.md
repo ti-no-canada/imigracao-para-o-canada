@@ -8,6 +8,8 @@ Repositório do grupo no telegram TI no Canada
 
 [Link oficial do GitHub](https://github.com/ti-no-canada)
 
+[Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para eventuais palavras, siglas que você não conhecer, você pode encontrar aqui.
+
 Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no canadá? Ou dúvida sobre seu processo de imigração, 
 [crie uma issue](https://github.com/ti-no-canada/Geral/issues/new) e coloque uma label relacionada e/ou divulgue no [grupo oficial no Telegram](https://t.me/tinocanada).
 
