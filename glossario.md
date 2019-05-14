@@ -2,8 +2,14 @@
 
 Algumas siglas importantes que eventualmente você pode encontrar no [grupo de TI no Canadá](https://t.me/tinocanada) como no [repositório](https://github.com/ti-no-canada)
 
+### C
+
+**CLB**: O *Canadian Language Benchmark* é uma referencia do governo canadense para determinar seu nivel de compreensão e uso do idioma, ele é calculado baseado na sua nota no IELTS/CELPIP.
+
+[Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)
+
 ### E
-**EE**: Express Entry, processo do governo canadense para imigração. 
+**EE**: *Express Entry*, processo do governo canadense para imigração. 
 
 [Saiba mais](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry).
 
