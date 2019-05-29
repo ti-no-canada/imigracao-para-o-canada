@@ -29,6 +29,12 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md#lmia-labour-market-impact-assessment).
 
+### O
+**OWP**: *Open Work Permit* é uma permissão de trabalho onde você pode trabalhar para qualquer empresa canadense.
+
+### P
+**PR**: *Permanent Resident* É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA) e seu status no país é de imigrante.
+
 ### W
 **Work Permit**: Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
 
