@@ -38,7 +38,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 [Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
 
-# Sites de busca de emprego
+# Como anda o mercado de TI no Canadá? Lista de sites de busca de empregos no Canadá
 * [BC Jobs](https://www.bcjobs.ca)
 * [Careerbeacon](http://www.careerbeacon.com)
 * [CareerJet CA](http://www.careerjet.ca)
