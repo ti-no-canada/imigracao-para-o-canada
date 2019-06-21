@@ -26,6 +26,8 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 # Custo de vida
 [Calcular imposto de renda do Canadá](https://www.ey.com/ca/en/services/tax/tax-calculators-2018-personal-tax)
 
+[Outro site para calcular imposto de renda](https://neuvoo.ca/tax-calculator/)
+
 [Calcular custo de vida no Canadá](https://www.numbeo.com/cost-of-living/in/Toronto) 
 
 # Sites do Governo Canadense
