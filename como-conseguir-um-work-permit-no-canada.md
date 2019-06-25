@@ -54,7 +54,7 @@ aplicada para residência permanente no Canadá
   
 ### International Experience Canada (IEC): Work Holiday Visa
 
-O Working Holidays (WHV) é uma das três modalidades do International Experience Canada (IEC) , para pessoas de países que possuem o Youth Mobility Agreement (YMA). O Brasil não faz parte do YMA, porém é possível requisitar através de uma Recognized Organization (RO) ou empresas que as representem, como World Study e Encubate.
+O Working Holidays (WHV) é uma das três modalidades do International Experience Canada (IEC) , para pessoas de países que possuem o Youth Mobility Agreement (YMA). **O Brasil não faz parte do YMA**, porém é possível requisitar através de uma Recognized Organization (RO) ou empresas que as representem, como World Study e Encubate.
 
 Mesmo o Brasil não fazendo parte dos países homologados, é possível aplicar para esse visto por uma RO Canadense e empresas parceiras. Informação oficial.
 
