@@ -7,7 +7,7 @@
 Sempre. Em qualquer tipo de entrada e saída do país é necessário portar um visto ou um documento oficial(Passaporte Canadense/Americano ou cartão de residência permanente).
 
 ## Mesmo para visita?
-Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país nos últimos 10 anos, ou que tenham um visto Americano de visitante válido, poderão entrar sem a necessidade do mesmo. Será apenas preciso pedir uma autorização de entrada online, onde a mesma pode ser negada se necessário. [Saiba mais](http://www.cic.gc.ca/english/helpcentre/answer.asp?q=1097&t=16).
+Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país nos últimos 10 anos, ou que tenham um visto Americano de visitante válido, poderão entrar sem a necessidade do mesmo. Será apenas preciso pedir uma autorização de entrada online, onde a mesma pode ser negada se necessário. [Saiba mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?q=1097&t=16).
 
 ## Quais são os vistos que permitem trabalho?
 - Study Permit em caso de college publico, voce podera trabalhar ate 20 horas semanais.
@@ -30,9 +30,9 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
 ## O que é Express Entry?
 É o processo eletrônico de avaliação para residência permanente mantido pelo governo Canadense, onde usa um sistema de pontos que leva em consideração seu [nivel de ensino](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md), sua fluência no idioma (inglês e/ou francês), sua experiência profissional.
   * Para comprovar sua fluência no idioma **inglês**, você irá precisar fazer um teste que seja aceito para o governo canadense. O governo canadense aceita o [CELPIP](https://www.celpip.ca) e o [IELTS](https://www.ielts.org).
-  * Você pode usar a ferramenta do governo canadense [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) para simular sua pontuação para a imigração para o Canadá.
+  * Você pode usar a ferramenta do governo canadense [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) para simular sua pontuação para a imigração para o Canadá.
   * Para ganhar pontos de experiência profissional no Express Entry, você vai precisar ter trabalhado em profissões de **NOC (National Occupational Classification)** ***0***, ***A*** ou ***B***, [Para descobrir qual o seu NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).
-  * Para se qualificar como [trabalhador qualificado](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html), também é exigido uma proficiência de idioma de **CLB (Canadian Language Benchmark)** de nota 7, seu CLB é calculado baseado na sua nota no **IELTS**/**CELPIP**, você pode consultar a tabela [Language test equivalency charts](http://www.cic.gc.ca/english/resources/tools/language/charts.asp) para ter mais informações sobre o assunto.
+  * Para se qualificar como [trabalhador qualificado](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html), também é exigido uma proficiência de idioma de **CLB (Canadian Language Benchmark)** de nota 7, seu CLB é calculado baseado na sua nota no **IELTS**/**CELPIP**, você pode consultar a tabela [Language test equivalency charts](https://www.cic.gc.ca/english/resources/tools/language/charts.asp) para ter mais informações sobre o assunto.
  * A cada duas semanas o governo canadense faz uma rodada de convite para as pessoas que estão cadastradas no programa e que atingiram a pontuação exigida na rodada de convites, e essas pessoas recebem o **ITA (Invitation to apply)** para comprovar aquilo que foi informado nos formulários do governo no momento do seu cadastro. Para consultar as pontuações por rodada, você pode consultar [Express Entry rounds of invitations](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html).
  * O Governo canadense também exige que você mostre que você tenha uma quantidade de dinheiro para aplicar para o programa. Essa base, segundo o governo, seria suficiente para você conseguir sobreviver no canadá durante 3 meses até você conseguir um emprego. Segue a tabela abaixo sobre os valores atuais (03/04/2019), para consultar a tabela atualizada você pode [clicar aqui](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html). 
 
@@ -53,13 +53,13 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
 
 
 ### Mais informações
-[Imigração Canadá Express Entry](http://www.canadaparabrasileiros.com/blog/2015/01/imigracao-canada-express-entry/)
+[Imigração Canadá Express Entry](https://www.canadaparabrasileiros.com/blog/2015/01/imigracao-canada-express-entry/)
 
 [Eligibility to apply as a Federal Skilled Worker (Express Entry)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html)
 
 [Six selection factors – Federal Skilled Worker Program (Express Entry)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html)
 
-[What is a Labour Market Impact Assessment?](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=163&top=17)
+[What is a Labour Market Impact Assessment?](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=163&top=17)
 
 
 ## Qual é o tempo médio de espera para cada processo?
@@ -75,7 +75,7 @@ Voce pode consultar a tabela inteira no [link do site oficial](https://www.canad
 
 
 ## É preciso saber Francês?
-Não na maior parte do país. Apenas é necessário para imigrações na província de Québec, onde o processo é diferente do restante do país. Saber Francês conta pontos no programa [Express Entry](http://www.cic.gc.ca/english/express-entry/).
+Não na maior parte do país. Apenas é necessário para imigrações na província de Québec, onde o processo é diferente do restante do país. Saber Francês conta pontos no programa [Express Entry](https://www.cic.gc.ca/english/express-entry/).
 
 ## E quanto ao Ensino Superior?
 Em T.I. não é necessário se você tiver mais de 3 anos de experiência comprovada(carta de recomendação) e equivalente com a vaga de trabalho. Tenha em mente que graduação sempre conta mais pontos no processo de seleção do governo. Corporações(bancos e etc.) normalmente só imigram pessoas graduadas.
@@ -84,11 +84,11 @@ Em T.I. não é necessário se você tiver mais de 3 anos de experiência compro
 Para saber mais sobre o processo clique [aqui](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md)
 
 ## Qual é o salário mínimo?
-O salário mínino é [definido por Província](http://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx).
+O salário mínino é [definido por Província](https://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx).
 Existe um [site oficial do governo para consultar salarios (por profissão)](https://www.jobbank.gc.ca/explorecareers).
 
 ## É cobrado imposto sobre o salário?
-Sim se você ganha acima de $44.000cad ano. Varia por província e salário anual. [Saiba mais](http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html).
+Sim se você ganha acima de $44.000cad ano. Varia por província e salário anual. [Saiba mais](https://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html).
 
 ## É necessário declarar imposto de renda?
 Sim. Normalmente no mês de Março e Abril.
