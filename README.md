@@ -51,17 +51,16 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 * [Work BC](https://www.workbc.ca)
 * [Workintech CA](https://www.workintech.ca)
 * [Workopolis](https://www.workopolis.com) *
-* [careerbuilder](www.careerbuilder.ca)
-
-* [6figures](www.6figures.com)
-* [acsess](www.acsess.org)
-* [adecco](www.adecco.ca)
-* [allstarjobs](www.allstarjobs.ca)
-* [auto-jobs](www.auto-jobs.ca)
-* [bestjobsca](www.bestjobsca.com)
-* [bridges](www.bridges.com)
-* [linkedin](www.ca.linkedin.com) *
-* [canadainfonet](www.canadainfonet.org)
+* [careerbuilder](https://www.careerbuilder.ca)
+* [6figures](https://www.6figures.com)
+* [acsess](https://www.acsess.org)
+* [adecco](https://www.adecco.ca)
+* [allstarjobs](https://www.allstarjobs.ca)
+* [auto-jobs](https://www.auto-jobs.ca)
+* [bestjobsca](https://www.bestjobsca.com)
+* [bridges](https://www.bridges.com)
+* [linkedin](https://www.ca.linkedin.com) *
+* [canadainfonet](https://www.canadainfonet.org)
 
 <!-- www.canadajobexpo.com
 www.canadajobs.com
@@ -251,7 +250,7 @@ arquitetura.
 * [FREELANCER](https://www.freelancer.com) 
   - O nome já diz bastante
  
-* [DOG Hero](www.doghero.com.br) 
+* [DOG Hero](https://www.doghero.com.br)
   - Hospede um cãozinho, passeie com outros...
  
 * [OnYou](https://www.onyou.com.br) 
