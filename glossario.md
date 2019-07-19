@@ -40,5 +40,8 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 ### W
 **Work Permit**: Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
 
+**WP**: Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
+
+
 [Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada)
 
