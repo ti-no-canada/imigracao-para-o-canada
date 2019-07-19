@@ -37,10 +37,14 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 ### P
 **PR**: *Permanent Resident* É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA) e seu status no país é de imigrante.
 
+### S
+
+**SP**: Study Permit; permissão de estudo, geralmente você recebe essa permissão quando você aplica para estudar em algum college, essa permissão lhe dar direito de trabalhar 20 horas fora do campos da universidade e 20 horas para trabalhar dentro do campus.
+
 ### W
 **Work Permit**: Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
 
-**WP**: Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
+**WP**: Work Permit; Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
 
 
 [Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada)
