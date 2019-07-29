@@ -36,7 +36,7 @@ A principal desvantagem do *IEC Young Professionals* em relação ao *LMIA*, nor
 
 Vale lembrar que as vagas da AIESEC não são exclusiva do Brasil, e você estará concorrendo com pessoas do mundo inteiro.
 
-Outro ponto importante é que com o *IEC Young Professionals* você fica isento do LMIA quando aplicar para a residencia permanente. Basta o empregador fazer uma carta mencionando o tempo que você trabalhou e o quanto seu trabalho foi significante para a empresa, mostrando as atividades exercida, o tempo de trabalho e o salario recebido. Dessa maneira você entra na categoria ["Canadian Interests"](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/offer-employment/lmia-exempt.html) e recebe + 50 pontos (caso seu NOC for A ou B) no Express Entry sem precisar de um LMIA. Um dica é mencionar na carta essa regra que aplica para você.
+Outro ponto importante é que com o *IEC Young Professionals* você fica isento do LMIA quando aplicar para a residencia permanente. Basta o empregador fazer uma carta mencionando o NOC, o tempo que você trabalhou e o quanto seu trabalho foi significante para a empresa, mostrando as atividades exercida, o tempo de trabalho e o salario recebido. Dessa maneira você entra na categoria ["Canadian Interests"](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/offer-employment/lmia-exempt.html) e recebe + 50 pontos (caso seu NOC for A ou B) no Express Entry sem precisar de um LMIA. Uma dica é mencionar na carta essa regra que aplica para você.
 
 
 ## Quem pode aplicar para o Open work permit
