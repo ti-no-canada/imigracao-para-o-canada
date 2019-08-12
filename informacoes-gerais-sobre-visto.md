@@ -97,4 +97,4 @@ Sim. Normalmente no mês de Março e Abril.
 37.5 - 40 horas semanais. 7.5 - 8hrs diária.
 
 ## Quanto tempo de férias?
-Em média 10 dias por ano, onde feriado e fim de semana não contam. Algumas empresas deixam a negociação de férias em aberto ou até não limitam(sim! Isso existe!).
+Em média 10 dias úteis por ano e 5 sick days (dias que você pode ficar doente e faltar o trabalho por ano sem ter perda de salário, normalmente você não precisa comprovar nada para usar esses dias). Algumas empresas deixam a negociação de férias em aberto ou até não limitam (sim! Isso existe!).
