@@ -26,7 +26,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 **FSW**: *Federal Skilled Worker* Este programa é para trabalhadores qualificados com experiência de trabalho estrangeiro que querem imigrar para o Canadá permanentemente.
 
-[Saiba Mais] (https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html)
+[Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html)
 
 ### I 
 
