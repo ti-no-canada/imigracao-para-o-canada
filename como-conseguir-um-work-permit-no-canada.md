@@ -81,3 +81,7 @@ O visto recebido através do Work Holiday Visa é um **OWP – Open Work Permit*
  
  
  [Types of work permits for your situation](https://www.cic.gc.ca/english/work/apply-who-permit-result.asp?q1_options=1i&q2_options=2d&fbclid=IwAR2qqRq46f0C6RDOw1VG_PAlb-6L6V2V2GI1VMFGvy8fWhg7v4GzPGkklYg)
+ 
+ 
+ 
+ Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
