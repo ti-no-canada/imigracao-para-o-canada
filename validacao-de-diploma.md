@@ -44,3 +44,6 @@ CANADA
 * [WES - Documentos necessário para validaçao de diploma - Em Português](https://applications.wes.org/required/brazil.asp?ctry=ca)
 * [Equivalência de diploma via WES](https://vainevar.wordpress.com/2017/04/27/equivalencia-de-diploma-via-wes/)
 
+
+---
+Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
