@@ -4,6 +4,10 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 ### C
 
+**CEC**: *Canadian Experience Class* é para trabalhadores qualificados que têm experiência de trabalho canadense e querem se tornar residentes permanentes.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html)
+
 **CELPIP**: O *Canadian English Language Proficiency Index Program* é um dos testes de inglês aceito pela imigração canadense.
 [Saiba Mais](https://www.celpip.ca)
 
@@ -17,6 +21,12 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 **EIMT**: d'étude d'impact sur le marché du travail, basicamente é o **LMIA** da provincia do Quebec. 
 
 [Saiba mais](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry).
+
+### F
+
+**FSW**: *Federal Skilled Worker* Este programa é para trabalhadores qualificados com experiência de trabalho estrangeiro que querem imigrar para o Canadá permanentemente.
+
+[Saiba Mais] (https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html)
 
 ### I 
 
