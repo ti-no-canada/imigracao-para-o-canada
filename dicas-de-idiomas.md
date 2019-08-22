@@ -101,3 +101,6 @@ Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhor
 • [Lexique FLE (A1 à B1)](https://lexiquefle.free.fr/)
 
 • [Jeu de l'oie (A1 à B1+)](https://www.regles-de-jeux)
+
+---
+Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
