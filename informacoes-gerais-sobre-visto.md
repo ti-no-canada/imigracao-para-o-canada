@@ -98,3 +98,8 @@ Sim. Normalmente no mês de Março e Abril.
 
 ## Quanto tempo de férias?
 Em média 10 dias úteis por ano e 5 sick days (dias que você pode ficar doente e faltar o trabalho por ano sem ter perda de salário, normalmente você não precisa comprovar nada para usar esses dias). Algumas empresas deixam a negociação de férias em aberto ou até não limitam (sim! Isso existe!).
+
+
+
+---
+Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
