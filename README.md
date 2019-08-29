@@ -141,43 +141,43 @@ www.youth.gc.ca
 # Províncias e territórios do Canada
 * [Alberta](https://en.wikipedia.org/wiki/Alberta) 
   - Idioma predominante: Inglês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Alberta/average-alberta-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Alberta/average-alberta-weather.php) 
 * [British Columbia](https://en.wikipedia.org/wiki/British_Columbia)  
   - Idioma predominante: Inglês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/British-Columbia/average-british-columbia-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/British-Columbia/average-british-columbia-weather.php) 
 * [Manitoba](https://en.wikipedia.org/wiki/Manitoba)  
   - Idioma predominante: Inglês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Manitoba/average-manitoba-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Manitoba/average-manitoba-weather.php) 
 * [New Brunswick](https://en.wikipedia.org/wiki/New_Brunswick) 
   - Idiomas: Inglês e Francês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/New-Brunswick/average-new-brunswick-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/New-Brunswick/average-new-brunswick-weather.php) 
 * [Newfoundland and Labrador](https://en.wikipedia.org/wiki/Newfoundland_and_Labrador)  
   - Idioma predominante: Inglês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Newfoundland-Labrador/average-newfoundland-labrador-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Newfoundland-Labrador/average-newfoundland-labrador-weather.php) 
 * [Northwest Territories](https://en.wikipedia.org/wiki/Northwest_Territories)  
   - Idioma: Inglês, francês e outras linguas.
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Northwest-Territories/average-northwest-territories-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Northwest-Territories/average-northwest-territories-weather.php) 
 * [Nova Scotia](https://en.wikipedia.org/wiki/Nova_Scotia)  
   - Idioma predominante: Inglês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Nova-Scotia/average-nova-scotia-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Nova-Scotia/average-nova-scotia-weather.php) 
 * [Nunavut](https://en.wikipedia.org/wiki/Nunavut)  
   - Idioma: Inglês, francês e outras linguas.
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Nunavut/average-nunavut-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Nunavut/average-nunavut-weather.php) 
 * [Ontario](https://en.wikipedia.org/wiki/Ontario)  
   - Idioma predominante: Inglês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Ontario/average-ontario-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Ontario/average-ontario-weather.php) 
 * [Prince Edward Island](https://en.wikipedia.org/wiki/Prince_Edward_Island)  
   - Idioma: Inglês e Francês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Prince-Edward-Island/average-prince-edward-island-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Prince-Edward-Island/average-prince-edward-island-weather.php) 
 * [Quebec](https://en.wikipedia.org/wiki/Quebec) 
   - Idioma predominante: Francês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Quebec/average-quebec-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Quebec/average-quebec-weather.php) 
 * [Saskatchewan](https://en.wikipedia.org/wiki/Saskatchewan)  
   - Idioma predominante: Inglês
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Saskatchewan/average-saskatchewan-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Saskatchewan/average-saskatchewan-weather.php) 
 * [Yukon](https://en.wikipedia.org/wiki/Yukon)
   - Idioma: Inglês, francês e outras linguas.
-  - [Informações sobre clima e temperatura média durante o ano](https://www.currentresults.com/Weather/Canada/Yukon/average-yukon-weather.php) 
+  - [Clima](https://www.currentresults.com/Weather/Canada/Yukon/average-yukon-weather.php) 
 
 # Sites com possibilidades de trabalho remoto em tempo integral ou freelance para ajudar nos planos financeiros de imigração
 
