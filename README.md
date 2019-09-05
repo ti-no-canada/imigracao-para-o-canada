@@ -30,7 +30,9 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Calcular custo de vida no Canadá](https://www.numbeo.com/cost-of-living/in/Toronto) 
 
-# Sites do Governo Canadense
+# Governo Canadense
+
+### Sites do governo
 [Previsão do tempo e dados históricos sobre o Clima](https://weather.gc.ca/canada_e.html)
 
 [Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
@@ -38,6 +40,26 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 [Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
 [Statistics Canada](https://www.statcan.gc.ca/eng/start)
+
+### Aplicativos do úteis para imigração
+
+#### CanPR *(Aplicativo de terceiros)*
+
+CanPR é um aplicativo que fornece informações sobre imigração e um passo-a-passo dos processos mais famosos para imigração. Com ele também é possivel ver os draw do [express entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry)
+ * [Android](https://play.google.com/store/apps/details?id=maaz.canpr.myapplication&hl=en_CA)
+ * [IOS](https://apps.apple.com/ca/app/canpr/id1447024170)
+
+#### CBSA CanBorder  *(Aplicativo do governo canadense)*
+
+O aplicativo CanBorder fornece tempos de espera estimados em determinados portos de entrada no Canadá e nos Estados Unidos. Ideal para se preparar para fazer o FlagPole. Ele tá disponivel para:
+ * [Android](https://play.google.com/store/apps/details?id=ca.gc.cbsa.canborder.bwt&hl=en_CA)  
+ * [IOS](https://apps.apple.com/ca/app/cbsa-canborder/id1110491634)
+
+#### CanBorder – eDeclaration *(Aplicativo do governo canadense)*
+
+Baixe o aplicativo móvel eDeclaration para economizar tempo na chegada ao Canadá. O uso da declaração eletrônica é rápido, simples e seguro.
+ * [Android](https://play.google.com/store/apps/details?id=ca.gc.cbsa.edeclaration&hl=en_CA)
+ * [IOS](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
 
 
 # Como anda o mercado de TI no Canadá? Lista de sites de busca de empregos no Canadá
