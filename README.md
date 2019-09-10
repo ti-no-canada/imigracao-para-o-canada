@@ -41,7 +41,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
-### Aplicativos do úteis para imigração
+### Aplicativos úteis para imigração
 
 #### CanPR *(Aplicativo de terceiros)*
 
