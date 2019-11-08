@@ -28,7 +28,7 @@ O processo da AIESEC consiste em:
 
 A Vantagem do *IEC Young Professionals* é que o empregador não precisa emitir um LMIA para lhe contratar (processo que chega a levar 2 meses). Se você conseguir uma vaga Full Time você poderá usar a sua experiencia de trabalho no processo de imigração pelo [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry). 
 
-É possivel após o contrato com empregador, o empregador renovar seu contrato através de um *LMIA*, mas esse processo se torna mais simples, uma vez que você já está trabalhando na empresa, o empregador apenas emitirá uma carta para o governo canadense e você poderá aplicar para o processo de renovação do seu permit.
+É possivel após o contrato com empregador, o empregador renovar seu contrato através de outro contrato IEC Young Professinal, desa vez não será obrigatório estar matriculado, e seu contrato pode extender por até 1 ano. Ou até mesmo através de *LMIA*, mas esse processo se torna mais simples, uma vez que você já está trabalhando na empresa, o empregador apenas emitirá uma carta para o governo canadense e você poderá aplicar para o processo de renovação do seu permit por até 2 anos.
 
 Caso o empregador não renove seu visto, também é possivel reaplicar para o *IEC Young Professional*, conseguir outra vaga e assim extender sua permanencia no Canadá.
 
