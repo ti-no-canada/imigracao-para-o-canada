@@ -1,5 +1,12 @@
 # Equivalência de diploma no Canadá (Validação do diploma)
 
+# Atenção, Regra geral
+- Se você tiver um titulo de **mestrado**, ou **doutorado** só precisa fazer a equivalencia dele.
+- Se você tiver um bacharel de 3 anos ou mais e uma pós graduação, isso conta como 2 diplomas para a **imigração federal e provinciais**.
+- Cursos técnologo podem ser validados como **Diploma 3 anos**, nesse caso, seu diploma entra com o mesmo peso de um titulo bacharel para a **imigração federal**.
+- Se você tiver um tecnologo de validados como **Diploma 2 anos** e uma pós graduação, isso **não conta** como 2 diplomas para a **imigração Federal**.
+- Cursos técnicos **não contam** para a **imigração federal**.
+
 ### Passo a passo
 Para validar o diploma no Canadá, você terá que usar uma das instituíçoes que o governo aceita.
 Esse processo é sobre o [WES](https://www.wes.org/ca/).
@@ -43,7 +50,7 @@ CANADA
 * [WES - Documentos necessário para validaçao de diploma - Em inglês](https://www.wes.org/ca/required-documents/)
 * [WES - Documentos necessário para validaçao de diploma - Em Português](https://applications.wes.org/required/brazil.asp?ctry=ca)
 * [Equivalência de diploma via WES](https://vainevar.wordpress.com/2017/04/27/equivalencia-de-diploma-via-wes/)
-
+* [O que diz o governo sobre quais diplomas você tem que validar](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/who.html)
 
 ---
 Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
