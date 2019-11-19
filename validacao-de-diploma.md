@@ -1,7 +1,7 @@
 # Equivalência de diploma no Canadá (Validação do diploma)
 
 # Atenção, Regra geral
-- Se você tiver um titulo de **mestrado**, e/ou **doutorado** só precisa fazer a equivalencia de um deles (de preferencia o de mais peso).
+- Se você tiver um titulo de **mestrado**, e/ou **doutorado** só pode fazer a equivalencia de um deles (de preferencia o de maior grau), mesmo você tendo vários outros diplomas, a regra de 2 diplomas não se aplica a esse caso, pois você ja ganha mais pontos do que alguém que tenha 2 diplomas.
 - Se você tiver um bacharel de 3 anos ou mais e uma pós graduação validada como diploma de 1 ano, isso conta como 2 diplomas para a **imigração federal e provinciais**.
 - Cursos técnologo podem ser validados como **Diploma 3 anos**, nesse caso, seu diploma entra com o mesmo peso de um titulo bacharel para a **imigração federal**.
 - Se você tiver um tecnologo de validados como **Diploma 2 anos** e uma pós graduação validada como diploma de 1 ano, isso **não conta** como 2 diplomas para a **imigração Federal**.
