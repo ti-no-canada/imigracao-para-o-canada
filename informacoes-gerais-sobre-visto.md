@@ -34,18 +34,18 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
   * Para ganhar pontos de experiência profissional no Express Entry, você vai precisar ter trabalhado em profissões de **NOC (National Occupational Classification)** ***0***, ***A*** ou ***B***, [Para descobrir qual o seu NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).
   * Para se qualificar como [trabalhador qualificado](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html), também é exigido uma proficiência de idioma de **CLB (Canadian Language Benchmark)** de nota 7, seu CLB é calculado baseado na sua nota no **IELTS**/**CELPIP**, você pode consultar a tabela [Language test equivalency charts](https://www.cic.gc.ca/english/resources/tools/language/charts.asp) para ter mais informações sobre o assunto.
  * A cada duas semanas o governo canadense faz uma rodada de convite para as pessoas que estão cadastradas no programa e que atingiram a pontuação exigida na rodada de convites, e essas pessoas recebem o **ITA (Invitation to apply)** para comprovar aquilo que foi informado nos formulários do governo no momento do seu cadastro. Para consultar as pontuações por rodada, você pode consultar [Express Entry rounds of invitations](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html).
- * O Governo canadense também exige que você mostre que você tenha uma quantidade de dinheiro para aplicar para o programa. Essa base, segundo o governo, seria suficiente para você conseguir sobreviver no canadá durante 3 meses até você conseguir um emprego. Segue a tabela abaixo sobre os valores atuais (03/04/2019), para consultar a tabela atualizada você pode [clicar aqui](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html). 
+ * O Governo canadense também exige que você mostre que você tenha uma quantidade de dinheiro para aplicar para o programa. Essa base, segundo o governo, seria suficiente para você conseguir sobreviver no canadá durante 3 meses até você conseguir um emprego. Segue a tabela abaixo sobre os valores atuais (02/01/2020), para consultar a tabela atualizada você pode [clicar aqui](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html). 
 
 | Número de membos na família |	Quantidade de dinheiro requerido (em dolares canadenses) |
 | --------------------------- | -------------------------------------------------------- |
-| 1	| $12,669 |
-| 2	| $15,772 |
-| 3	| $19,390 |
-| 4	| $23,542 |
-| 5	| $26,701 |
-| 6	| $30,114 |
-| 7	| $33,528 |
-| Para cada membro adicional na família	| $3,414 |
+| 1	| $12,960 |
+| 2	| $16,135 |
+| 3	| $19,836 |
+| 4	| $24,083 |
+| 5	| $27,315 |
+| 6	| $30,806 |
+| 7	| $34,299 |
+| Para cada membro adicional na família	| $3,492 |
 
 * O governo canadense não exige que você prove que tenha esse dinheiro em dois casos:
   - Se você está se inscrevendo na Canadian Experience Class. 
