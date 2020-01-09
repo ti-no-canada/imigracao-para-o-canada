@@ -1,5 +1,19 @@
 # Como conseguir um work permit no Canadá
 
+## Perguntas Frequentes
+1. Posso trabalhar no canadá somente com o visto de turista (ou ETA)? 
+
+**Não**.
+
+2. Preciso fazer prova de proficiência de inglês/francês para aplicar para as vagas canadenses?
+
+**Oficialmente não**, a imigração não coloca esse requisito quando você aplica para um work permit, porém uma empresa canadense pode exigir alguma prova de proficiência no seu processo de contratação, mas isso **Não é comum de acontecer**.
+
+3. Posso mandar o curriculo em português para as vagas canadenses?
+
+**Não é recomendavel**, as linguas oficiais do canadá são inglês e francês, para aumentar suas chance mande o curriculo na lingua oficial da provincia da empresa, em geral, Quebec e algumas provincias do atlântico valorizam o Francês, todas as outras provincias valorizam o inglês.
+
+
 ### Como que é Work permit?
 É um visto de trabalho **temporário** no país. Existem 2 tipos de work permit, o aberto (Open Work Permit) e o fechado (Closed Work Permit).
 
