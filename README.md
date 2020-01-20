@@ -33,9 +33,11 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 # Governo Canadense
 
 ### Sites do governo
-[Previsão do tempo e dados históricos sobre o Clima](https://weather.gc.ca/canada_e.html)
-
 [Site oficial da Imigração para o Canadá](https://www.canada.ca/en/services/immigration-citizenship.html)
+
+[VFS Global Brazil - Biometria, aplicação presencial, envio de passaporte, etc...](https://www.vfsglobal.ca/canada/brazil/index.html)
+
+[Previsão do tempo e dados históricos sobre o Clima](https://weather.gc.ca/canada_e.html)
 
 [Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
