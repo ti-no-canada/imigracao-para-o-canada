@@ -24,6 +24,8 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 [Estudo de Inglês e/ou Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/dicas-de-idiomas.md)
 
 # Custo de vida
+[Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
+
 [Calcular imposto de renda do Canadá](https://www.ey.com/ca/en/services/tax/tax-calculators-2018-personal-tax)
 
 [Outro site para calcular imposto de renda](https://neuvoo.ca/tax-calculator/)
@@ -38,8 +40,6 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 [VFS Global Brazil - Biometria, aplicação presencial, envio de passaporte, etc...](https://www.vfsglobal.ca/canada/brazil/index.html)
 
 [Previsão do tempo e dados históricos sobre o Clima](https://weather.gc.ca/canada_e.html)
-
-[Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
 [Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
