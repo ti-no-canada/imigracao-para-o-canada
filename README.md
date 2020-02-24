@@ -26,6 +26,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 
 # Sites de busca de emprego
+* [Veterry](https://www.vettery.com/)
 * [BC Jobs](https://www.bcjobs.ca)
 * [Careerbeacon](http://www.careerbeacon.com)
 * [CareerJet CA](http://www.careerjet.ca)
