@@ -3,6 +3,7 @@ Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhor
 
 ## Inglês
 
+### Para melhorar / Aprimorar o inglês
 1. [Duolingo - Ferramenta para aprender diversas linguas.](https://pt.duolingo.com)
 2. [quizlet - Ferramentas com vários puzzles para ajudar a aprender o idioma, também usa o sistema de repetição espaçada.](https://quizlet.com)
 3. [Anki - Software para usar o Sistema de Repetição Espaçada](https://www.ankiapp.com)
@@ -10,6 +11,16 @@ Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhor
 5. [English Live - Serviço para aprender inglês com conteúdo online, aulas em grupos e aulas particulares com professores nativos](https://englishlive.ef.com/pt-br/)
 6. [Mairo Vergara - Aprender inglês com vídeos, ensino do Sistema de Repetição Espaçada e frases para uso desse metódo](https://www.mairovergara.com)
 7. [EngVid - Site com milhares de videos do youtube onde diferentes professores nativos ensinam o inglês para você](https://www.engvid.com)
+8. [British Council] (https://learnenglish.britishcouncil.org)
+
+### Estudar para teste de proficiência (CELPIP/IELTS)
+
+#### YouTube
+1. [Mad English TV (CELPIP/IELTS/VOCABULARY/TIPS/CANADIAN LIFE)](https://www.youtube.com/channel/UCUeS2Jmgiu0OFaTeRqkuXtw).
+2. [Presto English Learning (CELPIP/IELTS/VOCABULARY](https://www.youtube.com/c/PrestoEnglish).
+3. [CELPIP Free Resources](https://www.celpip.ca/prepare-for-celpip/free-resources/).
+4. [CELPIP Webnar and Workshop](https://www.celpip.ca/prepare-for-celpip/webinars-workshops/).
+
 
 ## Francês
 ### Tudo o que você precisa para um estudo independente da língua francesa.
