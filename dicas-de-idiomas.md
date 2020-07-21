@@ -11,7 +11,7 @@ Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhor
 5. [English Live - Serviço para aprender inglês com conteúdo online, aulas em grupos e aulas particulares com professores nativos](https://englishlive.ef.com/pt-br/)
 6. [Mairo Vergara - Aprender inglês com vídeos, ensino do Sistema de Repetição Espaçada e frases para uso desse metódo](https://www.mairovergara.com)
 7. [EngVid - Site com milhares de videos do youtube onde diferentes professores nativos ensinam o inglês para você](https://www.engvid.com)
-8. [British Council] (https://learnenglish.britishcouncil.org)
+8. [British Council](https://learnenglish.britishcouncil.org)
 
 ### Estudar para teste de proficiência (CELPIP/IELTS)
 
