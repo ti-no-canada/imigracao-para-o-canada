@@ -1,5 +1,6 @@
 # Dicas de idiomas
-Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhorar seu inglês ou francês.
+A maioria dos processos de imigração exigem que você faça um teste de proficiência. Com a nota do teste de idioma você saberá o seu [CLB (Language test equivalency charts)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html). Com teste em mãos, você poderá entrar em grande partes dos programas de imigração.
+Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar a melhorar seu inglês e/ou francês.
 
 ## Inglês
 
@@ -15,12 +16,18 @@ Aqui você encontra todos os links, aplicativos, sites, para lhe ajudar a melhor
 
 ### Estudar para teste de proficiência (CELPIP/IELTS)
 
+### CELPIP
+
+#### Materiais
+1. [CELPIP Free Resources](https://www.celpip.ca/prepare-for-celpip/free-resources/).
+2. [CELPIP Webnar and Workshop](https://www.celpip.ca/prepare-for-celpip/webinars-workshops/).
+3. [CELPIP Free Sample Test](https://secure.paragontesting.ca/InstructionalProducts/FreeOnlineSampleTest/FOST)
+
 #### YouTube
 1. [Mad English TV (CELPIP/IELTS/VOCABULARY/TIPS/CANADIAN LIFE)](https://www.youtube.com/channel/UCUeS2Jmgiu0OFaTeRqkuXtw).
 2. [Presto English Learning (CELPIP/IELTS/VOCABULARY](https://www.youtube.com/c/PrestoEnglish).
-3. [CELPIP Free Resources](https://www.celpip.ca/prepare-for-celpip/free-resources/).
-4. [CELPIP Webnar and Workshop](https://www.celpip.ca/prepare-for-celpip/webinars-workshops/).
 
+### IELTS
 
 ## Francês
 ### Tudo o que você precisa para um estudo independente da língua francesa.
