@@ -10,7 +10,7 @@ Sempre. Em qualquer tipo de entrada e saída do país é necessário portar um v
 Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país nos últimos 10 anos, ou que tenham um visto Americano de visitante válido, poderão entrar sem a necessidade do mesmo. Será apenas preciso pedir uma autorização de entrada online, onde a mesma pode ser negada se necessário. [Saiba mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?q=1097&t=16).
 
 ## Quais são os vistos que permitem trabalho?
-- Study Permit em caso de college publico, voce podera trabalhar ate 20 horas semanais.
+- Study Permit em caso de college publico e privado, voce podera trabalhar ate 20 horas semanais.
 - Work permit (open ou closed)
 - Permanent Resident.
 
@@ -48,8 +48,8 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
 | Para cada membro adicional na família	| $3,492 |
 
 * O governo canadense não exige que você prove que tenha esse dinheiro em dois casos:
-  - Se você está se inscrevendo na Canadian Experience Class. 
-  - você está autorizado a trabalhar no Canadá e tem uma oferta de emprego válida, mesmo que você se inscreva no **Federal Skilled Worker Program** ou no **Federal Skilled Trades Program**.
+  - Se você está se inscrevendo na [Canadian Experience Class](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html). 
+  - você está autorizado a trabalhar no Canadá e tem uma oferta de emprego válida, mesmo que você se inscreva no [Federal Skilled Worker Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html) ou no [Federal Skilled Trades Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html).
 
 
 ### Mais informações
