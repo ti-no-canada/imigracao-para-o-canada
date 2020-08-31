@@ -93,13 +93,29 @@ Sim se você ganha acima de $44.000cad ano. Varia por província e salário anua
 ## É necessário declarar imposto de renda?
 Sim. Normalmente no mês de Março e Abril.
 
-## Qual é a carga horária de trabalho?
-37.5 - 40 horas semanais. 7.5 - 8hrs diária.
+## Como é a jornada de trabalho?
+Existem dois tipos principais de contrato de trabalho no Canadá.
+**Part-time**: Você trabalha até 30 horas semanais.
+**Full-time**: 37.5 - 40 horas semanais. 7.5 - 8hrs diária.
 
-## Quanto tempo de férias?
-Em média 10 dias úteis por ano e 5 sick days (dias que você pode ficar doente e faltar o trabalho por ano sem ter perda de salário, normalmente você não precisa comprovar nada para usar esses dias). Algumas empresas deixam a negociação de férias em aberto ou até não limitam (sim! Isso existe!).
+1. Carga horária
+- Em geral trabalhos a partir de 4 horas, as empresas são obrigadas a fornecer um periodo de pausa de 30 minutos, no entanto, essa pausa não é requerida ser remunerada. Ou seja, seu "horário de almoço" será pelo menos 30 minutos e possivelmente não será remunerado como acontece no Brasil. Mas muitas empresas oferecem remuneração desses 30 minutos de pausa. Outras dão dois periodos de pausa, um de 30 e outro de 15 minutos que você pode tirar para um lanche a tarde. MAs vale lembrar que as empresas não são obrigadas a remunerar esses periodos de pausa.
 
+2. Feriados
+- A grande maioria dos fériados do canadá são jogados para o inicio da semana. Ou seja, se um feriado cair numa quinta feira, esse feriado será jogado pra segunda feira. Exceções são: Good Friday (sexta feira santa para os cristãos-catolicos), Canada Day, Natal, Boxing Day, Ano Novo.
 
+- Você pode consultar a lista de [feriados nacionais aqui](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html). 
+
+3. Direitos Trabalhistas
+- Assim como no Brasil, no Canadá temos salário minimo, porém, ele é calculado por hora e é [definido por provincia](https://www.retailcouncil.org/resources/quick-facts/minimum-wage-by-province/).
+
+- **seguro desemprego**: No canadá também tem seguro desemprego (EI), e ele é descontado do seu salário todo mês, você pode [saber mais aqui](https://www.canada.ca/en/services/benefits/ei.html).
+
+- **Licença maternidade**: No canadá também tem Licença maternidade de 1 ano, podendo esse periodo ser dividido entre o casal. Ou seja, os parceiros podem dividir esse um ano em 6 meses para cada, ou 3 meses para um e 9 meses para o outro, ou como bem entenderem. Essa mesma licença vale para filhos adotados. O governo pagará um salário durante esse periodo. Você pode saber mais [no site oficial do governo](https://www.canada.ca/en/services/benefits/ei/ei-maternity-parental/benefit-amount.html). Também na [Immi Canada com informações em português](https://www.immi-canada.com/regras-da-licenca-maternidade-no-canada/).
+
+- **Férias**: Em média 10 dias úteis por ano e 5 sick days (dias que você pode ficar doente e faltar o trabalho por ano sem ter perda de salário, normalmente você não precisa comprovar nada para usar esses dias). Algumas empresas deixam a negociação de férias em aberto ou até não limitam (sim! Isso existe!).
+
+**Aposentadoria**: Como no Brasil, você irá fazer uma contribuição do seu salário para a sua aposentadoria. [Clique aqui para saber mais (em portugês)](https://www.immi-canada.com/como-funciona-aposentadoria-no-canada/). Você pode usar o tempo de trabalho no INSS do brasil no Canadá. O Brasil tem um [acordo bi-lateral com o Canadá que providencia isso](https://portal.inss.gov.br/wp-content/uploads/2017/07/Cartilha-Acordo-Previdencia-Brasil-Canada.pdf). 
 
 ---
 Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
