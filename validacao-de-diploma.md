@@ -65,6 +65,8 @@ O objetivo é somente para trazer informações para brasileiros (ou falantes de
 
 O Primeiro e **MAIS IMPORTANTE PASSO** para Imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** Todas as Possibilidades para o **Seu Perfil!!**
 Sem esta Constante Pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
-Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**, todas as pessoas estão lá para tirar duvidas, trocar idéias, informação e ajudar você na sua decisão. **Participe!!!**. Lembre-se: Mantenha o Respeito e a Educação para com TODOS.
+Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**, todas as pessoas estão lá para tirar duvidas, trocar idéias, informação e ajudar você na sua decisão. **Participe!!!**. 
+
+**Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
 
 Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
