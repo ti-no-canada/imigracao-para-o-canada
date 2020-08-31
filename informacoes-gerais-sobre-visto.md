@@ -123,4 +123,8 @@ Existem dois tipos principais de contrato de trabalho no Canadá.
 - **Aposentadoria**: Como no Brasil, você irá fazer uma contribuição do seu salário para a sua aposentadoria. [Clique aqui para saber mais (em portugês)](https://www.immi-canada.com/como-funciona-aposentadoria-no-canada/). Você pode usar o tempo de trabalho no INSS do brasil no Canadá. O Brasil tem um [acordo bi-lateral com o Canadá que providencia isso](https://portal.inss.gov.br/wp-content/uploads/2017/07/Cartilha-Acordo-Previdencia-Brasil-Canada.pdf). 
 
 ---
+É importante entender que esse repositório é apenas para informações gerais, do qual é quase impossivel manter totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo. 
+
+O objetivo é somente para trazer informações para brasileiros (ou falantes de lingua portuguesa) sobre o Canadá. 
+
 Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
