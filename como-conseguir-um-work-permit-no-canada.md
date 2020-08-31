@@ -97,5 +97,15 @@ O visto recebido através do Work Holiday Visa é um **OWP – Open Work Permit*
  [Types of work permits for your situation](https://www.cic.gc.ca/english/work/apply-who-permit-result.asp?q1_options=1i&q2_options=2d&fbclid=IwAR2qqRq46f0C6RDOw1VG_PAlb-6L6V2V2GI1VMFGvy8fWhg7v4GzPGkklYg)
  
  
+
 ---
+É importante entender que esse repositório é apenas para informações gerais, do qual é quase impossivel manter totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo. 
+
+O objetivo é somente para trazer informações para brasileiros (ou falantes de lingua portuguesa) sobre o Canadá. 
+
+O Primeiro e **MAIS IMPORTANTE PASSO** para Imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** Todas as Possibilidades para o **Seu Perfil!!**
+Sem esta Constante Pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
+Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**, todas as pessoas estão lá para tirar duvidas, trocar idéias, informação e ajudar você na sua decisão. **Participe!!!**. Lembre-se: Mantenha o Respeito e a Educação para com TODOS.
+
 Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
+
