@@ -95,18 +95,23 @@ Sim. Normalmente no mês de Março e Abril.
 
 ## Como é a jornada de trabalho?
 Existem dois tipos principais de contrato de trabalho no Canadá.
+
 **Part-time**: Você trabalha até 30 horas semanais.
+
 **Full-time**: 37.5 - 40 horas semanais. 7.5 - 8hrs diária.
 
 1. **Carga horária**
+
 - Em geral trabalhos a partir de 4 horas, as empresas são obrigadas a fornecer um periodo de pausa de 30 minutos, no entanto, essa pausa não é requerida ser remunerada. Ou seja, seu "horário de almoço" será pelo menos 30 minutos e possivelmente não será remunerado como acontece no Brasil. Mas muitas empresas oferecem remuneração desses 30 minutos de pausa. Outras dão dois periodos de pausa, um de 30 e outro de 15 minutos que você pode tirar para um lanche a tarde. MAs vale lembrar que as empresas não são obrigadas a remunerar esses periodos de pausa.
 
 2. **Feriados**
+
 - A grande maioria dos fériados do canadá são jogados para o inicio da semana. Ou seja, se um feriado cair numa quinta feira, esse feriado será jogado pra segunda feira. Exceções são: Good Friday (sexta feira santa para os cristãos-catolicos), Canada Day, Natal, Boxing Day, Ano Novo.
 
 - Você pode consultar a lista de [feriados nacionais aqui](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html). 
 
 3. **Direitos Trabalhistas**
+
 - Assim como no Brasil, no Canadá temos salário minimo, porém, ele é calculado por hora e é [definido por provincia](https://www.retailcouncil.org/resources/quick-facts/minimum-wage-by-province/).
 
 - **seguro desemprego**: No canadá também tem seguro desemprego (EI), e ele é descontado do seu salário todo mês, você pode [saber mais aqui](https://www.canada.ca/en/services/benefits/ei.html).
