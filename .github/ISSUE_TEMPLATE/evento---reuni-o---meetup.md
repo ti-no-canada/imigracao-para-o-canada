@@ -3,7 +3,7 @@ name: Evento / Reunião / Meetup
 about: Adicione um evento relevante sobre o assunto do repositório. Caso seu evento
   seja irrelevante, ele será removido sem aviso prévio.
 title: "[Evento/MeetUp] (Nome do evento) - (Data e Horario de inicio) (Fuso horário) "
-labels: ''
+labels: Eventos/Meetups/Reuniões
 assignees: ''
 
 ---
