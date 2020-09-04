@@ -9,7 +9,6 @@ assignees: ''
 ---
 
 # Perfil 
-(se sentir a vontade de informar, por favor informe)
 
 **Nome**: (por favor, preencha)
 
@@ -25,8 +24,18 @@ assignees: ''
 
 **Data de confirmação (ou ano de confirmação) de sucesso processo**:  (se relevante preencha)
 
-
 **Nome do processo de imigração/visto/programa**: (Por favor preencha)
+
+
+**Redes Sociais**
+
+**LinkedIn**: (se quiser informar, por favor, informe)
+
+**Github**: (se quiser informar, por favor, informe)
+
+**Outra**:  (se quiser informar e achar relevante, por favor, informe)
+
+
 
 # Fez CELPIP / IELTS ?
 
@@ -45,3 +54,6 @@ Writing: (Score)
 # Como foi?
 
 (relato, fique a vontade pra explicar todas as suas experiências, você pode colocar datas importantes, cenários e dificuldades encontradas, ou qualquer coisa que deseje compartilhar.)
+
+
+# Uma mensagem final para quem estar no processo
