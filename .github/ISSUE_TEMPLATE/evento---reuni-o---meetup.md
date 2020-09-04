@@ -11,6 +11,8 @@ assignees: ''
 ## Tipo de evento
 (Preencher "Presencial" ou "Online")
 
+## Idioma do evento
+(Preencha "Inglês", "Francês" ou "Português"
 
 ## Descrição do evento
 (Descrição do evento)
