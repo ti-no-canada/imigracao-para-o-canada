@@ -2,7 +2,7 @@
 name: Experiência / Relato
 about: Descreva o relato de sua experência de vinda para o Canadá / Imigração / Processo
   de visto / Notas nos testes de inglês
-title: "[Relato/Experiência] (Infome seu nome aqui)"
+title: "[Relato/Experiência] [Tipo de visto/processo] (Infome seu nome aqui)"
 labels: Experiência
 assignees: ''
 
