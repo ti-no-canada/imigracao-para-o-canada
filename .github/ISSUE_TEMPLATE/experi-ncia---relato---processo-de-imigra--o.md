@@ -51,7 +51,7 @@ Reading: (Score)
 Speaking: (Score)
 Writing: (Score)
 
-## Como foi / TimeLine?
+## Como foi / Time Line?
 
 (relato, fique a vontade pra explicar todas as suas experiências, você pode colocar datas importantes, cenários e dificuldades encontradas, ou qualquer coisa que deseje compartilhar.
 
