@@ -23,6 +23,7 @@ Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar 
 2. [CELPIP Webnar and Workshop](https://www.celpip.ca/prepare-for-celpip/webinars-workshops/).
 3. [CELPIP Free Sample Test](https://secure.paragontesting.ca/InstructionalProducts/FreeOnlineSampleTest/FOST)
 4. [CELPIP Speaking Pro Study Packs](https://www.celpip.ca/speaking-pro-materials/)
+5. [CELPIP Live Lesson everyday](https://www.celpip.ca/celpip-sp/)
 
 #### YouTube
 1. [OFICIAL CELPIP Test Channel - Video: CELPIP Speaking Pro: Target 5](https://www.youtube.com/watch?v=9lhPXvia2F4)
