@@ -51,9 +51,22 @@ Reading: (Score)
 Speaking: (Score)
 Writing: (Score)
 
-## Como foi?
+## Como foi / TimeLine?
 
-(relato, fique a vontade pra explicar todas as suas experiências, você pode colocar datas importantes, cenários e dificuldades encontradas, ou qualquer coisa que deseje compartilhar.)
+(relato, fique a vontade pra explicar todas as suas experiências, você pode colocar datas importantes, cenários e dificuldades encontradas, ou qualquer coisa que deseje compartilhar.
+
+Sugestão, use datas para os eventos. Exemplo:
+
+[20/07/2020]  Aplicação para o work permit
+[30/07/2020]  Solicitação dos exames medicos
+[03/08/2020] Exames medicos realidados
+[10/08/2020] Solicitação dos passaportes
+[11/08/2020] Envio dos passaporte para o Vac de são paulo.
+[15/08/2020] Chegada dos passaportes no vac de são paulo.
+[20/08/2020] Work permit aprovado!
+[21/08/2020] Reference letter
+
+)
 
 
 ## Uma mensagem final para quem estar no processo
