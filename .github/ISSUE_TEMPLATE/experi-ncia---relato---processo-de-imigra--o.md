@@ -18,7 +18,7 @@ assignees: ''
 
 **Filhos?**: (se for relevante, preencha sim/não)
 
-**Formação acadêmica**: (bacharel? tecnologo? mestrado? pós graduação? 1 ano? 2 anos? 6 anos? 1 diploma / 2 diplomas) e quais cursos?
+**Formação acadêmica**: (qual(is) curso(s)? bacharel? tecnologo? mestrado? pós graduação? 1 ano? 2 anos? 6 anos? 1 diploma / 2 diplomas /  quantas horas aulas? Já Fez a equivalência de diploma? Qual foi o equivalente do diploma recebido? e quais cursos? )
 
 **Data de inicio (ou ano de inicio) do processo**:  (se relevante preencha)
 
