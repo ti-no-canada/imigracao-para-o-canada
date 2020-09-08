@@ -51,6 +51,13 @@ Reading: (Score)
 Speaking: (Score)
 Writing: (Score)
 
+
+
+## Express Entry
+(remova essa sessão se você não passou pelo processo de residência permanente. )
+**Pontuação**: (e.g 474 )
+**Draw e data**: (e.g 472 dia 08/08/2020)
+
 ## Como foi / Time Line?
 
 (relato, fique a vontade pra explicar todas as suas experiências, você pode colocar datas importantes, cenários e dificuldades encontradas, ou qualquer coisa que deseje compartilhar.
