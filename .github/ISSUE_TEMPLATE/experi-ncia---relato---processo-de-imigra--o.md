@@ -2,13 +2,16 @@
 name: Experiência / Relato / Processo de imigração
 about: Descreva o relato de sua experência de vinda para o Canadá / Imigração / Processo
   de visto / Notas nos testes de inglês
-title: "[Relato/Experiência] [Tipo de visto/processo] (Infome seu nome aqui)"
+title: "[Relato/Experiência] [(por favor, informe o Tipo de visto/processo)] (Infome
+  seu nome aqui)"
 labels: ''
 assignees: ''
 
 ---
 
 ## Perfil 
+
+(Todos os campos desse modelo são campos sugeridos. Desde já, agradecemos sua contribuição para o repositório. Sua história/relato será de grande ajuda a todos nós.)
 
 **Nome**: (por favor, preencha)
 
