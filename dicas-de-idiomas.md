@@ -29,8 +29,9 @@ Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar 
 1. [OFICIAL CELPIP Test Channel - Video: CELPIP Speaking Pro: Target 5](https://www.youtube.com/watch?v=9lhPXvia2F4)
 2. [OFICIAL CELPIP Test Channel - Video: CELPIP Speaking Pro: Target 9+ (Lesson 1: Tasks 1-4)](https://www.youtube.com/watch?v=vdpNmgHgF1k)
 3. [OFICIAL CELPIP Test Channel - Video: CELPIP Speaking Pro: Target 9+ (Lesson 2: Tasks 5-8)](https://www.youtube.com/watch?v=cLoQDvDQRtc)
-4. [Mad English TV (CELPIP/IELTS/VOCABULARY/TIPS/CANADIAN LIFE)](https://www.youtube.com/channel/UCUeS2Jmgiu0OFaTeRqkuXtw).
-5. [Presto English Learning (CELPIP/IELTS/VOCABULARY](https://www.youtube.com/c/PrestoEnglish).
+4. [OFICIAL CELPIP Test Channel - Video: CELPIP Writing Pro: Target 9+](https://www.youtube.com/watch?v=nTVryJVAbcE)
+5. [Mad English TV (CELPIP/IELTS/VOCABULARY/TIPS/CANADIAN LIFE)](https://www.youtube.com/channel/UCUeS2Jmgiu0OFaTeRqkuXtw).
+6. [Presto English Learning (CELPIP/IELTS/VOCABULARY](https://www.youtube.com/c/PrestoEnglish).
 
 
 ### IELTS
