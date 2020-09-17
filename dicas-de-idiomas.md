@@ -35,6 +35,9 @@ Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar 
 
 
 ### IELTS
+1. [OFICIAL IELTS Site](https://www.britishcouncil.org/)
+2. [Site IELTS Prepare Test free](https://www.ielts-mentor.com/)
+3. [Site Simulate Test](ttps://takeielts.britishcouncil.org/take-ielts/prepare/computer-delivered-ielts)
 
 ## Francês
 ### Tudo o que você precisa para um estudo independente da língua francesa.
