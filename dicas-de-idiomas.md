@@ -31,13 +31,13 @@ Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar 
 3. [OFICIAL CELPIP Test Channel - Video: CELPIP Speaking Pro: Target 9+ (Lesson 2: Tasks 5-8)](https://www.youtube.com/watch?v=cLoQDvDQRtc)
 4. [OFICIAL CELPIP Test Channel - Video: CELPIP Writing Pro: Target 9+](https://www.youtube.com/watch?v=nTVryJVAbcE)
 5. [Mad English TV (CELPIP/IELTS/VOCABULARY/TIPS/CANADIAN LIFE)](https://www.youtube.com/channel/UCUeS2Jmgiu0OFaTeRqkuXtw).
-6. [Presto English Learning (CELPIP/IELTS/VOCABULARY](https://www.youtube.com/c/PrestoEnglish).
+6. [Presto English Learning (CELPIP/IELTS/VOCABULARY)](https://www.youtube.com/c/PrestoEnglish).
 
 
 ### IELTS
 1. [OFICIAL IELTS Site](https://www.britishcouncil.org/)
 2. [Site IELTS Prepare Test free](https://www.ielts-mentor.com/)
-3. [Site Simulate Test](ttps://takeielts.britishcouncil.org/take-ielts/prepare/computer-delivered-ielts)
+3. [Site Simulate Test](https://takeielts.britishcouncil.org/take-ielts/prepare/computer-delivered-ielts)
 
 ## Francês
 ### Tudo o que você precisa para um estudo independente da língua francesa.
