@@ -85,6 +85,8 @@ Baixe o aplicativo móvel eDeclaration para economizar tempo na chegada ao Canad
 * [bridges](https://www.bridges.com)
 * [linkedin](https://www.ca.linkedin.com) *
 * [canadainfonet](https://www.canadainfonet.org)
+* [Guru link](www.gurulink.ca)
+* [Veterry](https://www.vettery.com/)
 
 <!-- www.canadajobexpo.com
 www.canadajobs.com
@@ -109,7 +111,6 @@ www.fepsearchgroup.com
 www.freshgigs.ca
 www.geographyjobs.ca
 www.glassdoor.ca
-www.gurulink.ca
 www.headhuntersdirectory.com
 www.helpunlimited.ca
 www.higherbracket.ca
