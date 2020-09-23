@@ -17,7 +17,9 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 [Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)
 
 ### E
-**EE**: *Express Entry*, processo do governo canadense para imigração.
+**EE**: *Express Entry*, processo do governo canadense para imigração através de chamadas baseadas no sitema de pontuação CRS.
+
+[Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html)
 
 **EIMT**: d'étude d'impact sur le marché du travail, basicamente é o **LMIA** da provincia do Quebec. 
 
