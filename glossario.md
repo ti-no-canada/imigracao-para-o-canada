@@ -36,7 +36,10 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 **IEC**: *International Experience Canada* é um programa do governo canadense para atrair jovens trabalhadores de outros países, podendo eles receberem um **work permit** aberto ou fechado. Como por exemplo [Young Professionals](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md#international-experience-canada-iec-young-professionals) e [Work Holiday Visa](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md#international-experience-canada-iec-work-holiday-visa)
 
-**IELTS**: O *International English Language Testing System* é um dos testes de inglês aceito pela imigração canadense.
+[Saiba Mais](https://www.cic.gc.ca/english/work/iec/eligibility.asp)
+
+**IELTS**: O *International English Language Testing System* é um dos testes de inglês aceito pela imigração canadense. Há duas modalidades, o **academic**, utilizado para fins educacionais, e o **general training**, utilizado para imigração.
+
 [Saiba Mais](https://www.ielts.org)
 
 ### L
