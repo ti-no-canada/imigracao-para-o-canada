@@ -9,6 +9,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html)
 
 **CELPIP**: O *Canadian English Language Proficiency Index Program* é um dos testes de inglês aceito pela imigração canadense.
+
 [Saiba Mais](https://www.celpip.ca)
 
 **CLB**: O *Canadian Language Benchmark* é uma referencia do governo canadense para determinar seu nivel de compreensão e uso do idioma, ele é calculado baseado na sua nota no IELTS/CELPIP.
