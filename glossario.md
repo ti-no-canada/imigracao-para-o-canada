@@ -27,7 +27,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 ### E
 
-**ECA**: *Education Credential Assessment*, equivalência educacional feita por instituições específicas e utilizado para a imigração.
+**ECA**: *Education Credential Assessment*, equivalência educacional feita por instituições específicas e utilizado para a imigração. Existem [cinco instituições credenciadas](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html#who) para emitir ECAs
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/).
 
@@ -45,6 +45,10 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 ### F
 
+**FST**: *Federal skilled trades*, esse programa é para trabalhadores da área de skilled trades, profissões como carpintaria, açougue, eletrotécnica, cozinha etc.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html).
+
 **FSW**: *Federal Skilled Worker* Este programa é para trabalhadores qualificados com experiência de trabalho estrangeiro e que querem imigrar para o Canadá permanentemente.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html).
@@ -59,19 +63,51 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.ielts.org).
 
+**IQAS**: *International Qualifications Assessment Service*; uma das instituições autorizadas pelo governo canadense para emitir ECAs.
+
+[Saiba mais](https://www.alberta.ca/iqas-immigration.aspx).
+
+**IRCC**: *Immigration, Refugees and Citizenship Canada*, instituição do governo canadense responsável pela emissão de cidadania e passaportes para canadenses
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship.html).
+
+
+**ITA**: *Invitation to apply*, convite para aplicar para o Express Entry. Recebe-se um ITA ao ser chamado em uma rodada (draw) do Express Entry.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/invitation-apply.html).
+
 ### L
 
 **LMIA**: O *Labour Market Impact Assessment* é um documento emitido pelo governo canadense ao empregador para que o empregador possa contratar alguém de fora do país. 
 
 [Saiba mais](./como-conseguir-um-work-permit-no-canada.md#lmia-labour-market-impact-assessment).
 
+### N
+
+**NOC**: A *national occupational classification* é código utilizado para identificar as diferentes profissões baseado em suas atribuições.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).
+
 ### O
+
+**OINP**: *Ontario Immigration Nominee Program* programa provincial de nomeação para imigração de Ontário, provê chamadas para grupos de pessoas que atendam aos interesses da província. Divide-se em uma série de streams, como [foreign worker stream](https://www.ontario.ca/page/oinp-employer-job-offer-foreign-worker-stream), [international student stream](https://www.ontario.ca/page/oinp-employer-job-offer-international-student-stream), [in-demand skills stream](https://www.ontario.ca/page/oinp-employer-job-offer-demand-skills-stream), [masters graduate stream](https://www.ontario.ca/page/oinp-masters-graduate-stream) e [PhD graduate stream](https://www.ontario.ca/page/oinp-phd-graduate-stream).
+
+[Saiba mais](https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp).
 
 **OWP**: *Open Work Permit* é uma permissão de trabalho onde você pode trabalhar para qualquer empresa canadense.
 
 [Saiba mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=176&top=17).
 
+
 ### P
+
+**PNP**: *Provincinal nominee program* programa provincial de nomeação imigração, cada província gera seu programa e provê chamadas para grupos de pessoas que atendam aos interesses locais.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/works.html).
+
+**POF**: *Proof of funds*, comprovação financeira exigida para o programa. O valor varia de acordo com o tamanho da família e com o processo utilizado.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html).
 
 **PR**: *Permanent Resident* É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA), não dá direito a passaporte nem a participar da política canadense. Com a PR, seu status no país ainda é de imigrante.
 
@@ -84,6 +120,10 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html).
 
 ### W
+
+**WES**: *World Education Service*; uma das instituições autorizadas pelo governo canadense para emitir ECAs.
+
+[Saiba mais](https://www.wes.org/).
 
 **WP**: *Work Permit*; Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma ou for residente permanente).
 
