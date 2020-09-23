@@ -46,7 +46,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 **LMIA**: O *Labour Market Impact Assessment* é um documento emitido pelo governo canadense ao empregador para que o empregador possa contratar alguém de fora do país. 
 
-[Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md#lmia-labour-market-impact-assessment).
+[Saiba Mais](./como-conseguir-um-work-permit-no-canada.md#lmia-labour-market-impact-assessment).
 
 ### O
 
