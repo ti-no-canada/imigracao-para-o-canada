@@ -17,6 +17,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 [Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)
 
 ### E
+
 **EE**: *Express Entry*, processo do governo canadense para imigração através de chamadas baseadas no sitema de pontuação CRS.
 
 [Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html)
@@ -33,21 +34,23 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 ### I 
 
-
 **IEC**: *International Experience Canada* é um programa do governo canadense para atrair jovens trabalhadores de outros países, podendo eles receberem um **work permit** aberto ou fechado. Como por exemplo [Young Professionals](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md#international-experience-canada-iec-young-professionals) e [Work Holiday Visa](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md#international-experience-canada-iec-work-holiday-visa)
 
 **IELTS**: O *International English Language Testing System* é um dos testes de inglês aceito pela imigração canadense.
 [Saiba Mais](https://www.ielts.org)
 
 ### L
+
 **LMIA**: O *Labour Market Impact Assessment* é um documento emitido pelo governo canadense ao empregador para que o empregador possa contratar alguém de fora do país. 
 
 [Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md#lmia-labour-market-impact-assessment).
 
 ### O
+
 **OWP**: *Open Work Permit* é uma permissão de trabalho onde você pode trabalhar para qualquer empresa canadense.
 
 ### P
+
 **PR**: *Permanent Resident* É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA) e seu status no país é de imigrante.
 
 ### S
@@ -55,10 +58,10 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 **SP**: Study Permit; permissão de estudo, geralmente você recebe essa permissão quando você aplica para estudar em algum college, essa permissão lhe dar direito de trabalhar 20 horas fora do campos da universidade e 20 horas para trabalhar dentro do campus.
 
 ### W
+
 **Work Permit**: Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
 
 **WP**: Work Permit; Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
 
 
 [Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada)
-
