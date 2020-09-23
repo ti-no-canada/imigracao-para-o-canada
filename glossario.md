@@ -25,6 +25,11 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html#pointsA).
 [Calculadora Oficial](https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp).
 
+### D
+
+**DLI**: *Designated learning instituions*, instituições públicas autorizadas pelo governo canadense. Estudantes dessas instituições têm direito a PGWP após a conclusão de seu curso e seus parceiros têm direito a OWP durante e após o curso, com a mesma duração da PGWP.
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html).
+
 ### E
 
 **ECA**: *Education Credential Assessment*, equivalência educacional feita por instituições específicas e utilizado para a imigração. Existem [cinco instituições credenciadas](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html#who) para emitir ECAs
@@ -82,11 +87,25 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](./como-conseguir-um-work-permit-no-canada.md#lmia-labour-market-impact-assessment).
 
+### M
+
+**MPNP**: *Manitoba Provincinal Nominee Program* programa provincial de nomeação para imigração de Manitoba, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+
+[Saiba mais](http://www.immigratemanitoba.com/immigrate-to-manitoba/).
+
 ### N
+
+**NLPNP**: *Newfoundland and Labrador Provincinal Nominee Program* programa provincial de nomeação para imigração de Newfoundland and Labrador, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+
+[Saiba mais](https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/overview/).
 
 **NOC**: A *national occupational classification* é código utilizado para identificar as diferentes profissões baseado em suas atribuições.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).
+
+**NSNP**: *Nova Scotia Nominee Program* programa provincial de nomeação para imigração de Nova Scotia, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+
+[Saiba mais](https://novascotiaimmigration.com/move-here/).
 
 ### O
 
@@ -98,8 +117,11 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=176&top=17).
 
-
 ### P
+
+**PGWP**: *Post-Graduation Work Permit*, visto de trabalho oferecido a quem se forma em um programa educacional no Canadá em uma instituição pública (DLI).
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html).
 
 **PNP**: *Provincinal nominee program* programa provincial de nomeação imigração, cada província gera seu programa e provê chamadas para grupos de pessoas que atendam aos interesses locais.
 
@@ -114,6 +136,14 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 [Saiba mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=006&top=4).
 
 ### S
+
+**SIN**: *Social insurance number*; número de seguridade social, algo similar ao CPF brasileiro. O SIN serve como identificação fiscal para a pessoa, tornando possível que façam movimentações financeiras (como receber salários) e declarar o imposto de renda. Esse número também é utilizado para se inscrever em programas de benefícios do governo.
+
+[Saiba mais](https://www.canada.ca/en/employment-social-development/services/sin.html).
+
+**SINP**: *Saskatchewan Immigrant Nominee Program* programa provincial de nomeação para imigração de Saskatchewan, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+
+[Saiba mais](https://www.saskatchewan.ca/residents/moving-to-saskatchewan/immigrating-to-saskatchewan/saskatchewan-immigrant-nominee-program).
 
 **SP**: *Study Permit*; permissão de estudo, geralmente você recebe essa permissão quando você aplica para estudar em algum college, essa permissão lhe dá direito de trabalhar 20 horas fora do campos da universidade e 20 horas para trabalhar dentro do campus nos períodos em que estiver estudando full-time. Durante períodos em que não esteja estudando, como o summer term, pode-se trabalhar 40h.
 
