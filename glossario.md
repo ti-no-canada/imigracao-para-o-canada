@@ -52,19 +52,26 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 **OWP**: *Open Work Permit* é uma permissão de trabalho onde você pode trabalhar para qualquer empresa canadense.
 
+[Saiba Mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=176&top=17).
+
 ### P
 
-**PR**: *Permanent Resident* É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA) e seu status no país é de imigrante.
+**PR**: *Permanent Resident* É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA), não dá direito a passaporte nem a participar da política canadense. Com a PR, seu status no país ainda é de imigrante.
+
+[Saiba Mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=006&top=4).
 
 ### S
 
-**SP**: Study Permit; permissão de estudo, geralmente você recebe essa permissão quando você aplica para estudar em algum college, essa permissão lhe dar direito de trabalhar 20 horas fora do campos da universidade e 20 horas para trabalhar dentro do campus.
+**SP**: *Study Permit*; permissão de estudo, geralmente você recebe essa permissão quando você aplica para estudar em algum college, essa permissão lhe dá direito de trabalhar 20 horas fora do campos da universidade e 20 horas para trabalhar dentro do campus nos períodos em que estiver estudando full-time. Durante períodos em que não esteja estudando, como o summer term, pode-se trabalhar 40h.
+
+[Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html).
 
 ### W
 
-**Work Permit**: Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
+**WP**: *Work Permit*; Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma ou for residente permanente).
 
-**WP**: Work Permit; Permissão de trabalho (no Canadá você só pode trabalhar se possuir uma).
+[Saiba Mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/work-permit.html).
 
 
-[Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada)
+
+### [Saiba Mais](https://github.com/ti-no-canada/imigracao-para-o-canada)
