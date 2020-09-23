@@ -23,7 +23,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 **EIMT**: d'étude d'impact sur le marché du travail, basicamente é o **LMIA** da provincia do Quebec. 
 
-[Saiba mais](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry).
+[Saiba mais](./informacoes-gerais-sobre-visto.md#o-que-é-express-entry).
 
 ### F
 
