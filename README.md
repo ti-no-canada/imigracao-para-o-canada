@@ -21,6 +21,8 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Equivalência de diploma no Canadá (Validação do diploma)](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md)
 
+[Tradução Juramentada](https://github.com/ti-no-canada/Geral/blob/master/traducao-juramentada.md)
+
 [Estudo de Inglês e/ou Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/dicas-de-idiomas.md)
 
 # Custo de vida
