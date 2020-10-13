@@ -12,6 +12,18 @@
 - Você só consegue usar 2 diplomas na imigração, se o primeiro diploma for validado como 3 anos.
 - O minimo da equivalencia aceita na imigração federal é diploma de 1 ano, portanto sua pós graduação deve ser validada como pelo menos 1 ano.
 
+### O que o WES diz sobre equivalência de tecnologos (2 ou 3 anos)
+> Tecnólogos
+Curso Superior de Tecnologia (higher technologist) programs are between two and three years in length and are entered after upper-secondary school; they lead to the tecnólogo degree, usually after a minimum carga horaria of 1,600 hours for two-year programs and 2,000 and 2,400 hours, respectively, for two-and-a-half- and three-year programs. Tecnólogo programs are offered by all types of HEIs in Brazil, although private faculties dominate this sector. Curricula are applied and geared toward employment. They typically include an internship. However, unlike in other Latin American countries that have similar education systems, tecnólogo degrees nevertheless allow access to graduate-level programs that lead to a professional master’s degree (mestrado professional).
+
+[Fonte: Site do WES](https://wenr.wes.org/2019/11/education-in-brazil)
+
+Então, cursos tecnologos acima de 2400 horas deve ser validados como diploma 3 anos. 
+E se não acontecer, e eles validarem o seu diploma como 2 anos ao invés de 3? 
+Entre em contato com eles e mostre o link abaixo e envie o trecho acima explicando que o seu diploma deveria ser validado como 3 anos. Eles irão corrigir sua equivalência.
+
+
+
 ### Passo a passo
 Para validar o diploma no Canadá, você terá que usar uma das instituíçoes que o governo aceita.
 Esse processo é sobre o [WES](https://www.wes.org/ca/).
