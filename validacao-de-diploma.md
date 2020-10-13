@@ -19,7 +19,7 @@ Curso Superior de Tecnologia (higher technologist) programs are between two and 
 Então, cursos tecnologos acima de 2400 horas deve ser validados como diploma 3 anos. 
 
 - E se não acontecer, e eles validarem o seu diploma como 2 anos ao invés de 3? 
-  - Entre em contato com eles e mostre o abaixo acima e envie o trecho acima explicando que o seu diploma deveria ser validado como 3 anos. Eles irão corrigir sua equivalência.
+  - Entre em contato com eles e mostre o link abaixo e envie o trecho acima explicando que o seu diploma deveria ser validado como 3 anos. Eles irão corrigir sua equivalência.
 
 [https://wenr.wes.org/2019/11/education-in-brazil](https://wenr.wes.org/2019/11/education-in-brazil)
 
