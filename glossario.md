@@ -1,6 +1,6 @@
 # Glossário
 
-Algumas siglas importantes que eventualmente você pode encontrar no [grupo de TI no Canadá](https://t.me/tinocanada) como no [repositório](https://github.com/ti-no-canada)
+Algumas siglas importantes que eventualmente você pode encontrar no [grupo de TI no Canadá](https://t.me/ti_no_canada) como no [repositório](https://github.com/ti-no-canada)
 
 ### C
 
