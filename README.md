@@ -2,7 +2,7 @@
 Repositório do grupo no telegram TI no Canada
 
 
-[Grupo Oficial no Telegram](https://t.me/tinocanada)
+[Grupo Oficial no Telegram](https://t.me/ti_no_canada)
 
 [Regras do Grupo no Telegram](https://github.com/ti-no-canada/Geral/blob/master/regras-do-grupo.md)
 
@@ -11,7 +11,7 @@ Repositório do grupo no telegram TI no Canada
 [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para eventuais palavras, siglas que você não conhece, você pode encontrar aqui.
 
 Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no canadá? Ou dúvida sobre seu processo de imigração, 
-[crie uma issue](https://github.com/ti-no-canada/Geral/issues/new) e coloque uma label relacionada e/ou divulgue no [grupo oficial no Telegram](https://t.me/tinocanada).
+[crie uma issue](https://github.com/ti-no-canada/Geral/issues/new) e coloque uma label relacionada e/ou divulgue no [grupo oficial no Telegram](https://t.me/ti_no_canada).
 
 # Informações sobre imigração
 
@@ -304,7 +304,7 @@ O objetivo é somente para trazer informações para brasileiros (ou falantes de
 
 O Primeiro e **MAIS IMPORTANTE PASSO** para Imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** Todas as Possibilidades para o **Seu Perfil!!**
 Sem esta Constante Pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
-Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**, todas as pessoas estão lá para tirar duvidas, trocar idéias, informação e ajudar você na sua decisão. **Participe!!!**. 
+Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar duvidas, trocar idéias, informação e ajudar você na sua decisão. **Participe!!!**.
 
 **Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
 
