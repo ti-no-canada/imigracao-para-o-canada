@@ -50,6 +50,8 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
 * O governo canadense não exige que você prove que tenha esse dinheiro em dois casos:
   - Se você está se inscrevendo na [Canadian Experience Class](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html). 
   - você está autorizado a trabalhar no Canadá e tem uma oferta de emprego válida, mesmo que você se inscreva no [Federal Skilled Worker Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html) ou no [Federal Skilled Trades Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html).
+  
+* Também é possivel conseguir até 600 pontos adicionais dentro do seu perfil do express entry. [Veja aqui como conseguir mais pontos para melhorar o seu perfil](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html#pointsD)
 
 
 ### Mais informações
