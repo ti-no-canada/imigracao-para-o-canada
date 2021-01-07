@@ -1,6 +1,6 @@
 # Tradução Juramentada
 
-Traduzir seus documentos de Português para o Inglês é um passo necessário no processo de imigração e da [Equivalência de diploma no Canadá (Validação do diploma)](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md).
+Traduzir seus documentos de Português para o Inglês é um passo necessário no processo de imigração e da [Equivalência de diploma no Canadá (Validação do diploma)](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md).
 
 No Brasil os preços são tabelados e você pode consultar a tabela na Junta Comercial do seu estado.
 

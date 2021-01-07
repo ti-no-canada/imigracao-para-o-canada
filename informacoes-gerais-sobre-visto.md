@@ -28,7 +28,7 @@ Sim. Entretanto, a partir de maio de 2017, Brasileiros que já visitaram o país
 É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá(Ex. EUA) e seu status no país é de imigrante.
 
 ## O que é Express Entry?
-É o processo eletrônico de avaliação para residência permanente mantido pelo governo Canadense, onde usa um sistema de pontos que leva em consideração seu [nivel de ensino](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md), sua fluência no idioma (inglês e/ou francês), sua experiência profissional.
+É o processo eletrônico de avaliação para residência permanente mantido pelo governo Canadense, onde usa um sistema de pontos que leva em consideração seu [nivel de ensino](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md), sua fluência no idioma (inglês e/ou francês), sua experiência profissional.
   * Para comprovar sua fluência no idioma **inglês**, você irá precisar fazer um teste que seja aceito para o governo canadense. O governo canadense aceita o [CELPIP](https://www.celpip.ca) e o [IELTS](https://www.ielts.org).
   * Você pode usar a ferramenta do governo canadense [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) para simular sua pontuação para a imigração para o Canadá.
   * Para ganhar pontos de experiência profissional no Express Entry, você vai precisar ter trabalhado em profissões de **NOC (National Occupational Classification)** ***0***, ***A*** ou ***B***, [Para descobrir qual o seu NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).
@@ -82,8 +82,8 @@ Não na maior parte do país. Apenas é necessário para imigrações na provín
 ## E quanto ao Ensino Superior?
 Em T.I. não é necessário se você tiver mais de 3 anos de experiência comprovada(carta de recomendação) e equivalente com a vaga de trabalho. Tenha em mente que graduação sempre conta mais pontos no processo de seleção do governo. Corporações(bancos e etc.) normalmente só imigram pessoas graduadas.
 
-## Como valido meu Diploma no canadá?
-Para saber mais sobre o processo clique [aqui](https://github.com/ti-no-canada/Geral/blob/master/validacao-de-diploma.md)
+## Como faço equivalência educacional de meu diploma no canadá?
+Para saber mais sobre o processo clique [aqui](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md)
 
 ## Qual é o salário mínimo?
 O salário mínino é [definido por Província](https://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx).

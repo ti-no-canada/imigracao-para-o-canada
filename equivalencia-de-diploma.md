@@ -2,30 +2,30 @@
 
 ### Atenção, Regra geral
 - Se você tiver um titulo de **mestrado**, e/ou **doutorado** só pode fazer a equivalencia de um deles (de preferencia o de maior grau), mesmo você tendo vários outros diplomas, a regra de 2 diplomas não se aplica a esse caso, pois você ja ganha mais pontos do que alguém que tenha 2 diplomas.
-- Se você tiver um bacharel de 3 anos ou mais e uma pós graduação validada como diploma de 1 ano, isso conta como 2 diplomas para a **imigração federal e provinciais**.
-- Cursos técnologo podem ser validados como **Diploma 3 anos**, nesse caso, seu diploma entra com o mesmo peso de um titulo bacharel para a **imigração federal**.
-- Se você tiver um tecnologo de validados como **Diploma 2 anos** e uma pós graduação validada como diploma de 1 ano, isso **não conta** como 2 diplomas para a **imigração Federal**.
+- Se você tiver um bacharel de 3 anos ou mais e uma pós graduação que teve equivalência com um diploma de 1 ano, isso conta como 2 diplomas para a **imigração federal e provinciais**.
+- Cursos técnologo podem ser equivalentes a um **Diploma 3 anos**, nesse caso, seu diploma entra com o mesmo peso de um titulo bacharel para a **imigração federal**.
+- Se você tiver um tecnólogo com equivalência a um **Diploma 2 anos** e uma pós graduação equivalente a um diploma de 1 ano, isso **não conta** como 2 diplomas para a **imigração Federal**.
 - Cursos técnicos **não contam** para a **imigração federal**.
 
 ### Simplificando 2 diplomas
-- Bacharel (validado como 3 anos ou mais) tem o mesmo peso de Tecnologo (validado como diploma 3 anos ou mais).
-- Você só consegue usar 2 diplomas na imigração, se o primeiro diploma for validado como 3 anos.
-- O minimo da equivalencia aceita na imigração federal é diploma de 1 ano, portanto sua pós graduação deve ser validada como pelo menos 1 ano.
+- Bacharel (equivalência com 3 anos ou mais) tem o mesmo peso de Tecnologo (equivalência como diploma 3 anos ou mais).
+- Você só consegue usar 2 diplomas na imigração, se o primeiro diploma tiver equivalência a 3 anos.
+- O minimo da equivalencia aceita na imigração federal é diploma de 1 ano, portanto sua pós graduação deve ser equivalente a pelo menos um diploma de 1 ano.
 
 ### O que o WES diz sobre equivalência de tecnologos (2 ou 3 anos)
 > Tecnólogos
 Curso Superior de Tecnologia (higher technologist) programs are between two and three years in length and are entered after upper-secondary school; they lead to the tecnólogo degree, usually after a minimum carga horaria of 1,600 hours for two-year programs and 2,000 and 2,400 hours, respectively, for two-and-a-half- and three-year programs. Tecnólogo programs are offered by all types of HEIs in Brazil, although private faculties dominate this sector. Curricula are applied and geared toward employment. They typically include an internship. However, unlike in other Latin American countries that have similar education systems, tecnólogo degrees nevertheless allow access to graduate-level programs that lead to a professional master’s degree (mestrado professional).
 
-Então, cursos tecnologos acima de 2400 horas deve ser validados como diploma 3 anos. 
+Então, cursos tecnologos acima de 2400 horas devem ter equivalência com um diploma 3 anos.
 
-- E se não acontecer, e eles validarem o seu diploma como 2 anos ao invés de 3? 
-  - Entre em contato com eles e mostre o link abaixo e envie o trecho acima explicando que o seu diploma deveria ser validado como 3 anos. Eles irão corrigir sua equivalência.
+- E se não acontecer, e eles fizerem equivalência do seu diploma como 2 anos ao invés de 3?
+  - Entre em contato com eles e mostre o link abaixo e envie o trecho acima explicando que o seu diploma deveria ser equivalente a um de 3 anos. Eles irão corrigir sua equivalência.
 
 [https://wenr.wes.org/2019/11/education-in-brazil](https://wenr.wes.org/2019/11/education-in-brazil)
 
 
 ### Passo a passo
-Para validar o diploma no Canadá, você terá que usar uma das instituíçoes que o governo aceita.
+Para realizar o processo de equivalência de diploma no Canadá, você terá que usar uma das instituíçoes que o governo aceita.
 Esse processo é sobre o [WES](https://www.wes.org/ca/).
 
 - Entre no site do [WES](https://www.wes.org/ca/).
@@ -64,10 +64,10 @@ CANADA
 * [WES - Help Center](https://www.wes.org/help#/path/Applying-to-WES/)
 * [WES - Custo para Equivalência](https://www.wes.org/evaluations-and-fees/immigration/)
 * [WES - Document Requirements: What is a Sealed Envelope?](https://www.youtube.com/watch?v=_dmkibY8DPk&t=4s)
-* [WES - Documentos necessário para validaçao de diploma - Em inglês](https://www.wes.org/ca/required-documents/)
-* [WES - Documentos necessário para validaçao de diploma - Em Português](https://applications.wes.org/required/brazil.asp?ctry=ca)
+* [WES - Documentos necessário para equivalência de diploma - Em inglês](https://www.wes.org/ca/required-documents/)
+* [WES - Documentos necessários para equivalência de diploma - Em Português](https://applications.wes.org/required/brazil.asp?ctry=ca)
 * [Equivalência de diploma via WES](https://vainevar.wordpress.com/2017/04/27/equivalencia-de-diploma-via-wes/)
-* [O que diz o governo sobre quais diplomas você tem que validar](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/who.html)
+* [O que diz o governo sobre quais diplomas você tem de fazer equivalência](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/who.html)
 
 
 ---
