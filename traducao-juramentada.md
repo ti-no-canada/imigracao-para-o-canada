@@ -17,3 +17,8 @@ Veja aqui uma tabela de comparativo de preços de alguns serviços de tradução
 | Tradutora independente no Brasil | R$ 398 | Você pode cotar com uma empresa da sua cidade. |
 
 Preço total da tradução do documento acima. $ = CAD e R$ = Reais.
+
+### Tradução para vistos para residentes permanentes
+Desde 8 de janeiro de 2021, a imigração está requerindo a tradução de documentos em um novo formato: cópia do documento original com carimbo do tradutor + cópia do documento traduzido com selo. Ambos devem ser anexado em formato de dossie.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/refugee-protection/removal-risk-assessment/translation.html)
