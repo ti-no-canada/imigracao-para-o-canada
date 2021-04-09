@@ -18,3 +18,18 @@ E para nos conhecermos melhor, os novos membros podem se Apresentar.
 7.  Não vamos tolerar qualquer tipo de Falta de Respeito.
 
 Os Administradores darão Uma  Advertência na Segunda vez a pessoa será Removida
+
+
+
+---
+É importante entender que esse repositório é apenas para informações gerais, do qual é quase impossivel manter totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo. 
+
+O objetivo é somente para trazer informações para brasileiros (ou falantes de lingua portuguesa) sobre o Canadá. 
+
+O Primeiro e **MAIS IMPORTANTE PASSO** para Imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** Todas as Possibilidades para o **Seu Perfil!!**
+Sem esta Constante Pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
+Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar duvidas, trocar idéias, informação e ajudar você na sua decisão. **Participe!!!**.
+
+**Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
+
+Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
