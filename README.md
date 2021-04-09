@@ -67,6 +67,7 @@ Baixe o aplicativo móvel eDeclaration para economizar tempo na chegada ao Canad
 
 
 # Como anda o mercado de TI no Canadá? Lista de sites de busca de empregos no Canadá
+* [Veterry](https://www.vettery.com/)
 * [BC Jobs](https://www.bcjobs.ca)
 * [Careerbeacon](https://www.careerbeacon.com)
 * [CareerJet CA](https://www.careerjet.ca)
