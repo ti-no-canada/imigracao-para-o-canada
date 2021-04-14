@@ -24,7 +24,8 @@
 - [Guru link](www.gurulink.ca)
 - [Veterry](https://www.vettery.com/)
 
-<!-- www.canadajobexpo.com
+<!-- 
+Quem quiser transformar esse sites em links, fique a vontade, só peço atenção para colocar os de feira de emprego no arquivo 'feira-empregos'. Obrigado!
 www.canadajobs.com
 www.canadiancareers.com
 www.canadianjobs.com
