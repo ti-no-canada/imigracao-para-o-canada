@@ -73,7 +73,7 @@ Baixe o aplicativo móvel eDeclaration para economizar tempo na chegada ao Canad
 - [IOS](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
 
 # Como anda o mercado de TI no Canadá? Lista de sites de busca de empregos no Canadá
-Visite nossa sessão de [sites de empregos no Canadá](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md) para saber quais sites você deve procurar empregos na sua aréa, e ainda saber como está a sua área/linguagem/setor no cenário empregatício no Canadá.
+Visite nossa sessão de [sites de empregos no Canadá](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/sites-de-emprego.md) para saber quais sites você deve procurar empregos na sua aréa, e ainda saber como está a sua área/linguagem/setor no cenário empregatício no Canadá.
 
 Também disponibilizamos uma lista de sites onde acontecem [feiras de emprego](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md) onde geralmente acontecem eventos onde empresas procuram novos funcionários e parceiros para futuras oportunidades.
 
