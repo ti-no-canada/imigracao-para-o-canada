@@ -26,7 +26,7 @@ Nota: Pode no momento não ter nenhuma feira/evento, pois cada empresa tem seu p
 
 - [IIBC](https://iibc.ca/)
 
-## Voltados a quem já tem Work Permit
+## Voltados a quem já tem Open Work Permit / PR / Cidadania
 
 - [In-TAC](https://www.in-tac-expo.com/)
 
