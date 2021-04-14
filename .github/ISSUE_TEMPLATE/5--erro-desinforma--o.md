@@ -1,6 +1,7 @@
 ---
 name: 5. Erro/Desinformação
-about: Describe this issue template's purpose here.
+about: Ajude nosso repositorio reportando um erro encontrado nas informações listadas
+  nele. Até mesmo atualizando informação.
 title: "[Erro/Desinformação] (sumarize o erro encontrado)"
 labels: Error/Desinformação
 assignees: ''
