@@ -33,3 +33,5 @@ Nota: Pode no momento não ter nenhuma feira/evento, pois cada empresa tem seu p
 - [Jobs Canada Fair](https://www.jobscanadafair.com/jobseeker-registration/)
 
 - [Job Start](https://www.jobstart.org/)
+
+- [Canada Job Expo](www.canadajobexpo.com)
