@@ -52,6 +52,23 @@ Vale lembrar que as vagas da AIESEC não são exclusiva do Brasil, e você estar
 
 Outro ponto importante é que com o *IEC Young Professionals* você fica isento do LMIA quando aplicar para a residencia permanente. Basta o empregador (no Canadá) fazer uma carta mencionando o NOC, o tempo que você trabalhou na empresa (canadense) e o quanto seu trabalho foi significante para a empresa, mostrando as atividades exercida, o tempo de trabalho e o salario recebido. Dessa maneira, você entra na categoria ["Canadian Interests"](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/offer-employment/lmia-exempt.html) e recebe + 50 pontos (caso seu NOC for A ou B) no Express Entry sem precisar de um LMIA. Uma dica é mencionar na carta que essa regra que aplica para você.
 
+**E Sobre o Cônjuge dentro da categoria IEC - Young Professionals, tem direito ao Work Permit?**
+
+Resposta simples: **SIM! TEM!**
+
+
+**Processo:**
+Dentro dessa categoria não é possivel fazer uma aplicação conjunta como o Work Permit baseado no LMIA.
+
+É importante o **Aplicante principal** (o que conseguiu a vaga e está aplicando pra um work permit) colocar as comprovações financeiras no seu registro para o **work permit** e certidão de casamento no seu processo. 
+
+O Conjuge devera criar um perfil no site do governo canadense e aplicar pra um **Visitor Visa**. Além de todos os documentos obrigatórios na aplicação de **visitor visa**, deverá ter uma **carta de intenção** informando o UCI e a aplicação do work permit do **aplicante principal**. Com isso o oficial conseguirá linkar os perfis e tratarão como um processo só.
+
+Após a chegada do casal no Canadá, o cônjuge ainda não poderá trabalhar. Porém, após o **aplicante principal** receber seu terceiro paystub (contra-cheque), o cônjuge poderá solicitar a alteração de status de **Visitor** para **Worker**. Nessa nova aplicação é preciso colocar além dos documentos de identificação obrigatórios, tem que adicionar **Visitor Permit**, o **work permit** do aplicante principal e os 3 paystubs.  
+
+Esse tipo de aplicação é considerado uma extensão de visto e terá [prazos diferentes](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html).
+
+> Atualizado em 26/04/2021
 
 ## Quem pode aplicar para o Open work permit
 
