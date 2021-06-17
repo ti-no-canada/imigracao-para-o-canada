@@ -13,6 +13,27 @@ Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar 
 6. [Mairo Vergara - Aprender inglês com vídeos, ensino do Sistema de Repetição Espaçada e frases para uso desse metódo](https://www.mairovergara.com)
 7. [EngVid - Site com milhares de videos do youtube onde diferentes professores nativos ensinam o inglês para você](https://www.engvid.com)
 8. [British Council](https://learnenglish.britishcouncil.org)
+9. [Aulas de Inglês Grátis](https://aulasdeinglesgratis.net/)
+10. [Tim Barrett  e família com mini-podcasts diários](http://www.domineingles.com.br/)
+11. [Learn American English Online](https://www.learnamericanenglishonline.com/)
+12. [English for Career Development, a course created by the University of Pennsylvania, and funded by the U.S. Department of State Bureau of Educational and Cultural Affairs, Office of English Language Programs. ](https://www.coursera.org/learn/careerdevelopment)
+13. [Inglês Online com Cambly - Podcast do Cambly dedicado ao ensino do inglês online com conversação em inglês com nativos.](https://soundcloud.com/ingles-online)
+14. [O Bendito Inglês é um guia gratuito direcionado para todas as pessoas que desejam aprender inglês.](http://benditoingles.com.br/)
+15. [Inglês na Ponta da Língua](https://www.inglesnapontadalingua.com.br/)
+15. [7 Steps to Learn English](https://7esl.com/)
+
+### Textos fáceis para ler e ouvir em inglês
+1. [Site para ler e ouvir notícias curtas, atualizadas, em três níveis de dificuldade.](https://www.newsinlevels.com/).
+2. [Notícias atualizadas, além de contos adaptados e biografias de grandes personalidades](https://learningenglish.voanews.com/).
+3. [Histórias infantis clássicas, com áudio](https://agendaweb.org/listening/stories_fairytales.html).
+4. [Explore os textos que são relacionados no menu principal, com áudio e exercícios](https://listenaminute.com/).
+5. [Textos fáceis, com áudio, como as Fábulas de Esopo e pequenos trechos de livros clássicos.](https://www.englishclub.com/listening/).
+6. [Textos com os mais variados assuntos do cotidiano, retratando diálogos que podem ocorrer na escola, nas ruas, em casa ou durante viagens.](https://www.dailyesl.com/).
+7. [As categorias conduzem a inúmeros links, inclusive de outros sites, com textos e diálogos de fácil compreensão.](https://www.english-guide.org/category/listening).
+8. [365 histórias curtinhas, com palavras e frases de fácil compreensão.](https://eslyes.com/).
+9. [Apresenta uma série de textos rápidos, com áudio, ideais para a prática da pronunciação.](https://www.rong-chang.com/qa2/).
+10. [Contos ilustrados. Acesse cada uma das estorinhas e aperte o botão play para ouvir o narrados. E não deixe de explorar os passatempos e questionários que o site oferece.](https://lightupyourbrain.com/stories/).
+11. [Você poderá exercitar ainda mais a sua habilidade para ouvir em inglês, com histórias clássicas, como Pinocchio, e com pequenos resumos da literatura infanto-juvenil.](https://www.thestoryhome.com/).
 
 ### Estudar para teste de proficiência (CELPIP/IELTS)
 
