@@ -49,6 +49,8 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
+[Veja se o seu consultor de imigração é legalizado.](https://iccrc-crcic.ca/find-a-professional/) Se o seu consultor não tiver o número RCIC# para consultar nesse site, assim como também ele não estiver ativo, saiba que o seu consultor não é authorizado a atuar como seu representante na imigração canadense, nem mesmo para dar consultoria. Você pode está caindo em um golpe. 
+
 ### Aplicativos úteis para imigração
 
 #### CanPR _(Aplicativo de terceiros)_
