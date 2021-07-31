@@ -142,3 +142,9 @@ Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI 
 **Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
 
 Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
+
+
+# Agradecimentos
+Nossos agradecimentos aos nossos membros que contribuiram com esse repositório que trouxeram muitas informações sobre processo de imigração e ajudaram e ajudarão muitas pessoas que estão em processo para vir para o Canadá.
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=ti-no-canada/imigracao-para-o-canada)
