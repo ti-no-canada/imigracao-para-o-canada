@@ -19,7 +19,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Como conseguir uma permissão de trabalho Canadá (Work Permit)](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md)
 
-[Feiras de Emprego](https://github.com/ti-no-canada/Geral/blob/master/feiras-emprego.md)
+[Feiras de Emprego](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md)
 
 [Equivalência de diploma no Canadá](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md)
 
