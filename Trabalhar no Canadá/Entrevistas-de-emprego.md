@@ -70,3 +70,11 @@ Nesse momento, fale tudo com o seu recrutador, ele dará os feedbacks de como vo
 - Tenha água com você para beber um pouco durante a entrevista.
 - Vá ao banheiro antes da entrevista
 - Ao final da entrevista agradeça pelo tempo dos entrevistados ali mesmo e pergunte <br> sobre "next steps" e pergunte sobre quando pode esperar uma resposta.
+
+
+### Links úteis
+
+- [Question to ask in a job interview](https://alis.alberta.ca/look-for-work/interviews-and-offers/questions-to-ask-in-a-job-interview/)
+- [Reverse interview](https://github.com/viraptor/reverse-interview)
+- [Find engineering teams that share your values](https://www.keyvalues.com/)
+
