@@ -82,7 +82,7 @@ Também disponibilizamos uma lista de sites onde acontecem [feiras de emprego](h
 
 Caso você esteja procurando trabalhar remoto, veja as [nossas dicas de sites](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/trabalho-remoto.md) que podem lhe ajudar nos seus objetivo.
 
-Confira também algumas dicas valiosas de [como montar o seu resume e se sair bem na entrevista](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/dicas.md).
+Confira também algumas dicas valiosas de [como montar o seu resume e se sair bem na entrevista](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canad%C3%A1/Entrevistas-de-emprego.md).
 
 # Províncias e territórios do Canada
 
