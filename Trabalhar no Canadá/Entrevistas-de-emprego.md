@@ -4,7 +4,7 @@ Muitos de nós passamos pelo longo processo de ser considerado para uma vaga de 
 
 ## Como funciona a entrevista
 
-- Fase 1: Recrutador 
+### Fase 1: Recrutador 
 
 O recrutador poderá ser o da propria empresa ou de uma outra empresa especialista em RH. 
 
@@ -22,7 +22,7 @@ Pergunte quando será a próxima fase e exija datas.
 
 Agradeça a oportunidade e o tempo que eles dedicaram a lhe entrevistar.
 
-- Fase 2: Code Assessement ou conversa técnica com a empresa
+### Fase 2: Code Assessement ou conversa técnica com a empresa
 
 Nessa fase normalmente esperamos dois comportamentos da empresa que está contratando programadores: Ou ela manda um code assessement que basicamente é um exercicio de codigo simples que você poderá resolver em pouco tempo de investimento, ou ela marcará uma entrevista tecnica e nela você enfrentará perguntas tecnicas e para programadores, poderá encontrar mini exercicios de logica, algoritmos e padrões de projetos. Invista um tempo no [https://www.hackerrank.com/](https://www.hackerrank.com/) para treinar quando você estiver procurando emprego.
 
@@ -39,7 +39,7 @@ Agradeça a oportunidade e o tempo que eles dedicaram a lhe entrevistar.
 
 [Encontramos um repositorio](https://github.com/viraptor/reverse-interview/blob/master/README.md#tech) que poderá lhe ajudar a fazer esse tipo de perguntas. Anote umas 3 ou 4 das quais você poderá ter curiosidade e as faça nesse final de entrevista. Lembre-se de perguntar quando será a próxima fase.
 
-- Fase 3: Entrevista com gestores da empresa
+### Fase 3: Entrevista com gestores da empresa
 
 Nessa Fase, teremos uma conversa com gestores, preparesse para ser bombardeado de perguntas sobre o sua postura em empresas, exemplos: "quais são os seus pontos fortes?", "quais são os seus pontos fracos?", "Em algum momento você ja cometeu um erro critico? (explore essa pergunta, ela é sua oportunidade para se dar bem, nessa pergunta mencione um erro que voce cometeu, como esse erro afetou a empresa e mostre como você aprendeu com ele e o que você faz hoje para evita-lo)" 
 
@@ -47,7 +47,7 @@ No final dessa entrevista, chega a parte mais importante do processo: suas pergu
 
 Agradeça a oportunidade e o tempo que eles dedicaram a lhe entrevistar.
 
-- Fase 4: Recrutador
+### Fase 4: Recrutador
 
 Nesse momento, fale tudo com o seu recrutador, ele dará os feedbacks de como você foi na entrevista. Se a empresa lhe aceitou, o recrutador informará que você receberá a job offer. Caso você não seja aceito, exija do recrutador o feedback, quais foram os seus pontos fracos, assim você poderá melhora-los para a proxima entrevista. 
 
