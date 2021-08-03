@@ -18,9 +18,7 @@ Nessa fase você poderá perguntar muitas coisas sobre a empresa. Exemplo: "Qual
 
 Geralmente essa entrevista poderá encerrar quando o recrutar lhe perguntar se você tem alguma outra pergunta: 
 
-Pergunte quando será a próxima fase e exija datas.
-
-Agradeça a oportunidade e o tempo que eles dedicaram a lhe entrevistar.
+Pergunte quando será a próxima fase e exija datas e agradeça a oportunidade e o tempo que eles dedicaram a lhe entrevistar.
 
 ### Fase 2: Code Assessement ou conversa técnica com a empresa
 
@@ -39,9 +37,12 @@ Agradeça a oportunidade e o tempo que eles dedicaram a lhe entrevistar.
 
 [Encontramos um repositorio](https://github.com/viraptor/reverse-interview/blob/master/README.md#tech) que poderá lhe ajudar a fazer esse tipo de perguntas. Anote umas 3 ou 4 das quais você poderá ter curiosidade e as faça nesse final de entrevista. Lembre-se de perguntar quando será a próxima fase.
 
-### Fase 3: Entrevista com gestores da empresa
+### Fase 3: Entrevista com gestores da empresa (tech lead, gerente, coordenador, CTO)
 
-Nessa Fase, teremos uma conversa com gestores, preparesse para ser bombardeado de perguntas sobre o sua postura em empresas, exemplos: "quais são os seus pontos fortes?", "quais são os seus pontos fracos?", "Em algum momento você ja cometeu um erro critico? (explore essa pergunta, ela é sua oportunidade para se dar bem, nessa pergunta mencione um erro que voce cometeu, como esse erro afetou a empresa e mostre como você aprendeu com ele e o que você faz hoje para evita-lo)" 
+
+Nessa fase, o recrutador entrará em contato com você para fazer uma preparação de entrevista e junto com essa preparação um email com todos os detalhes de como funciona essa entrevista. Incluindo, sites da empresa, perfis da empresa em redes sociais (linkedin, facebook). Nessa fase, tenha o recrutador como seu amigo e pergunte absolutamente tudo que você gostaria de perguntar sobre a empresa a ele (inclusive sobre valores e beneficios). Essa entrevista de preparação, o recrutador vai querer saber sobre suas investigações sobre a empresa ou sobre as respostas que voce preparou para as perguntas que ele lhe mandou em um email anterior (se ele tiver mandado). Foque em treinar para entrevista, tipo de perguntas, respostas e como será a proxima fase. Geralmente o recrutador terá experiencia de outros candidatos que prestaram entrevista para a mesma vaga, pergunte como eles se sairam, onde eles falharam, e tente acertar onde eles falharam.
+
+Na hora da entrevista com a empresa, você terá uma conversa com gestores. Preparesse para ser bombardeado de perguntas sobre o sua postura em empresas, exemplos: "quais são os seus pontos fortes?", "quais são os seus pontos fracos?", "Em algum momento você ja cometeu um erro critico? (explore essa pergunta, ela é sua oportunidade para se dar bem, nessa pergunta mencione um erro que voce cometeu, como esse erro afetou a empresa e mostre como você aprendeu com ele e o que você faz hoje para evita-lo)" 
 
 No final dessa entrevista, chega a parte mais importante do processo: suas perguntas à empresa. Veja esses repositório sobre [perguntas importantes para fazer nessa fase](https://github.com/viraptor/reverse-interview/blob/master/README.md). E ao final pergunte quando será a proxima fase (se houver) e exija datas. 
 
