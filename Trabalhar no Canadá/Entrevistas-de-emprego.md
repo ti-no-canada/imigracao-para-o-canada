@@ -12,7 +12,7 @@ As entrevistas normalmente tem 3 fases: **Recrutador**, **Code Assessement/entre
 
 ### Fase 1: Recrutador 
 
-O recrutador poderá ser o da propria empresa ou de uma outra empresa especialista em RH. Tenha o recrutador como o seu amigo de confiança (obviamente, ele não é). O recrutador quer tanto que você consiga a vaga quanto você, pois eles ganham comissão em cima ou em cima do seu salário (caso seja uma empresa de recrutamento como a Terminal ou BairesDev). 
+O recrutador poderá ser o da propria empresa ou de uma outra empresa especialista em RH. Tenha o recrutador como o seu amigo de confiança (obviamente, ele não é). O recrutador quer tanto que você consiga a vaga quanto você, pois eles ganham comissão em cima por sucesso de contratação (afinal, eles acharam o profissional que a empresa queria) ou em cima do seu salário (caso seja uma empresa de recrutamento/RH como a Terminal ou BairesDev). 
 O Recrutador ele dará o máximo de informações disponiveis para ele à você. 
 
 Essa fase poderá ser a mais dificil para quem está fora do Canadá, geralmente o recrutador está procurando alguém com permissão de trabalho no Canadá para uma empresa canadense. Muito dificil imaginar uma situação que o recrutador passará você pra frente sem a garantia que você terá a permissão. Apenas em casos que a empresa deixa claro o desejo de trazer alguem de fora.
