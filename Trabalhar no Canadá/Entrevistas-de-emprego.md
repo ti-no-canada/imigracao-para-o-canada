@@ -4,9 +4,16 @@ Muitos de nós passamos pelo longo processo de ser considerado para uma vaga de 
 
 ## Como funciona a entrevista
 
+Entrevistas de emprego para os profissionais de tecnologia no Canadá podem ser um pouco mais demorada do que em outras áreas, normalmente um processo de contratação leva em torno de 2 meses, desde o contato do recrutador até você assumir a posição na empresa. Algumas empresas tentam apressar o processo para encurta-lo, mas não demorará menos de um mês para a sua efetivação. Se você já estiver trabalhando em uma outra empresa, normalmente você terá que dar o aviso de 2 semanas antes de mudar de empresa.
+
+As entrevistas normalmente tem 3 fases: **Recrutador**, **Code Assessement/entrevista tecnica** e **entrevista com lideranças**, podendo a **fase 2** e **fase 3** acontecerem no mesmo dia, como foi dito, algumas empresas aceleram esse processo. 
+
+
+
 ### Fase 1: Recrutador 
 
-O recrutador poderá ser o da propria empresa ou de uma outra empresa especialista em RH. 
+O recrutador poderá ser o da propria empresa ou de uma outra empresa especialista em RH. Tenha o recrutador como o seu amigo de confiança (obviamente, ele não é). O recrutador quer tanto que você consiga a vaga quanto você, pois eles ganham comissão em cima ou em cima do seu salário (caso seja uma empresa de recrutamento como a Terminal ou BairesDev). 
+O Recrutador ele dará o máximo de informações disponiveis para ele à você. 
 
 Essa fase poderá ser a mais dificil para quem está fora do Canadá, geralmente o recrutador está procurando alguém com permissão de trabalho no Canadá para uma empresa canadense. Muito dificil imaginar uma situação que o recrutador passará você pra frente sem a garantia que você terá a permissão. Apenas em casos que a empresa deixa claro o desejo de trazer alguem de fora.
 
@@ -20,7 +27,7 @@ Geralmente essa entrevista poderá encerrar quando o recrutar lhe perguntar se v
 
 Pergunte quando será a próxima fase e exija datas e agradeça a oportunidade e o tempo que eles dedicaram a lhe entrevistar.
 
-### Fase 2: Code Assessement ou conversa técnica com a empresa
+### Fase 2: Code Assessement e/ou conversa técnica com a empresa
 
 Nessa fase normalmente esperamos dois comportamentos da empresa que está contratando programadores: Ou ela manda um code assessement que basicamente é um exercicio de codigo simples que você poderá resolver em pouco tempo de investimento, ou ela marcará uma entrevista tecnica e nela você enfrentará perguntas tecnicas e para programadores, poderá encontrar mini exercicios de logica, algoritmos e padrões de projetos. Invista um tempo no [https://www.hackerrank.com/](https://www.hackerrank.com/) para treinar quando você estiver procurando emprego.
 
