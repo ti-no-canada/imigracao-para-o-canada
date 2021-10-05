@@ -23,6 +23,7 @@
 - [canadainfonet](https://www.canadainfonet.org)
 - [Guru link](www.gurulink.ca)
 - [Veterry](https://www.vettery.com/)
+- <https://lmia.work/>
 
 <!-- 
 Quem quiser transformar esse sites em links, fique a vontade, só peço atenção para colocar os de feira de emprego no arquivo 'feira-empregos'. Obrigado!
