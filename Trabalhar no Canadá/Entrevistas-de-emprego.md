@@ -32,9 +32,11 @@ Pergunte quando será a próxima fase e exija datas e agradeça a oportunidade e
 Nessa fase normalmente esperamos dois comportamentos da empresa que está contratando programadores: Ou ela manda um code assessement que basicamente é um exercicio de codigo simples que você poderá resolver em pouco tempo de investimento, ou ela marcará uma entrevista tecnica e nela você enfrentará perguntas tecnicas e para programadores, poderá encontrar mini exercicios de logica, algoritmos e padrões de projetos. Invista um tempo no [https://www.hackerrank.com/](https://www.hackerrank.com/) para treinar quando você estiver procurando emprego.
 
 
-Nessa fase para programadores, você irá lidar com perguntas básicas de programação, orientação a objeto, banco de dados e padrões de projetos. Espere perguntas como: "O que é injeção de dependencia?", "Como funciona o padrão de projeto singleton", "Como fazemos um relacionamento Many-to-many em banco de dados relacionais", "qual a diferença entre multi-tasking e multi-thread". 
+Nessa fase para programadores, você irá lidar com perguntas básicas de programação, orientação a objeto, banco de dados e padrões de projetos. Espere perguntas como: "O que é injeção de dependencia?", "Como funciona o padrão de projeto singleton", "Como fazemos um relacionamento Many-to-many em banco de dados relacionais", "qual a diferença entre multi-tasking e multi-thread", "explique o que é o padrão repository".
 
 Se você enviou um code assessement, prepare-se para discuti-lo aqui. Perguntas como "como você chegou nessa solução?", "Você consegue imaginar outro modo de resolver o mesmo problema?" 
+
+Alguns code assessments que você pode encontrar é: manipulação de array, manipulação de string, como identificar um polidromo, como reordenar uma string. Se prepare! 
 
 Para outras áreas, esperem perguntas semelhantes.
 
