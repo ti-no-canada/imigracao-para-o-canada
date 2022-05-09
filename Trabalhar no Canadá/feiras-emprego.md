@@ -4,7 +4,7 @@ Nota: Pode no momento não ter nenhuma feira/evento, pois cada empresa tem seu p
 
 ## Voltados a aplicações internacionais
 
-- [VanRack](https://vanhack.com/)
+- [VanHack](https://vanhack.com/)
 
 - [Talent Montral](https://talentmontreal.com/)
 
