@@ -1,6 +1,6 @@
 # Geral
 
-Repositório do grupo no telegram TI no Canada
+Repositório do grupo no telegram TI no Canadá
 
 [Grupo Oficial no Telegram](https://t.me/tinocanada)
 
@@ -10,7 +10,7 @@ Repositório do grupo no telegram TI no Canada
 
 [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para eventuais palavras, siglas que você não conhece, você pode encontrar aqui.
 
-Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no canadá? Ou dúvida sobre seu processo de imigração,
+Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no Canadá? Ou dúvida sobre seu processo de imigração,
 [crie uma issue](https://github.com/ti-no-canada/Geral/issues/new) e coloque uma label relacionada e/ou divulgue no [grupo oficial no Telegram](https://t.me/ti_no_canada).
 
 # Informações sobre imigração
@@ -29,7 +29,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 # Custo de vida
 
-[Site do governo para faixas saláriais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
+[Site do governo para faixas salariais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
 [Calcular imposto de renda do Canadá](https://www.ey.com/ca/en/services/tax/tax-calculators-2018-personal-tax)
 
@@ -49,7 +49,7 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
-[Veja se o seu consultor de imigração é legalizado.](https://iccrc-crcic.ca/find-a-professional/) Se o seu consultor não tiver o número RCIC# para consultar nesse site, assim como também ele não estiver ativo, saiba que o seu consultor não é authorizado a atuar como seu representante na imigração canadense, nem mesmo para dar consultoria. Você pode está caindo em um golpe. Se você tem um advogado de imigração, você pode consultar se o seu registro é valido [no sites oficiais listados aqui](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html#law-societies)
+[Veja se o seu consultor de imigração é legalizado.](https://iccrc-crcic.ca/find-a-professional/) Se o seu consultor não tiver o número RCIC# para consultar nesse site, assim como também ele não estiver ativo, saiba que o seu consultor não é autorizado a atuar como seu representante na imigração canadense, nem mesmo para dar consultoria. Você pode estar caindo em um golpe. Se você tem um advogado de imigração, você pode consultar se o seu registro é valido [no sites oficiais listados aqui](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html#law-societies)
 
 
 ### Aplicativos úteis para imigração
@@ -80,11 +80,11 @@ Visite nossa sessão de [sites de empregos no Canadá](https://github.com/ti-no-
 
 Também disponibilizamos uma lista de sites onde acontecem [feiras de emprego](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md) onde geralmente acontecem eventos onde empresas procuram novos funcionários e parceiros para futuras oportunidades.
 
-Caso você esteja procurando trabalhar remoto, veja as [nossas dicas de sites](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/trabalho-remoto.md) que podem lhe ajudar nos seus objetivo.
+Caso você esteja procurando trabalhar remoto, veja as [nossas dicas de sites](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/trabalho-remoto.md) que podem lhe ajudar no seu objetivo.
 
 Confira também algumas dicas valiosas de [como montar o seu resume e se sair bem na entrevista](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canad%C3%A1/Entrevistas-de-emprego.md).
 
-# Províncias e territórios do Canada
+# Províncias e territórios do Canadá
 
 - [Alberta](https://en.wikipedia.org/wiki/Alberta)
   - Idioma predominante: Inglês
@@ -102,13 +102,13 @@ Confira também algumas dicas valiosas de [como montar o seu resume e se sair be
   - Idioma predominante: Inglês
   - [Clima](https://www.currentresults.com/Weather/Canada/Newfoundland-Labrador/average-newfoundland-labrador-weather.php)
 - [Northwest Territories](https://en.wikipedia.org/wiki/Northwest_Territories)
-  - Idioma: Inglês, francês e outras linguas.
+  - Idioma: Inglês, francês e outras línguas.
   - [Clima](https://www.currentresults.com/Weather/Canada/Northwest-Territories/average-northwest-territories-weather.php)
 - [Nova Scotia](https://en.wikipedia.org/wiki/Nova_Scotia)
   - Idioma predominante: Inglês
   - [Clima](https://www.currentresults.com/Weather/Canada/Nova-Scotia/average-nova-scotia-weather.php)
 - [Nunavut](https://en.wikipedia.org/wiki/Nunavut)
-  - Idioma: Inglês, francês e outras linguas.
+  - Idioma: Inglês, francês e outras línguas.
   - [Clima](https://www.currentresults.com/Weather/Canada/Nunavut/average-nunavut-weather.php)
 - [Ontario](https://en.wikipedia.org/wiki/Ontario)
   - Idioma predominante: Inglês
@@ -123,7 +123,7 @@ Confira também algumas dicas valiosas de [como montar o seu resume e se sair be
   - Idioma predominante: Inglês
   - [Clima](https://www.currentresults.com/Weather/Canada/Saskatchewan/average-saskatchewan-weather.php)
 - [Yukon](https://en.wikipedia.org/wiki/Yukon)
-  - Idioma: Inglês, francês e outras linguas.
+  - Idioma: Inglês, francês e outras línguas.
   - [Clima](https://www.currentresults.com/Weather/Canada/Yukon/average-yukon-weather.php)
 
 
@@ -131,20 +131,20 @@ Confira também algumas dicas valiosas de [como montar o seu resume e se sair be
 
 ---
 
-É importante entender que esse repositório é apenas para informações gerais, do qual é quase impossivel manter totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo.
+É importante entender que esse repositório é apenas para informações gerais, sendo quase impossível mantê-lo totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo.
 
-O objetivo é somente para trazer informações para brasileiros (ou falantes de lingua portuguesa) sobre o Canadá.
+O objetivo é somente trazer informações para brasileiros (ou falantes de língua portuguesa) sobre o Canadá.
 
-O Primeiro e **MAIS IMPORTANTE PASSO** para Imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** Todas as Possibilidades para o **Seu Perfil!!**
-Sem esta Constante Pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
-Após ler o reposiório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar duvidas, trocar idéias, informação e ajudar você na sua decisão. **Participe!!!**.
+O Primeiro e **MAIS IMPORTANTE PASSO** para imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** todas as Possibilidades para o **seu perfil!!**
+Sem esta constante pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
+Após ler o reposiório compartilhe as suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar dúvidas, trocar ideias ou informações e ajudar você na sua decisão. **Participe!!!**.
 
 **Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
 
-Duvidas sobre siglas e palavras? Consulte nosso [Glosário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
+Dúvidas sobre siglas e palavras? Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
 
 
 # Agradecimentos
-Nossos agradecimentos aos nossos membros que contribuiram com esse repositório que trouxeram muitas informações sobre processo de imigração e ajudaram e ajudarão muitas pessoas que estão em processo para vir para o Canadá.
+Nossos agradecimentos aos nossos membros que contribuíram com esse repositório e que trouxeram muitas informações sobre o processo de imigração e ajudaram e ajudarão muitas pessoas que estão em processo para vir para o Canadá.
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=ti-no-canada/imigracao-para-o-canada)
