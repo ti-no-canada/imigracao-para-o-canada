@@ -1,6 +1,6 @@
 # Glossário
 
-Algumas siglas importantes que eventualmente você pode encontrar no [grupo de TI no Canadá](https://t.me/ti_no_canada) como no [repositório](https://github.com/ti-no-canada)
+Algumas siglas importantes que eventualmente você pode encontrar tanto no [grupo de TI no Canadá](https://t.me/ti_no_canada) como no [repositório](https://github.com/ti-no-canada)
 
 ### C
 
@@ -8,15 +8,15 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html).
 
-**CELPIP**: O *Canadian English Language Proficiency Index Program* é um dos testes de inglês aceito pela imigração canadense.
+**CELPIP**: O *Canadian English Language Proficiency Index Program* é um dos testes de inglês aceitos pela imigração canadense.
 
 [Saiba mais](https://www.celpip.ca).
 
-**CIC**: o *Department of Citizenship and Immigration Canada* é o departamento oficial do Canadá responsável pela imigração
+**CIC**: o *Department of Citizenship and Immigration Canada* é o departamento oficial do Canadá responsável pela imigração.
 
 [Saiba mais](https://www.cic.gc.ca/).
 
-**CLB**: O *Canadian Language Benchmark* é uma referencia do governo canadense para determinar seu nivel de compreensão e uso do idioma, ele é calculado baseado na sua nota no IELTS/CELPIP.
+**CLB**: O *Canadian Language Benchmark* é uma referência do governo canadense para determinar seu nível de compreensão e uso do idioma, ele é calculado com base na sua nota no IELTS/CELPIP.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html).
 
@@ -32,7 +32,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 ### E
 
-**ECA**: *Education Credential Assessment*, equivalência educacional feita por instituições específicas e utilizado para a imigração. Existem [cinco instituições credenciadas](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html#who) para emitir ECAs
+**ECA**: *Education Credential Assessment*, equivalência educacional feita por instituições específicas e utilizado para a imigração. Existem [cinco instituições credenciadas](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html#who) para emitir ECAs.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/).
 
@@ -44,7 +44,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](./informacoes-gerais-sobre-visto.md#o-que-é-express-entry).
 
-**eTA**: *Electronic Travel Authorization*, autorização para entrar no Canadá como turista por avião
+**eTA**: *Electronic Travel Authorization*, autorização para entrar no Canadá como turista por avião.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html).
 
@@ -54,7 +54,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html).
 
-**FSW**: *Federal Skilled Worker* Este programa é para trabalhadores qualificados com experiência de trabalho estrangeiro e que querem imigrar para o Canadá permanentemente.
+**FSW**: *Federal Skilled Worker*´, este programa é para trabalhadores qualificados com experiência de trabalho estrangeiro e que querem imigrar para o Canadá permanentemente.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html).
 
@@ -64,7 +64,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.cic.gc.ca/english/work/iec/eligibility.asp).
 
-**IELTS**: O *International English Language Testing System* é um dos testes de inglês aceito pela imigração canadense. Há duas modalidades, o **academic**, utilizado para fins educacionais, e o **general training**, utilizado para imigração.
+**IELTS**: O *International English Language Testing System* é um dos testes de inglês aceitos pela imigração canadense. Há duas modalidades: o **academic**, utilizado para fins educacionais; e o **general training**, utilizado para imigração.
 
 [Saiba mais](https://www.ielts.org).
 
@@ -72,7 +72,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.alberta.ca/iqas-immigration.aspx).
 
-**IRCC**: *Immigration, Refugees and Citizenship Canada*, instituição do governo canadense responsável pela emissão de cidadania e passaportes para canadenses
+**IRCC**: *Immigration, Refugees and Citizenship Canada*, instituição do governo canadense responsável pela emissão de cidadania e passaportes para canadenses.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship.html).
 
@@ -89,27 +89,27 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 ### M
 
-**MPNP**: *Manitoba Provincinal Nominee Program* programa provincial de nomeação para imigração de Manitoba, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+**MPNP**: *Manitoba Provincinal Nominee Program*, programa provincial de nomeação para imigração de Manitoba, provê chamadas para grupos de pessoas que atendam aos interesses da província.
 
 [Saiba mais](http://www.immigratemanitoba.com/immigrate-to-manitoba/).
 
 ### N
 
-**NLPNP**: *Newfoundland and Labrador Provincinal Nominee Program* programa provincial de nomeação para imigração de Newfoundland and Labrador, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+**NLPNP**: *Newfoundland and Labrador Provincinal Nominee Program*, programa provincial de nomeação para imigração de Newfoundland and Labrador, provê chamadas para grupos de pessoas que atendam aos interesses da província.
 
 [Saiba mais](https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/overview/).
 
-**NOC**: A *national occupational classification* é código utilizado para identificar as diferentes profissões baseado em suas atribuições.
+**NOC**: A *national occupational classification* é o código utilizado para identificar as diferentes profissões baseado em suas atribuições.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).
 
-**NSNP**: *Nova Scotia Nominee Program* programa provincial de nomeação para imigração de Nova Scotia, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+**NSNP**: *Nova Scotia Nominee Program*, programa provincial de nomeação para imigração de Nova Scotia, provê chamadas para grupos de pessoas que atendam aos interesses da província.
 
 [Saiba mais](https://novascotiaimmigration.com/move-here/).
 
 ### O
 
-**OINP**: *Ontario Immigration Nominee Program* programa provincial de nomeação para imigração de Ontário, provê chamadas para grupos de pessoas que atendam aos interesses da província. Divide-se em uma série de streams, como [foreign worker stream](https://www.ontario.ca/page/oinp-employer-job-offer-foreign-worker-stream), [international student stream](https://www.ontario.ca/page/oinp-employer-job-offer-international-student-stream), [in-demand skills stream](https://www.ontario.ca/page/oinp-employer-job-offer-demand-skills-stream), [masters graduate stream](https://www.ontario.ca/page/oinp-masters-graduate-stream) e [PhD graduate stream](https://www.ontario.ca/page/oinp-phd-graduate-stream).
+**OINP**: *Ontario Immigration Nominee Program*, programa provincial de nomeação para imigração de Ontario, provê chamadas para grupos de pessoas que atendam aos interesses da província. Divide-se em uma série de streams, como [foreign worker stream](https://www.ontario.ca/page/oinp-employer-job-offer-foreign-worker-stream), [international student stream](https://www.ontario.ca/page/oinp-employer-job-offer-international-student-stream), [in-demand skills stream](https://www.ontario.ca/page/oinp-employer-job-offer-demand-skills-stream), [masters graduate stream](https://www.ontario.ca/page/oinp-masters-graduate-stream) e [PhD graduate stream](https://www.ontario.ca/page/oinp-phd-graduate-stream).
 
 [Saiba mais](https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp).
 
@@ -123,7 +123,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html).
 
-**PNP**: *Provincinal nominee program* programa provincial de nomeação imigração, cada província gera seu programa e provê chamadas para grupos de pessoas que atendam aos interesses locais.
+**PNP**: *Provincinal nominee program*, programa provincial de nomeação para imigração. Cada província gera seu programa e provê chamadas para grupos de pessoas que atendam aos interesses locais.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/works.html).
 
@@ -131,7 +131,7 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html).
 
-**PR**: *Permanent Resident* É o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA), não dá direito a passaporte nem a participar da política canadense. Com a PR, seu status no país ainda é de imigrante.
+**PR**: *Permanent Resident* é o "Green card" Canadense, ou seja, aquele documento que te autoriza permanência definitiva no país. Muitos confundem ele com cidadania, mas o PR não permite entrada em países parceiros do Canadá (Ex. EUA), não dá direito a passaporte, nem a participar da política canadense. Com a PR, seu status no país ainda é de imigrante.
 
 [Saiba mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=006&top=4).
 
@@ -141,11 +141,11 @@ Algumas siglas importantes que eventualmente você pode encontrar no [grupo de T
 
 [Saiba mais](https://www.canada.ca/en/employment-social-development/services/sin.html).
 
-**SINP**: *Saskatchewan Immigrant Nominee Program* programa provincial de nomeação para imigração de Saskatchewan, provê chamadas para grupos de pessoas que atendam aos interesses da província.
+**SINP**: *Saskatchewan Immigrant Nominee Program*, programa provincial de nomeação para imigração de Saskatchewan, provê chamadas para grupos de pessoas que atendam aos interesses da província.
 
 [Saiba mais](https://www.saskatchewan.ca/residents/moving-to-saskatchewan/immigrating-to-saskatchewan/saskatchewan-immigrant-nominee-program).
 
-**SP**: *Study Permit*; permissão de estudo, geralmente você recebe essa permissão quando você aplica para estudar em algum college, essa permissão lhe dá direito de trabalhar 20 horas fora do campos da universidade e 20 horas para trabalhar dentro do campus nos períodos em que estiver estudando full-time. Durante períodos em que não esteja estudando, como o summer term, pode-se trabalhar 40h.
+**SP**: *Study Permit*; permissão de estudo, geralmente você recebe essa permissão quando você aplica para estudar em algum college, essa permissão lhe dá direito de trabalhar 20 horas fora do campos da universidade e 20 horas para trabalhar dentro do campus nos períodos em que estiver estudando full-time. Durante períodos em que não esteja estudando, como o summer term, pode-se trabalhar 40 horas.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html).
 
