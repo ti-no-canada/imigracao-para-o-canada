@@ -2,7 +2,7 @@
 
 Repositório do grupo no telegram TI no Canada
 
-[Grupo Oficial no Telegram](https://t.me/ti_no_canada)
+[Grupo Oficial no Telegram](https://t.me/tinocanada)
 
 [Regras do Grupo no Telegram](https://github.com/ti-no-canada/Geral/blob/master/regras-do-grupo.md)
 
