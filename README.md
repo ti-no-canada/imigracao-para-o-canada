@@ -51,19 +51,18 @@ Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no 
 
 [Veja se o seu consultor de imigração é legalizado.](https://iccrc-crcic.ca/find-a-professional/) Se o seu consultor não tiver o número RCIC# para consultar nesse site, assim como também ele não estiver ativo, saiba que o seu consultor não é autorizado a atuar como seu representante na imigração canadense, nem mesmo para dar consultoria. Você pode estar caindo em um golpe. Se você tem um advogado de imigração, você pode consultar se o seu registro é valido [no sites oficiais listados aqui](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html#law-societies)
 
-
 ### Aplicativos úteis para imigração
 
 #### CanPR _(Aplicativo de terceiros)_
 
-CanPR é um aplicativo que fornece informações sobre imigração e um passo-a-passo dos processos mais famosos para imigração. Com ele também é possivel ver os draw do [express entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry)
+CanPR é um aplicativo que fornece informações sobre imigração e um passo-a-passo dos processos mais famosos para imigração. Com ele também é possível ver os draw do [express entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry)
 
 - [Android](https://play.google.com/store/apps/details?id=maaz.canpr.myapplication&hl=en_CA)
 - [IOS](https://apps.apple.com/ca/app/canpr/id1447024170)
 
 #### CBSA CanBorder _(Aplicativo do governo canadense)_
 
-O aplicativo CanBorder fornece tempos de espera estimados em determinados portos de entrada no Canadá e nos Estados Unidos. Ideal para se preparar para fazer o FlagPole. Ele tá disponivel para:
+O aplicativo CanBorder fornece tempos de espera estimados em determinados portos de entrada no Canadá e nos Estados Unidos. Ideal para se preparar para fazer o FlagPole. Ele tá disponível para:
 
 - [Android](https://play.google.com/store/apps/details?id=ca.gc.cbsa.canborder.bwt&hl=en_CA)
 - [IOS](https://apps.apple.com/ca/app/cbsa-canborder/id1110491634)
@@ -76,6 +75,7 @@ Baixe o aplicativo móvel eDeclaration para economizar tempo na chegada ao Canad
 - [IOS](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
 
 # Como anda o mercado de TI no Canadá? Lista de sites de busca de empregos no Canadá
+
 Visite nossa sessão de [sites de empregos no Canadá](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/sites-de-emprego.md) para saber quais sites você deve procurar empregos na sua aréa, e ainda saber como está a sua área/linguagem/setor no cenário empregatício no Canadá.
 
 Também disponibilizamos uma lista de sites onde acontecem [feiras de emprego](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md) onde geralmente acontecem eventos onde empresas procuram novos funcionários e parceiros para futuras oportunidades.
@@ -126,9 +126,6 @@ Confira também algumas dicas valiosas de [como montar o seu resume e se sair be
   - Idioma: Inglês, francês e outras línguas.
   - [Clima](https://www.currentresults.com/Weather/Canada/Yukon/average-yukon-weather.php)
 
-
-
-
 ---
 
 É importante entender que esse repositório é apenas para informações gerais, sendo quase impossível mantê-lo totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo.
@@ -137,14 +134,14 @@ O objetivo é somente trazer informações para brasileiros (ou falantes de lín
 
 O Primeiro e **MAIS IMPORTANTE PASSO** para imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** todas as Possibilidades para o **seu perfil!!**
 Sem esta constante pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
-Após ler o reposiório compartilhe as suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar dúvidas, trocar ideias ou informações e ajudar você na sua decisão. **Participe!!!**.
+Após ler o repositório compartilhe as suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar dúvidas, trocar ideias ou informações e ajudar você na sua decisão. **Participe!!!**.
 
 **Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
 
 Dúvidas sobre siglas e palavras? Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
 
-
 # Agradecimentos
+
 Nossos agradecimentos aos nossos membros que contribuíram com esse repositório e que trouxeram muitas informações sobre o processo de imigração e ajudaram e ajudarão muitas pessoas que estão em processo para vir para o Canadá.
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=ti-no-canada/imigracao-para-o-canada)
