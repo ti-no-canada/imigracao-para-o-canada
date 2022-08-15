@@ -1,4 +1,4 @@
-# Tudo o que você precisa para um estudo independente da língua francesa. (Nem todos estão válidos, aviso se algo não funcionar por favor)
+# Tudo o que você precisa para um estudo independente da língua francesa.
 
 - www.francaisauthentique.com - site com várias coisas gratuitas e pagas pra francês
 - conande.com — treinador de palavras
@@ -142,3 +142,17 @@ https://www.regles-de-jeux.
 • [Lexique FLE (A1 à B1)](https://lexiquefle.free.fr/)
 
 • [Jeu de l'oie (A1 à B1+)](https://www.regles-de-jeux)
+
+
+
+---
+
+É importante entender que esse repositório é apenas para informações gerais, do qual é quase impossível manter totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo.
+
+O objetivo é somente para trazer informações para brasileiros (ou falantes de lingua portuguesa) sobre o Canadá.
+
+O Primeiro e **MAIS IMPORTANTE PASSO** para Imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** Todas as Possibilidades para o **Seu Perfil!!**
+Sem esta Constante Pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
+Após ler o repositório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar duvidas, trocar ideias, informação e ajudar você na sua decisão. **Participe!!!**. Lembre-se: Mantenha o Respeito e a Educação para com TODOS.
+
+Duvidas sobre siglas e palavras? Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
