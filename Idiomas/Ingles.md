@@ -121,43 +121,6 @@ Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar 
 49. [notícias em francês](https://www.france24.com/fr)
 50. [jogo de palavras em francês](https://babadum.com/play/?lang=5&game=1)
 
-### LES SITES POUR APPRENDRE LE FRANÇAIS
-
-• [Blog "Je dis, tu dis, il dit, nous disons…" (B2 à C1)](https://francebienvenue2.com/)
-
-• [DELF / DALF CIEP exemples de sujets (A1 à C2)](https://www.ciep.fr/delf-tout-public/exemples-des-sujets)
-
-• [Productions écrites de textes argumentatifs](https://sites.google.com/site/francaislyceemarrakech2/)
-
-• [La Boite à FLE, le blog de Pascale (A1 à B2)](https://laboiteafle.blogspot.com/)
-
-• [Une tasse de FLE, le blog d'Elena (A1 à B2)](https://gabfle.blogspot.com/p/blog-page.html)
-
-• [EXPRESSIO, les expressions en français](https://www.expressio.fr/)
-
-• [DELF / DALF Français Plus (A1 à C2)](https://lewebpedagogique.com/delf-dalf/)
-
-• [Blog "France bienvenue" (A1 à B2)](https://francebienvenue1.wordpress.com/)
-
-• [Pierre et ses "trucs" de grammaire](https://www.francaisavecpierre.com/systeme-francais-)
-
-• [La bulle FLE, le blog de Célyne](https://www.labullefle.fr/)
-
-• [Chanson francophone (A1 à C2)](https://enseigner.tv5monde.com/collection/paroles-de-…)
-
-• [Labomat - exercices (A1 à B2)](https://www.scoop.it/t/sites-de-fle)
-
-• [Le plaisir d'apprendre (A1 à B2)](https://www.leplaisirdapprendre.com/)
-
-• [DELF DALF Suisse (A1 à C2)](https://delfdalf.ch/)
-
-• [Ciel de Brest (A1 à B2)](https://www.ciel.fr/apprendre-francais/index.htm)
-
-• [Audio-lingua (A1 à B2)](https://www.audio-lingua.eu/?lang=ru)
-
-• [Lexique FLE (A1 à B1)](https://lexiquefle.free.fr/)
-
-• [Jeu de l'oie (A1 à B1+)](https://www.regles-de-jeux)
 
 ---
 
