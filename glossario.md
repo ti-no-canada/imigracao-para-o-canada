@@ -4,6 +4,8 @@ Algumas siglas importantes que eventualmente você pode encontrar tanto no [grup
 
 ### C
 
+**CAQ**: _Certificat d'Acceptation du Québec_ (Certificado de Aceitação de Québec) é uma autorização específica emitida pelo Governo do Québec para quem vai estudar, trabalhar ou permanecer na província por um período que seja superior a 6 meses. Diferente do resto do Canadá, se o seu destino é o Québec, você irá precisar primeiro do CAQ, para só então aplicar para o visto federal. Uma vez recebido o CAQ, o procedimento de solicitação do visto de residência temporária se torna o mesmo.
+
 **CEC**: _Canadian Experience Class_ é para trabalhadores qualificados que têm experiência de trabalho canadense e querem se tornar residentes permanentes.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html).
@@ -24,6 +26,8 @@ Algumas siglas importantes que eventualmente você pode encontrar tanto no [grup
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html#pointsA).
 [Calculadora Oficial](https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp).
+
+**CSQ**: _Certificat de Sélection du Québec_ (Certificado de Seleção de Québec) é o documento emitido para candidatos aprovados nos programas de imigração do Québec para mostrar que foram selecionados para imigração. Diferente do resto do Canadá, para imigrar por Québec, você irá precisar primeiro do CSQ emitido pelo governo provincial, para só então aplicar para residência permanente junto ao governo federal. Uma vez recebido o CSQ, o procedimento de solicitação do visto de residente permanente se torna o mesmo.
 
 ### D
 
@@ -117,6 +121,10 @@ Algumas siglas importantes que eventualmente você pode encontrar tanto no [grup
 [Saiba mais](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=176&top=17).
 
 ### P
+
+**PEQ**: _Programme de l'Expérience Québécoise_ (Programa de Experiência do Québec) é um dos programas de seleção de imigrantes pelo Governo do Québec e tem duas modalidades: estudo e trabalho. Na categoria estudo, é necessário que o candidato tenha se graduado em uma das instituições elegíveis e tido experiência de trabalho posterior em Québec. Na categoria de trabalho, você deve ter residido em Québec como um trabalhor estrangeiro temporário e exercido, no mínimo, 24 meses de trabalho remunerado full-time (NOC's 0, A or B), ainda que não contínuos, nos últimos 36 meses. Em ambas as modalidades também é exigida a comprovação de nível de Francês oral para o aplicante principal (level 7/EQNCF ou B2/CECR) e para eventual cônjuge acompanhante (level 4/EQNCF ou A2/CECR).
+
+[Saiba mais](https://www.quebec.ca/en/immigration/immigration-programs/quebec-experience-program).
 
 **PGWP**: _Post-Graduation Work Permit_, visto de trabalho oferecido a quem se forma em um programa educacional no Canadá em uma instituição pública (DLI).
 
