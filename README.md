@@ -5,6 +5,7 @@ Repositório do grupo no telegram TI no Canadá
 [![Grupo oficial no telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&label=Grupo%20Oficial)](https://t.me/tinocanada) [![Repositório Oficial](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&label=Repositório%20Oficial)](https://github.com/ti-no-canada)
 [![Regras](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&label=Regras)](https://github.com/ti-no-canada/Geral/blob/master/regras-do-grupo.md)  
 ---
+[![Nossos MeetUps](https://img.shields.io/badge/%F0%9F%95%BAMeetups-Nossos%20meetups%2C%20participe-orange)](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions/categories/meet-up)
 [![Discussões gerais](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=Discussões)](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions) [![Enquetes](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=Enquetes)](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions/categories/enquetes)  [![Vagas](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=Vagas)](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions/categories/vagas-no-canad%C3%A1-ou-remota-job)
 ---
 
