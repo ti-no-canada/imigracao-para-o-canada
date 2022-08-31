@@ -2,16 +2,15 @@
 
 Repositório do grupo no telegram TI no Canadá
 
-[Grupo Oficial no Telegram](https://t.me/tinocanada)
+[![Grupo oficial no telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&label=Grupo%20Oficial)](https://t.me/tinocanada) [![Repositório Oficial](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&label=Repositório%20Oficial)](https://github.com/ti-no-canada)
+[![Regras](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&label=Regras)](https://github.com/ti-no-canada/Geral/blob/master/regras-do-grupo.md)  
+---
+[![Discussões gerais](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=Discussões)](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions) [![Enquetes](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=Enquetes)](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions/categories/enquetes)  [![Vagas](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=Vagas)](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions/categories/vagas-no-canad%C3%A1-ou-remota-job)
+---
 
-[Regras do Grupo no Telegram](https://github.com/ti-no-canada/Geral/blob/master/regras-do-grupo.md)
 
-[Link oficial do GitHub](https://github.com/ti-no-canada)
+[![Repositório Oficial](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&label=Glossário)](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para eventuais palavras, siglas que você não conhece, você pode encontrar aqui.
 
-[Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para eventuais palavras, siglas que você não conhece, você pode encontrar aqui.
-
-Tem evento relacionado que queira divulgar? Ou tem oportunidades de empregos no Canadá? Ou dúvida sobre seu processo de imigração,
-[crie uma issue](https://github.com/ti-no-canada/Geral/issues/new) e coloque uma label relacionada e/ou divulgue no [grupo oficial no Telegram](https://t.me/ti_no_canada).
 
 # Informações sobre imigração
 
