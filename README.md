@@ -17,7 +17,7 @@ Repositório do grupo no telegram TI no Canadá
 
 [Informações sobre visto](https://github.com/ti-no-canada/Geral/blob/master/informacoes-gerais-sobre-visto.md)
 
-[Como conseguir uma permissão de trabalho Canadá (Work Permit)](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md)
+[Como conseguir uma permissão de trabalho Canadá (Work Permit)](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canad%C3%A1/work-permit.md)
 
 [Feiras de Emprego](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md)
 
@@ -25,7 +25,7 @@ Repositório do grupo no telegram TI no Canadá
 
 [Tradução Juramentada](https://github.com/ti-no-canada/Geral/blob/master/traducao-juramentada.md)
 
-[Estudo de Inglês e/ou Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/dicas-de-idiomas.md)
+Estudo de [Inglês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Ingles.md)/[Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Frances.md)
 
 # Custo de vida
 
