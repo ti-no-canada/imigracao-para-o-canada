@@ -138,6 +138,8 @@ Algumas siglas importantes que eventualmente você pode encontrar tanto no [grup
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/works.html).
 
+**POE**: _Port of Entry_, é um local por onde se pode buscar entrar legalmente no Canadá, como por exemplo, em um aeroporto ou em um posto de fronteira terrestre ou marítimo. É nesse local que um oficial de imigração irá examinar seus documentos e decidir sobre a sua entrada e estadia no país, inclusive emitindo permissão de estudos ou de trabalho.
+
 **POF**: _Proof of funds_, comprovação financeira exigida para o programa. O valor varia de acordo com o tamanho da família e com o processo utilizado.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html).
