@@ -22,6 +22,10 @@ Algumas siglas importantes que eventualmente você pode encontrar tanto no [grup
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html).
 
+**CoPR**: _Confirmation of Permanent Residence_ é um documento que o IRCC emite em seu favor e que confirma que você foi aprovado para residir permanentemente no Canadá. Para quem está fora do país, ele também funciona como um visto de entrada única. Uma vez que você o tenha recebido, para se tornar oficialmente um residente permanente, você precisa ir até um porto de entrada do Canadá (POE) dentro do prazo de validade do CoPR, onde ele será assinado e datado, registrando a data oficial de entrada.
+
+[Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/status-documents.html#copr).
+
 **CRS**: O _Comprehensive Ranking System_ é um dos sistemas de pontuação utilizados pelo Express Entry para fazer chamadas de aplicantes.
 
 [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html#pointsA).
