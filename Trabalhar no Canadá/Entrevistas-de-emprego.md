@@ -74,6 +74,11 @@ Nesse momento, fale tudo com o seu recrutador, ele dará os feedbacks de como vo
 - Vá ao banheiro antes da entrevista
 - Ao final da entrevista agradeça pelo tempo dos entrevistados ali mesmo e pergunte <br> sobre "next steps" e pergunte sobre quando pode esperar uma resposta.
 
+> **Note** 
+> 
+> Se você tem interesse em ter seu resume revisado pela comunidade, siga [as instruções deste tópico em nosso Discussions](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions/67).
+
+
 ### Links úteis
 
 - [Question to ask in a job interview](https://alis.alberta.ca/look-for-work/interviews-and-offers/questions-to-ask-in-a-job-interview/)
