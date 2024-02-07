@@ -2,7 +2,7 @@
 
 Traduzir seus documentos de Português para o Inglês é um passo necessário no processo de imigração e da [Equivalência de diploma no Canadá (Validação do diploma)](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md).
 
-No Brasil os preços são tabelados e você pode consultar a tabela na Junta Comercial do seu estado.
+No Brasil os preços são tabelados e você pode consultar a tabela na [Junta Comercial do seu estado](https://www.gov.br/mre/pt-br/consulado-hartford/tradutores-juramentados-no-brasil/lista-de-tradutores-juramentados-por-estado).
 
 Fique atento para não pagar barato demais por uma tradução que não seja juramentada.
 
