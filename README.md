@@ -27,6 +27,8 @@ Repositório do grupo no telegram TI no Canadá
 
 Estudo de [Inglês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Ingles.md)/[Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Frances.md)
 
+[Mapa Mental (em construção - nos ajude atualiza-lo)](https://app.mindmapmaker.org/#m:mm7a8cbcd4521143c993e59926a341a0f8)
+
 # Custo de vida
 
 [Site do governo para faixas salariais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
