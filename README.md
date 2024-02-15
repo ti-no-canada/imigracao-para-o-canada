@@ -27,7 +27,7 @@ Repositório do grupo no telegram TI no Canadá
 
 Estudo de [Inglês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Ingles.md)/[Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Frances.md)
 
-[Mapa Mental (em construção - nos ajude atualiza-lo)](https://app.mindmapmaker.org/#m:mm7a8cbcd4521143c993e59926a341a0f8)
+[Mapa Mental imigração para o Canada (em construção - nos ajude atualiza-lo com o seu PR)](https://app.mindmapmaker.org/#m:mm1317040e39d442459abc6bbfc9189fff)
 
 # Custo de vida
 
