@@ -31,11 +31,9 @@ Estudo de [Inglês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob
 
 # Custo de vida
 
-[Site do governo para faixas salariais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
+[Site do governo média salariais no Canadá (por profissão)](https://www.jobbank.gc.ca/explorecareers)
 
-[Calcular imposto de renda do Canadá](https://www.ey.com/ca/en/services/tax/tax-calculators-2018-personal-tax)
-
-[Outro site para calcular imposto de renda](https://neuvoo.ca/tax-calculator/)
+[talent.com - Calcular seu salário após as taxas](https://ca.talent.com/tax-calculator)
 
 [Calcular custo de vida no Canadá](https://www.numbeo.com/cost-of-living/in/Toronto)
 
