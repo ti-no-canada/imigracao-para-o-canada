@@ -1,34 +1,39 @@
-# REGRAS DO GRUPO
+# Regras do Grupo
 
-Aqui além de nos conhecermos melhor e criarmos um vínculo de amizade, estaremos sempre discutindo assuntos tais como: viagem, trabalho, aluguéis, cidadania e o mais importante sendo solidários uns com os outros.
-E para nos conhecermos melhor, os novos membros podem se Apresentar.
+Este grupo é um espaço para nos conhecermos melhor, criarmos vínculos de amizade e discutirmos temas como: viagem, trabalho, aluguéis, cidadania e, acima de tudo, sermos solidários uns com os outros. Novos membros são bem-vindos a se apresentar para fortalecer nossa comunidade.
 
-1.  Proibido Fotos, vídeos, Gif's, textões (que não tenham a ver com imigração, TI e Canadá em geral).
+## Regras de Convivência
 
-2.  Ao chamar um Colega de Grupo no Privado, não se esqueça que temos Pessoas Comprometidas no grupo, respeite e seja objetivo na pergunta.
+1. **Conteúdo Relevante**: Evite postar fotos, vídeos, GIFs ou textos longos que não estejam relacionados a imigração, TI ou Canadá em geral.
 
-3.  Vamos evitar Assuntos Polêmicos como Política e Religião, assim evitamos desavenças entre os membros.
+2. **Respeito no Privado**: Ao chamar um colega do grupo no privado, lembre-se de ser respeitoso e objetivo, considerando que há pessoas comprometidas no grupo.
 
-4.  É proibido divulgar Propagandas e Links de outros Grupos sem autorização dos Administradores.
+3. **Evite Assuntos Polêmicos**: Não discutimos política ou religião para evitar desavenças entre os membros.
 
-5.  Não serão aceitos: Palavrões, Ofensas, Fotos ou Vídeos Pornográficos - isto resulta em Remoção Imediata!
+4. **Proibição de Propagandas**: Não divulgue propagandas ou links de outros grupos sem autorização prévia dos administradores.
 
-6.  Não Tirem Sarro, e nem Tratem Mal seu Colega de Grupo, seja Bem Educado Respeitando Opiniões que são Diferentes das suas.
+5. **Comportamento Inadequado**: Palavrões, ofensas, fotos ou vídeos de teor pornográfico resultam em remoção imediata.
 
-7.  Não vamos tolerar qualquer tipo de Falta de Respeito.
+6. **Respeito Mútuo**: Não zombe ou trate mal outros membros. Seja educado e respeite opiniões diferentes das suas.
 
-Os Administradores darão Uma Advertência na Segunda vez a pessoa será Removida
+7. **Tolerância Zero para Falta de Respeito**: Qualquer comportamento desrespeitoso não será tolerado.
+
+Os administradores aplicarão uma advertência na primeira infração. Na reincidência, o membro será removido.
 
 ---
 
-É importante entender que esse repositório é apenas para informações gerais, do qual é quase impossível manter totalmente atualizado com os sites oficiais do governo. Então tenha esse repositório como uma visão geral, e não verdade absoluta. Sempre procure a informação atualizada nos sites oficiais do governo.
+## Aviso Importante
 
-O objetivo é somente para trazer informações para brasileiros (ou falantes de lingua portuguesa) sobre o Canadá.
+Este repositório fornece informações gerais e não substitui os sites oficiais do governo. Use-o como uma visão geral e sempre busque informações atualizadas diretamente nas fontes oficiais.
 
-O Primeiro e **MAIS IMPORTANTE PASSO** para Imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** Todas as Possibilidades para o **Seu Perfil!!**
-Sem esta Constante Pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
-Após ler o repositório compartilhe as suas Dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar duvidas, trocar ideias, informação e ajudar você na sua decisão. **Participe!!!**.
+Nosso objetivo é compartilhar informações úteis para brasileiros (ou falantes de língua portuguesa) sobre o Canadá.
 
-**Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
+### O Primeiro e Mais Importante Passo
 
-Duvidas sobre siglas e palavras? Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md)
+Para imigrar para o Canadá, **pesquise todas as possibilidades para o seu perfil**. Sem essa pesquisa constante, você pode perder oportunidades valiosas.
+
+Após explorar o repositório, compartilhe suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**. Lá, você encontrará pessoas dispostas a ajudar, trocar ideias e informações. **Participe!**
+
+**Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e mantenha sempre o respeito e a educação com todos.**
+
+Dúvidas sobre siglas e palavras? Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md).

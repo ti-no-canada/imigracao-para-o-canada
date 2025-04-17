@@ -1,42 +1,65 @@
 # Toronto GTA
 
-### Principais mercados.
+### Principais Mercados
 
-Ao contrario que muitos falam, você não precisa fazer o cartão do costco pra comprar comida barata no canadá.
-Existem diversos locais onde você não precisa de um membership para comprar coisas baratas.
+Ao contrário do que muitos dizem, você não precisa fazer o cartão do Costco para comprar comida barata no Canadá. Existem diversos locais onde você pode economizar sem precisar de um membership.
 
-1. [No Frills](https://www.nofrills.ca)
-   1.2. Você pode encontrar os fryers do [no-frils aqui](https://flyers.smartcanucks.ca/no-frills-canada).
+1. [No Frills](https://www.nofrills.ca)  
+   Você pode encontrar os folhetos promocionais do [No Frills aqui](https://flyers.smartcanucks.ca/no-frills-canada).
+
+2. [FreshCo](https://freshco.com)  
+   Outra opção de mercado com preços acessíveis e promoções semanais.
+
+3. [Walmart](https://www.walmart.ca)  
+   Além de alimentos, você encontra uma grande variedade de produtos a preços competitivos.
+
+4. [Food Basics](https://www.foodbasics.ca)  
+   Uma ótima opção para quem busca preços baixos em produtos alimentícios.
 
 ### Farmácias
 
-1. [Shoppers](https://www1.shoppersdrugmart.ca/)
-   1.2. Você pode encontrar os fryers da [Shoppers aqui](https://flyers.smartcanucks.ca/shoppers-drug-mart-canada).
+1. [Shoppers Drug Mart](https://www1.shoppersdrugmart.ca/)  
+   Você pode encontrar os folhetos promocionais da [Shoppers aqui](https://flyers.smartcanucks.ca/shoppers-drug-mart-canada).
 
-### Transporte público (GTA)
+2. [Rexall](https://www.rexall.ca)  
+   Outra rede de farmácias popular, com promoções frequentes e programas de fidelidade.
 
-Se você vai depender de transporte público na região de GTA, conheça o [TTC (Toronto Transit Commission)](http://www.ttc.ca), é a principal empresa para transporte publico dentro da região de toronto.
+### Transporte Público (GTA)
 
-**Como funciona?**
-Existem dois tipos principais de tickets, mas para economizar na região, sugiro você correr atrás de adquirir um [Presto Card](https://www.prestocard.ca/en) o quanto antes.
-Presto Card é possível comprar nas bilheterias do subway e também nas Shoppers.
+Se você vai depender de transporte público na região da GTA, conheça o [TTC (Toronto Transit Commission)](http://www.ttc.ca), a principal empresa de transporte público dentro da região de Toronto.
 
-1. Mensal (CAD 151.00)
-   Você compra através do PRESTO Card, no aplicativo, nas maquinas no subway, nas shoppers ou pelo site da prestocard.
+**Como funciona?**  
+Existem dois tipos principais de tickets, mas para economizar na região, sugiro adquirir um [Presto Card](https://www.prestocard.ca/en) o quanto antes. O Presto Card pode ser comprado nas bilheterias do metrô, nas Shoppers Drug Mart ou online.
 
-2. Single-use (CAD 3.25 em dinheiro, CAD 3.20 no presto)
+1. **Mensal (CAD 156.00)**  
+   Você pode adquirir o passe mensal através do Presto Card, no aplicativo, nas máquinas do metrô, nas Shoppers ou pelo site da Presto.
 
-- Single-use você pode pagar sua passagem direto na caixinha proximo ao motorista de onibus, ou na bilheteria do metrô, ou com o PRESTO dando o TAP na maquina que fica proxima as portas do onibus ou streetcar.
-- Single-use funciona de duas formas, uma do PRESTO e outra sem.
+2. **Single-use (CAD 3.35 em dinheiro, CAD 3.30 no Presto)**  
+   - **Com o Presto:** Após o TAP em uma máquina Presto ao entrar no metrô ou ônibus, você pode usar o transporte público do TTC por 2 horas, permitindo trocas entre ônibus, metrô e streetcar sem custo adicional.  
+   - **Sem o Presto:** Após pagar sua passagem em dinheiro, você receberá um POP (Proof of Payment). Com ele, você pode fazer até duas conexões dentro do mesmo sentido ou sentido alternado. Lembre-se de pegar o POP ao sair da estação de metrô, utilizando as máquinas vermelhas próximas à saída.
 
-  - **Com o PRESTO**, após o TAP em uma maquina PRESTO quando entra no subway station ou no onibus, você pode usufruir do transporte publico do TTC por 2 horas, isso significa que se em dentro de duas horas você pode trocar de onibus ou mudar de onibus pra metro, ou onibus pra street car, você só pagará uma única passagem de CAD 3.20.
+**Dica:**  
+Ao pegar um ônibus para a estação de metrô, você só paga uma passagem. O mesmo vale para conexões entre metrô e ônibus dentro ou próximo da estação.
 
-  - **Sem o PRESTO**, após pagar a sua passagem de onibus ao motorista, ou a maquina no street car, você receberá um POP (Proof of payment (comprovante de pagamento)), com ele você poderá pegar 2 linhas de onibus (ou street car) quando eles vão para o mesmo sentido ou sentido alternado.
-    Ou seja. Se o primeiro onibus você pegou para o leste e após descer, você pega um novo onibus para o norte (ou sul, ou para o leste (mesmo sentido)), você usará seu POP para não pagar a passagem no segundo, basta mostrar ao motorista ou passar na maquina do Street car, se você pegar para o oeste você terá que pagar outra passagem e o motorista não irá aceitar o seu POP.
+### Saúde Pública
 
-- Ao pegar um ônibus para a estação, você também so paga uma passagem caso precise pegar o metro.
-  Caso pegue um metrô e precise pegar um outro onibus dentro da estação ou proximo dela, você também so paga uma passagem (lembre-se de pegar o POP que fica proximo a saida da estação. É uma maquina vermelha, só apertar um botão ao lado que o POP sai)
+No Canadá, o sistema de saúde pública é gerenciado pelos governos provinciais e municipais. Em Ontario, utilizamos o [OHIP (Ontario Health Insurance Plan)](https://www.ontario.ca/page/apply-ohip-and-get-health-card). O OHIP cobre a maioria dos serviços médicos essenciais, mas não inclui medicamentos prescritos fora de hospitais, odontologia ou óculos. Para esses casos, considere adquirir um seguro de saúde complementar.
 
-### Saúde pública
+**Como se inscrever no OHIP:**  
+- Você precisa ser residente de Ontario e apresentar documentos como prova de residência, identidade e status de imigração.  
+- O cartão de saúde pode ser solicitado em ServiceOntario.
 
-No Canadá, o sistema de saúde publica é gerenciado pelos governos da província e prefeituras. Em Ontario, usamos o [OHIP (Ontario Health Insurance Plan)](https://www.ontario.ca/page/apply-ohip-and-get-health-card).
+### Outras Dicas Úteis
+
+1. **Clima:**  
+   O inverno em Toronto pode ser rigoroso. Certifique-se de investir em roupas adequadas, como casacos de inverno, botas impermeáveis e acessórios como luvas e gorros.
+
+2. **Custo de Vida:**  
+   Toronto é uma das cidades mais caras do Canadá. Planeje seu orçamento considerando aluguel, transporte, alimentação e outros custos essenciais.
+
+3. **Lazer:**  
+   Explore atrações como a CN Tower, o Ripley's Aquarium e os diversos parques e trilhas da região. Muitos eventos culturais e festivais gratuitos acontecem ao longo do ano.
+
+4. **Comunidade Brasileira:**  
+   Toronto possui uma comunidade brasileira ativa. Grupos no Facebook e eventos locais podem ajudar na adaptação e networking.
+

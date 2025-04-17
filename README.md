@@ -134,7 +134,7 @@ O objetivo é somente trazer informações para brasileiros (ou falantes de lín
 
 O Primeiro e **MAIS IMPORTANTE PASSO** para imigrar para o Canadá é **VOCÊ MESMO PESQUISAR** todas as Possibilidades para o **seu perfil!!**
 Sem esta constante pesquisa **VOCÊ VAI PERDER OPORTUNIDADES**.
-Após ler o repositório compartilhe as suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/ti_no_canada)**, todas as pessoas estão lá para tirar dúvidas, trocar ideias ou informações e ajudar você na sua decisão. **Participe!!!**.
+Após ler o repositório compartilhe as suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**, todas as pessoas estão lá para tirar dúvidas, trocar ideias ou informações e ajudar você na sua decisão. **Participe!!!**.
 
 **Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e sempre mantenha o Respeito e a Educação para com TODOS.**
 

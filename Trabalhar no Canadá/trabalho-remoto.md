@@ -1,117 +1,124 @@
 # Sites com possibilidades de trabalho remoto em tempo integral ou freelance para ajudar nos planos financeiros de imigração
 
-- [We Work Remotely](https://weworkremotely.com)
+Aqui está uma lista de plataformas que oferecem oportunidades de trabalho remoto, seja em tempo integral ou como freelancer, abrangendo diversas áreas e setores. Essas opções podem ser úteis para quem busca flexibilidade e deseja complementar a renda durante o processo de imigração.
 
-  - Oportunidades de trabalho remoto em diversos setores – desde negócios a copywriting.
+- [We Work Remotely](https://weworkremotely.com)  
+  - Oportunidades de trabalho remoto em setores como negócios, design, desenvolvimento, marketing e copywriting.
 
-- [BairesDev](https://www.bairesdev.com/)
+- [BairesDev](https://www.bairesdev.com/)  
+  - Trabalhos remotos em áreas de TI, desenvolvimento de software e consultoria empresarial.
 
-  - Oportunidades de trabalho remoto em várias áreas de ti e business
+- [Remote OK](https://remoteok.io/)  
+  - Vagas em diversas áreas, com uma comunidade ativa de trabalhadores remotos.
 
-- [Remote OK](https://remoteok.io/)
+- [Remote Only](https://www.remoteonly.org/)  
+  - Focado em suporte ao consumidor, design, desenvolvimento de software, administração e marketing.
 
-  - Trabalhos em várias áreas e uma comunidade de mais de um milhão de trabalhadores remotos.
+- [Working Nomads](https://www.workingnomads.co/jobs)  
+  - Curadoria de vagas remotas em várias áreas, com alertas personalizados.
 
-- [Remote Only](https://www.remoteonly.org/)
+- [Crypto Jobs](https://crypto.jobs/)  
+  - Trabalhos relacionados a blockchain, criptomoedas e Web3.
 
-  - Para quem gostaria de trabalhar com suporte ao consumidor, design, desenvolvimento de software, administração e marketing.
+- [Satoshi Careers](https://satoshicareers.com/)  
+  - Plataforma especializada em trabalhos remotos pagos em criptomoedas.
 
-- [Working Nomads](https://www.workingnomads.co/jobs)
+- [Gamedev Jobs](https://gamedev.jobs/)  
+  - Para profissionais da indústria de desenvolvimento de jogos.
 
-  - Vagas em muitas áreas e possibilidade de programar alertas para oportunidades específicas.
+- [Gitcoin](https://gitcoin.co/)  
+  - Projetos de código aberto para desenvolvedores, com foco em blockchain e Web3.
 
-- [Crypto Jobs](https://crypto.jobs/)
+- [AngelList](https://angel.co/)  
+  - Conecta profissionais a startups e empresas de tecnologia com oportunidades remotas.
 
-  - Trabalhos ligados a blockchain e criptomoedas.
+- [Remote.co](https://remote.co/)  
+  - Trabalhos remotos em diversos setores, além de recursos e dicas sobre trabalho remoto.
 
-- [Satoshi Careers](https://satoshicareers.com/)
+- [Gun.io](https://www.gun.io/)  
+  - Plataforma para desenvolvedores de software altamente qualificados.
 
-  - Plataforma que compila trabalhos remotos com criptomoeda.
+- [Auth0](https://auth0.com/)  
+  - Ofertas de emprego em geral; selecione "remote" na seção de localização.
 
-- [Gamedev Jobs](https://gamedev.jobs/)
+- [Crossover](https://www.crossover.com/#index)  
+  - Vagas em vendas, marketing, finanças, engenharia, suporte e mais.
 
-  - Para quem trabalha com desenvolvimento de games.
+- [Skill Hire](https://www.skillhire.com/)  
+  - Focado em desenvolvedores e designers.
 
-- [Git Coin](https://gitcoin.co/)
+- [Profes](https://profes.com.br/)  
+  - Plataforma para professores que desejam dar aulas online.
 
-  - Site para desenvolvedores trabalharem remotamente em projetos de código aberto.
+- [Landing.jobs](https://landing.jobs/)  
+  - Conecta profissionais de tecnologia a empresas europeias com opções remotas.
 
-- [Angel](https://angel.co/)
+- [Workana](https://www.workana.com/)  
+  - Oportunidades para freelancers em áreas criativas, como design e edição de vídeo.
 
-  - Oportunidades de trabalho remoto com startups e tecnologia.
+- [Trampos](https://trampos.co/)  
+  - Vagas regulares e remotas; busque por "home-office" para filtrar.
 
-- [Remote](https://remote.co/)
+- [italki](https://www.italki.com/)  
+  - Ensine idiomas remotamente para alunos de todo o mundo.
 
-  - Trabalhos em diversos setores e FAQ sobre trabalho remoto.
+- [CodeMentor](https://www.codementor.io/)  
+  - Trabalhos freelancer e mentoria para desenvolvedores.
 
-- [Gun](https://www.gun.io/)
+- [Toptal](https://www.toptal.com/)  
+  - Rede exclusiva de freelancers para projetos de alto nível.
 
-  - Para desenvolvedores de software.
+- [Upwork](https://www.upwork.com/)  
+  - Trabalhos remotos em desenvolvimento, design, suporte administrativo, escrita, TI, vendas, marketing, tradução e mais.
 
-- [Auth0](https://auth0.com/)
+- [Fiverr](https://www.fiverr.com/)  
+  - Plataforma ampla para freelancers oferecerem serviços em diversas áreas.
 
-  - Oferta de empregos em geral; para trabalho remoto basta selecionar “remote” na seção “location”.
+- [Dribbble](https://dribbble.com/)  
+  - Voltado para designers e criativos, com foco em projetos artísticos.
 
-- [Crossover](https://www.crossover.com/#index)
+- [Verbling](https://www.verbling.com/)  
+  - Para profissionais de idiomas que desejam ensinar online.
 
-  - Oportunidades para os setores de vendas, marketing, finanças, produto, serviços, executivo, engenharia e suporte.
+- [Freelancer](https://www.freelancer.com/)  
+  - Plataforma global para freelancers em diversas áreas.
 
-- [Skill Hire](https://www.skillhire.com/)
+- [DogHero](https://www.doghero.com.br/)  
+  - Ofereça serviços como hospedagem e passeios para pets.
 
-  - Para desenvolvedores e designers.
+- [OnYou](https://www.onyou.com.br)  
+  - Seja cliente oculto e receba benefícios como dinheiro e cupons.
 
-- [Profes](https://profes.com.br/)
+- [PeoplePerHour](https://www.peopleperhour.com/)  
+  - Conecta freelancers a projetos em áreas como design, marketing e tecnologia.
 
-  - Para professores.
+- [SimplyHired](https://www.simplyhired.com/)  
+  - Agregador de vagas, incluindo opções remotas.
 
-- [Landing](https://landing.jobs/)
+- [Hubstaff Talent](https://talent.hubstaff.com/)  
+  - Plataforma gratuita para encontrar trabalhos remotos em startups.
 
-  - Conecta profissionais que querem encontrar trabalho remoto a empresas de tecnologia da Europa.
+- [99designs](https://99designs.com/)  
+  - Para designers que desejam trabalhar em projetos criativos.
 
-- [Workana](https://www.workana.com/)
+- [Remotive](https://remotive.io/)  
+  - Comunidade e vagas remotas em tecnologia, marketing e suporte.
 
-  - Oportunidades para freelancers de áreas, principalmente, criativas, como desenvolvimento de sites e edição de vídeo.
+- [FlexJobs](https://www.flexjobs.com/)  
+  - Trabalhos remotos e flexíveis em diversas áreas.
 
-- [Trampos](https://trampos.co/)
+- [TaskRabbit](https://www.taskrabbit.com/)  
+  - Ofereça serviços locais ou remotos, como assistência virtual.
 
-  - Vagas de emprego regulares para diversos ramos; para encontrar trabalho remoto, é só digitar “home-office” na seção “onde quero trabalhar”.
+- [Behance](https://www.behance.net/)  
+  - Para criativos que buscam projetos em design, fotografia e mais.
 
-- [italki](https://www.italki.com/)
+- [SolidGigs](https://solidgigs.com/)  
+  - Curadoria de oportunidades para freelancers.
 
-  - Possibilita ensinar idiomas remotamente.
+- [RemoteHub](https://remotehub.com/)  
+  - Trabalhos remotos em tecnologia, design, marketing e mais.
 
-- [Code Mentor](https://www.codementor.io/)
+- [Outsourcely](https://www.outsourcely.com/)  
+  - Conecta empresas a freelancers para trabalhos remotos de longo prazo.
 
-  - Oportunidades de trabalhos freelancer e de mentorar para desenvolvedores.
-
-- [Toptal](https://www.toptal.com/)
-
-  - Seleção diferenciada de freelancers para atuar em diversas áreas.
-
-- [Upwork](https://www.upwork.com/)
-
-  - Opções de trabalho remoto em diversas áreas, em setores de desenvolvimento, design, suporte administrativo, escrita, tecnologia da informação, vendas e marketing, ciência de dados, tradução, contabilidade, direito, engenharia e
-    arquitetura.
-
-- [Fiver](https://lnkd.in/exSy4KZ)
-
-  - Plataforma ampla para compra e oferta de serviços
-
-- [Driblle](https://dribbble.com)
-
-  - Voltado mais para o campo artístico, design e criação
-
-- [VERBLING](https://lnkd.in/etB4RVJ)
-
-  - Voltado para profissionais de idiomas
-
-- [FREELANCER](https://www.freelancer.com)
-
-  - O nome já diz bastante
-
-- [DOG Hero](https://www.doghero.com.br)
-
-  - Hospede um cãozinho, passeie com outros...
-
-- [OnYou](https://www.onyou.com.br)
-  - Seja cliente oculto de grandes marcas e obtenha benefícios de dinheiro a cupons
