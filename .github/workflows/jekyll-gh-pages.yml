@@ -16,6 +16,13 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
+    - name: Ensure Gemfile exists
+      run: |
+        if [ ! -f Gemfile ]; then
+          echo "Error: Gemfile not found in the repository root."
+          exit 1
+        fi
+
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
