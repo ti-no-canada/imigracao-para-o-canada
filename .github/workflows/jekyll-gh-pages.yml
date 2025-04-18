@@ -16,11 +16,14 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Ensure Gemfile exists
+    - name: Ensure Gemfile exists or create one
       run: |
         if [ ! -f Gemfile ]; then
-          echo "Error: Gemfile not found in the repository root."
-          exit 1
+          echo "Gemfile not found. Creating a default Gemfile."
+          cat <<EOL > Gemfile
+          source "https://rubygems.org"
+          gem "jekyll"
+          EOL
         fi
 
     - name: Setup Ruby
