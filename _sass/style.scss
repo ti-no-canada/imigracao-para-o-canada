@@ -1,0 +1,46 @@
+$primary-color: #d32f2f;
+$secondary-color: #ffffff;
+$accent-color: #f44336;
+$text-color: #212121;
+
+body {
+    background-color: $secondary-color;
+    color: $text-color;
+}
+
+a {
+    color: $accent-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $primary-color;
+        text-decoration: underline;
+    }
+}
+
+header {
+    background-color: $primary-color;
+    color: $secondary-color;
+    padding: 1rem;
+    text-align: center;
+}
+
+footer {
+    background-color: $primary-color;
+    color: $secondary-color;
+    padding: 1rem;
+    text-align: center;
+}
+
+button {
+    background-color: $accent-color;
+    color: $secondary-color;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+
+    &:hover {
+        background-color: $primary-color;
+    }
+}

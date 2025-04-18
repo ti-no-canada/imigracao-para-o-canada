@@ -62,6 +62,49 @@ Para pais que desejam estudar em colleges ou universidades no Canadá, siga esta
     - Organize sua chegada ao Canadá, incluindo acomodação, seguro-saúde e transporte.
     - Algumas instituições oferecem suporte para novos estudantes internacionais.
 
+## Intercâmbio no Canadá
+
+Para quem deseja fazer intercâmbio no Canadá, aqui estão as informações essenciais:
+
+1. **Documentos Necessários para Brasileiros**:
+    - Passaporte válido.
+    - Carta de aceitação da escola ou instituição de ensino.
+    - Comprovação financeira para cobrir os custos do intercâmbio.
+    - Seguro-saúde válido para o período de estadia.
+    - Comprovante de vínculo com o Brasil (como matrícula em uma instituição de ensino ou contrato de trabalho).
+    - Exame médico (se exigido pelo tipo de visto ou duração da estadia).
+
+2. **Tipos de Visto**:
+    - **Visto de Visitante (Visitor Visa)**: Para cursos de curta duração (até 6 meses).
+    - **Visto de Estudante (Study Permit)**: Necessário para cursos com duração superior a 6 meses.
+    - **eTA (Electronic Travel Authorization)**: Para quem viaja ao Canadá por via aérea e não precisa de visto de visitante.
+
+3. **Principais Escolas de Inglês como Segunda Língua (ESL)**:
+    - **Ontário**:
+        - ILAC (International Language Academy of Canada)
+        - Hansa Language Centre
+    - **Colúmbia Britânica**:
+        - Vancouver English Centre (VEC)
+        - Global Village Vancouver
+    - **Quebec**:
+        - BLI (Bouchereau Lingua International)
+        - ILSC Montreal
+    - **Alberta**:
+        - Global Village Calgary
+        - English Language School at the University of Alberta
+    - **Manitoba**:
+        - Heartland International English School
+    - **Nova Escócia**:
+        - East Coast School of Languages
+    - **Saskatchewan**:
+        - University of Saskatchewan Language Centre
+    - **Newfoundland e Labrador**:
+        - Memorial University ESL Programs
+    - **New Brunswick**:
+        - Atlantic Canada Language Academy
+    - **Ilha do Príncipe Eduardo**:
+        - Study Abroad Canada Language Institute
+
 ## Dicas Gerais
 
 - **Comprovação Financeira**: Para o visto de estudante, é necessário comprovar que você tem recursos suficientes para cobrir os custos de estudo e vida no Canadá.
