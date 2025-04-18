@@ -2,11 +2,15 @@
 
 Repositório do grupo no Telegram **TI no Canadá**.
 
-[![Grupo oficial no Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Grupo%20Oficial)](https://t.me/tinocanada) [![Repositório Oficial](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&label=Repositório%20Oficial)](https://github.com/ti-no-canada) [![Regras](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Regras)](https://github.com/ti-no-canada/Geral/blob/master/grupo/regras-do-grupo.md)  
+[![Grupo oficial no Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Grupo%20Oficial)](https://t.me/tinocanada)
+[![Repositório Oficial](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Repositório%20Oficial)](https://github.com/ti-no-canada)
+[![Regras](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Regras)](https://github.com/ti-no-canada/Geral/blob/master/grupo/regras-do-grupo.md)  
 
 ---
-
-[![Nossos MeetUps](https://img.shields.io/badge/%F0%9F%95%BAMeetups-Nossos%20meetups%2C%20participe-orange?style=for-the-badge)](https://t.me/tinocanada/142254) [![Discussões gerais](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Discussões)](https://t.me/tinocanada/1) [![Vagas](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Vagas)](https://t.me/tinocanada/142250)  
+[![Discussões gerais](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Discussões)](https://t.me/tinocanada/1)
+[![Meetups](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Meetups)](https://t.me/tinocanada/142254)
+[![Vagas](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Vagas)](https://t.me/tinocanada/142250)  
+[![Curriculo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Revisao%20Curricular)](https://t.me/tinocanada/142250)  
 
 ---
 
