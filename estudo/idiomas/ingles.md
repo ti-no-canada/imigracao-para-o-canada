@@ -1,3 +1,9 @@
+---
+title: Inglês
+parent: Estudos
+nav_order: 2
+---
+
 # Dicas de idiomas
 
 A maioria dos processos de imigração exigem que você faça um teste de proficiência. Com a nota do teste de idioma você saberá o seu [CLB (Canadian Language Benchmarks)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html). Com teste em mãos, você poderá entrar em grande partes dos programas de imigração.

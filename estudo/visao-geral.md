@@ -1,3 +1,8 @@
+---
+title: Estudos
+nav_order: 3
+---
+
 # Estudando no Canadá
 
 Este guia é dedicado a imigrantes que desejam matricular seus filhos em escolas ou creches no Canadá, bem como para pais que planejam estudar em colleges ou universidades como estudantes internacionais. Aqui você encontrará informações detalhadas e atualizadas para ajudá-lo nesse processo.

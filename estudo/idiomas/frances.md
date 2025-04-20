@@ -1,3 +1,9 @@
+---
+title: Francês
+parent: Estudos
+nav_order: 2
+---
+
 # Tudo o que você precisa para um estudo independente da língua francesa
 
 ## Recursos para aprender francês

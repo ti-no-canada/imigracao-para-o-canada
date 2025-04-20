@@ -1,3 +1,10 @@
+---
+title: Trabalho Remoto
+parent: Trabalho
+nav_order: 3
+---
+
+
 # Sites com possibilidades de trabalho remoto em tempo integral ou freelance para ajudar nos planos financeiros de imigração
 
 Aqui está uma lista de plataformas que oferecem oportunidades de trabalho remoto, seja em tempo integral ou como freelancer, abrangendo diversas áreas e setores. Essas opções podem ser úteis para quem busca flexibilidade e deseja complementar a renda durante o processo de imigração.

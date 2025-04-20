@@ -1,3 +1,9 @@
+---
+title: Trabalho Remoto
+parent: Vida no Canadá
+nav_order: 3
+---
+
 ### Como se preparar para o inverno
 
 Preparar-se para o inverno rigoroso é essencial para garantir conforto e segurança. Aqui estão algumas dicas importantes para enfrentar as baixas temperaturas:

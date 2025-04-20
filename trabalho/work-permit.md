@@ -1,3 +1,8 @@
+---
+title: Trabalho
+nav_order: 4
+---
+
 # Como Conseguir um Work Permit no Canadá
 
 ## Perguntas Frequentes

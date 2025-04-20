@@ -1,3 +1,9 @@
+---
+title: Tradução Juramentada
+parent: Vida no Canadá
+nav_order: 2
+---
+
 # Tradução Juramentada
 
 Traduzir seus documentos de Português para o Inglês é um passo essencial no processo de imigração para o Canadá, especialmente para a [Equivalência de diploma no Canadá (Validação do diploma)](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md). A tradução juramentada garante que os documentos sejam aceitos pelas autoridades canadenses, como o IRCC (Immigration, Refugees and Citizenship Canada).

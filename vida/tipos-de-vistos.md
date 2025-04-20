@@ -1,7 +1,8 @@
-# Canadá
-
-- **População**: 35 milhões  
-- **Idiomas**: Inglês, Francês  
+---
+title: Tipos de Vistos
+parent: Vida no Canadá
+nav_order: 2
+---
 
 ## Quando é necessário visto?
 

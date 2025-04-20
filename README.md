@@ -1,3 +1,8 @@
+---
+title: Informações Gerais
+nav_order: 2
+---
+
 # Geral
 
 Repositório do grupo no Telegram **TI no Canadá**.

@@ -1,3 +1,10 @@
+---
+title: Feiras de Emprego
+parent: Trabalho
+nav_order: 2
+---
+
+
 # Sites com Feiras de Emprego Canadá
 
 Nota: Pode no momento não ter nenhuma feira/evento, pois cada empresa tem seu próprio cronograma.

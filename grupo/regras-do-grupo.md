@@ -1,3 +1,8 @@
+---
+title: Regras do Grupo
+parent: Informações Gerais
+nav_order: 1
+---
 # Regras do Grupo
 
 Este grupo é um espaço para nos conhecermos melhor, criarmos vínculos de amizade e discutirmos temas como: viagem, trabalho, aluguéis, cidadania e, acima de tudo, sermos solidários uns com os outros. Novos membros são bem-vindos a se apresentar para fortalecer nossa comunidade.

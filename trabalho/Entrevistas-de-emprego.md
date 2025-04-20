@@ -1,3 +1,10 @@
+---
+title: Enrevista de Emprego
+parent: Trabalho
+nav_order: 1
+---
+
+
 # Entrevista de Emprego no Canadá
 
 Passar por um processo seletivo para uma vaga de emprego no Canadá, especialmente estando fora do país, pode ser desafiador. Para ajudar você a se preparar e aumentar suas chances de sucesso, aqui estão informações e dicas essenciais para se sair bem em entrevistas com empresas canadenses (ou de outros países).
