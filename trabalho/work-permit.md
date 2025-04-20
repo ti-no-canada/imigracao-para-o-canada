@@ -114,12 +114,3 @@ O **Working Holiday Visa (WHV)** é uma modalidade do IEC que oferece um Open Wo
 - [O que é o Labour Market Impact Assessment (LMIA)?](https://www.immi-canada.com/voce-sabe-o-que-e-o-labour-market-impact-assessment-lmia/)
 - [Quem pode aplicar para um Open Work Permit?](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=177&top=17)
 
----
-
-**Nota Importante:** Este repositório fornece informações gerais e pode não estar atualizado com as mudanças nas políticas de imigração. Consulte sempre os sites oficiais do governo canadense para informações atualizadas.
-
-**Dica:** Participe do grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)** para tirar dúvidas e trocar experiências com outros interessados.
-
-**Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e manter o respeito e a educação com todos.**
-
-Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para entender siglas e termos técnicos.

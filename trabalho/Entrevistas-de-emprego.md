@@ -90,6 +90,6 @@ Após a entrevista com a empresa, o recrutador entrará em contato para fornecer
 - [Equipes de engenharia que compartilham seus valores](https://www.keyvalues.com/)
 - [Plataforma para treinar algoritmos](https://www.hackerrank.com/)
 
-> **Nota**: Se você deseja que seu currículo seja revisado pela comunidade, siga [as instruções deste tópico em nosso Discussions](https://github.com/ti-no-canada/imigracao-para-o-canada/discussions/67).
+> **Nota**: Se você deseja que seu currículo seja revisado pela comunidade, siga [as instruções deste tópico em nosso Discussions](https://t.me/tinocanada/1).
 
 Boa sorte no seu processo seletivo!

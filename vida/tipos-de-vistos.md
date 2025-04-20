@@ -24,7 +24,7 @@ Sim. Contudo, desde maio de 2017, brasileiros que já visitaram o Canadá nos ú
 - **Closed Work Permit**: Permite trabalhar apenas para a empresa que patrocinou sua imigração. O visto geralmente expira em cerca de 3 anos ou em caso de desligamento (empresa ou funcionário).  
 - **Open Work Permit**: Permite trabalhar em qualquer lugar durante o período de validade do visto.  
 
-[Saiba mais sobre Work Permit](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/como-conseguir-um-work-permit-no-canada.md).
+[Saiba mais sobre Work Permit](../trabalho/work-permit).
 
 ## O que é Permanent Resident (PR)?
 
@@ -33,7 +33,7 @@ Sim. Contudo, desde maio de 2017, brasileiros que já visitaram o Canadá nos ú
 ## O que é Express Entry?
 
 É o sistema eletrônico de avaliação para residência permanente, baseado em pontos que consideram:  
-- **Nível de ensino**: [Saiba mais sobre equivalência de diploma](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md).  
+- **Nível de ensino**: [Saiba mais sobre equivalência de diploma](../estudo/equivalencia-de-diploma).  
 - **Fluência no idioma**: Testes aceitos incluem [CELPIP](https://www.celpip.ca) e [IELTS](https://www.ielts.org).  
 - **Experiência profissional**: Deve ser em profissões classificadas como **NOC 0, A ou B**. [Descubra seu NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).  
 
@@ -84,7 +84,7 @@ Não, exceto para imigração na província de Québec. Saber francês pode cont
 
 Na área de TI, experiência comprovada (mínimo 3 anos) pode substituir a graduação. Contudo, diplomas contam mais pontos no processo de seleção.
 
-[Saiba mais sobre equivalência educacional](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md).
+[Saiba mais sobre equivalência educacional](../estudo/equivalencia-de-diploma).
 
 ## Salário mínimo e impostos
 
@@ -102,11 +102,3 @@ Na área de TI, experiência comprovada (mínimo 3 anos) pode substituir a gradu
 - **Seguro desemprego (EI)**: [Saiba mais](https://www.canada.ca/en/services/benefits/ei.html).  
 - **Aposentadoria**: O Brasil possui acordo bilateral com o Canadá. [Saiba mais](https://portal.inss.gov.br/wp-content/uploads/2017/07/Cartilha-Acordo-Previdencia-Brasil-Canada.pdf).  
 
----
-
-Este repositório é apenas para informações gerais. Consulte sempre os sites oficiais do governo para informações atualizadas.  
-
-**Participe do grupo [TI no Canadá](https://t.me/tinocanada)** para tirar dúvidas e trocar informações.  
-[Leia as regras do grupo](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md).  
-
-Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para dúvidas sobre siglas e termos.

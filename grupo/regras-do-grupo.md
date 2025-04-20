@@ -38,7 +38,3 @@ Nosso objetivo é compartilhar informações úteis para brasileiros (ou falante
 Para imigrar para o Canadá, **pesquise todas as possibilidades para o seu perfil**. Sem essa pesquisa constante, você pode perder oportunidades valiosas.
 
 Após explorar o repositório, compartilhe suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**. Lá, você encontrará pessoas dispostas a ajudar, trocar ideias e informações. **Participe!**
-
-**Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e mantenha sempre o respeito e a educação com todos.**
-
-Dúvidas sobre siglas e palavras? Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md).

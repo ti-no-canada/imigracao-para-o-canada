@@ -116,7 +116,3 @@ Este glossário reúne siglas importantes que você pode encontrar tanto no [gru
 
 - **WP**: _Work Permit_. Permissão de trabalho no Canadá.  
     [Saiba mais](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/work-permit.html).
-
----
-
-Para mais informações, acesse o [repositório oficial](https://github.com/ti-no-canada/imigracao-para-o-canada).
