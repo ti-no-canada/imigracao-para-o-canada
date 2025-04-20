@@ -1,7 +1,6 @@
 ---
 title: Vancouver
 parent: British Columbia
-nav_order: 1
 ---
 
 # Vancouver

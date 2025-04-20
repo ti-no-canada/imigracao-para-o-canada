@@ -1,7 +1,6 @@
 ---
 title: Victoria
 parent: British Columbia
-nav_order: 2
 ---
 
 # Victoria

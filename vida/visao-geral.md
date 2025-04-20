@@ -3,8 +3,6 @@ title: Vida no Canadá
 nav_order: 5
 ---
 
-
-
 # Vivendo no Canadá
 
 Nesta pasta, você encontrará informações valiosas sobre como é viver no Canadá, incluindo desafios, atrações, custo de vida, e dicas para novos imigrantes. O conteúdo está organizado pelas capitais das províncias, destacando as principais universidades, mercados, comunidades brasileiras, igrejas e cidades turísticas próximas.

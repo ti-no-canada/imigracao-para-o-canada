@@ -1,71 +1,64 @@
 ---
 title: Ontario
 parent: Vida no Canadá
-nav_order: 3
+nav_order: 1
 ---
 
 # Ontario
 
 ### Visão Geral
 
-Ontario é a província mais populosa do Canadá e abriga a capital do país, Ottawa, além da maior cidade canadense, Toronto. Com uma economia diversificada, Ontario é conhecida por sua forte indústria, agricultura, tecnologia e serviços financeiros. A província também é famosa por suas belezas naturais, como as Cataratas do Niágara e os inúmeros lagos e parques.
+Ontario é a província mais populosa do Canadá e o coração econômico do país. Conhecida por suas cidades vibrantes, como Toronto e Ottawa, e por suas maravilhas naturais, como as Cataratas do Niágara, Ontario oferece uma combinação única de vida urbana e beleza natural. A província é um centro de inovação, cultura e educação, com uma economia diversificada que inclui finanças, tecnologia, manufatura e turismo.
+
+### Fatores Históricos
+
+Ontario tem uma história rica e diversificada, com raízes profundas nas culturas indígenas, francesas e britânicas. A província desempenhou um papel crucial na formação do Canadá moderno, sendo o local de importantes eventos históricos, como a Guerra de 1812. Toronto, a maior cidade do país, é um centro multicultural e econômico, enquanto Ottawa, a capital do Canadá, é o coração político da nação.
 
 ### Tipos de Polícia em Ontario
 
 Ontario possui diferentes tipos de forças policiais que atuam em níveis municipal, provincial e federal:
 
 1. **Polícia Municipal**  
-    Cada cidade ou município pode ter sua própria força policial, como a [Toronto Police Service](https://www.torontopolice.on.ca) ou a [Ottawa Police Service](https://www.ottawapolice.ca). Elas são responsáveis por manter a ordem pública, investigar crimes e garantir a segurança local.
+    Muitas cidades possuem suas próprias forças policiais, como a [Toronto Police Service](https://www.torontopolice.on.ca). Elas são responsáveis por manter a ordem pública, investigar crimes e garantir a segurança local.
 
 2. **Ontario Provincial Police (OPP)**  
-    A [OPP](https://www.opp.ca) é a força policial provincial de Ontario. Ela cobre áreas que não possuem polícia municipal e oferece suporte a outras forças policiais em investigações complexas.
+    A [OPP](https://www.opp.ca) é a força policial provincial que atua em áreas rurais, pequenas comunidades e rodovias. Ela também oferece suporte a forças policiais municipais quando necessário.
 
 3. **Royal Canadian Mounted Police (RCMP)**  
-    A [RCMP](https://www.rcmp-grc.gc.ca) atua em nível federal e é responsável por questões como segurança nacional, crimes cibernéticos e aplicação de leis federais. Em Ontario, a RCMP trabalha em colaboração com outras forças policiais.
+    A [RCMP](https://www.rcmp-grc.gc.ca) opera em Ontario em questões de segurança nacional e aplicação de leis federais.
 
 4. **Polícia de Trânsito e Transporte**  
-    Algumas regiões possuem forças especializadas, como a [Metrolinx Transit Safety](https://www.metrolinx.com), que garante a segurança no transporte público, incluindo o GO Transit.
+    A segurança no transporte público e nas rodovias é gerenciada por diferentes agências, incluindo a OPP e autoridades locais.
 
 ### Hospitais Principais em Cada Região
 
-Ontario possui um sistema de saúde robusto, com hospitais de alta qualidade espalhados por toda a província. Aqui estão alguns dos principais hospitais em diferentes regiões:
+Ontario possui um sistema de saúde robusto, com hospitais de alta qualidade em várias regiões. Aqui estão alguns dos principais hospitais:
 
-1. **Toronto (GTA)**  
-    - [Toronto General Hospital](https://www.uhn.ca): Reconhecido internacionalmente por suas pesquisas e tratamentos avançados.  
-    - [Sunnybrook Health Sciences Centre](https://sunnybrook.ca): Especializado em trauma, câncer e saúde da mulher.  
-    - [The Hospital for Sick Children (SickKids)](https://www.sickkids.ca): Um dos melhores hospitais pediátricos do mundo.
+1. **Toronto**  
+    - [Toronto General Hospital](https://www.uhn.ca): Um dos maiores hospitais do Canadá, especializado em cuidados avançados e pesquisa médica.
 
 2. **Ottawa**  
-    - [The Ottawa Hospital](https://www.ottawahospital.on.ca): Um dos maiores hospitais de ensino e pesquisa do Canadá.  
-    - [CHEO (Children’s Hospital of Eastern Ontario)](https://www.cheo.on.ca): Especializado em cuidados pediátricos.
+    - [The Ottawa Hospital](https://www.ottawahospital.on.ca): Oferece uma ampla gama de serviços médicos para a região da capital.
 
-3. **Hamilton**  
-    - [Hamilton Health Sciences](https://www.hamiltonhealthsciences.ca): Inclui o Juravinski Hospital, especializado em oncologia, e o McMaster Children’s Hospital.
+3. **London**  
+    - [London Health Sciences Centre](https://www.lhsc.on.ca): Um centro médico de excelência que atende a região sudoeste de Ontario.
 
-4. **London**  
-    - [London Health Sciences Centre](https://www.lhsc.on.ca): Um dos maiores complexos hospitalares do Canadá, com foco em pesquisa e ensino.  
-    - [St. Joseph’s Health Care London](https://www.sjhc.london.on.ca): Oferece serviços especializados em reabilitação e saúde mental.
+4. **Hamilton**  
+    - [Hamilton Health Sciences](https://www.hamiltonhealthsciences.ca): Um dos maiores sistemas hospitalares do Canadá, com foco em pesquisa e cuidados especializados.
 
-5. **Niagara Region**  
-    - [Niagara Health](https://www.niagarahealth.on.ca): Abrange vários hospitais na região, incluindo o St. Catharines Site, com serviços de emergência e oncologia.
-
-6. **Sudbury (Northern Ontario)**  
-    - [Health Sciences North](https://www.hsnsudbury.ca): O principal hospital do norte de Ontario, com foco em cuidados especializados e pesquisa.
-
-7. **Thunder Bay**  
-    - [Thunder Bay Regional Health Sciences Centre](https://www.tbrhsc.net): Oferece serviços avançados de saúde para a região noroeste de Ontario.
+5. **Kingston**  
+    - [Kingston General Hospital](https://kingstonhsc.ca): Atende a região leste de Ontario com serviços de emergência e cuidados especializados.
 
 ### Saúde Pública em Ontario
 
-O sistema de saúde pública de Ontario é gerenciado pelo [OHIP (Ontario Health Insurance Plan)](https://www.ontario.ca/page/apply-ohip-and-get-health-card). Ele cobre a maioria dos serviços médicos essenciais, incluindo consultas médicas, internações hospitalares e cirurgias. Para medicamentos prescritos fora de hospitais, odontologia e óculos, é recomendável adquirir um seguro complementar.
+O sistema de saúde pública de Ontario é gerenciado pelo [Ontario Health](https://www.ontario.ca/page/health-care-ontario). Ele cobre a maioria dos serviços médicos essenciais, como consultas médicas, internações hospitalares e cirurgias. Para medicamentos prescritos fora de hospitais, odontologia e óculos, é recomendável adquirir um seguro complementar.
 
 **Dica:**  
-Se você não tiver um médico de família, considere utilizar clínicas walk-in para consultas rápidas.
+Se você não tiver um médico de família, pode utilizar clínicas walk-in para consultas rápidas.
 
 ### Educação e Segurança
 
-Ontario também é conhecida por suas instituições educacionais de renome e pela segurança pública. A província oferece uma ampla gama de escolas públicas e privadas, além de universidades como a [University of Toronto](https://www.utoronto.ca) e a [Western University](https://www.uwo.ca).
+Ontario é conhecida por suas instituições educacionais de excelência e pela segurança pública. A província oferece uma ampla gama de escolas públicas e privadas, além de universidades renomadas como a [University of Toronto](https://www.utoronto.ca) e a [University of Waterloo](https://uwaterloo.ca).
 
 **Dica:**  
 Para emergências, ligue para o 911. Para questões não emergenciais, entre em contato com a polícia local ou utilize os serviços de saúde pública.
-

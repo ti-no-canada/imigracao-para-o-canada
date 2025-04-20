@@ -1,7 +1,7 @@
 ---
 title: British Columbia
 parent: Vida no Canadá
-nav_order: 2
+nav_order: 1
 ---
 
 # British Columbia

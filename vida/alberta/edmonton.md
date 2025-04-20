@@ -1,7 +1,6 @@
 ---
 title: Edmonton
 parent: Alberta
-nav_order: 2
 ---
 
 # Edmonton

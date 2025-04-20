@@ -1,7 +1,6 @@
 ---
 title: Calgary
 parent: Alberta
-nav_order: 1
 ---
 
 # Calgary

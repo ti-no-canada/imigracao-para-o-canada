@@ -6,7 +6,7 @@ nav_order: 1
 
 # Glossário de Siglas para Imigração no Canadá
 
-Este glossário reúne siglas importantes que você pode encontrar tanto no [grupo de TI no Canadá](https://t.me/ti_no_canada) quanto no [repositório oficial](https://github.com/ti-no-canada). Ele serve como um guia rápido para entender os termos mais comuns relacionados ao processo de imigração canadense.
+Este glossário reúne siglas importantes que você pode encontrar tanto no [grupo de TI no Canadá](https://t.me/tinocanada) quanto no [repositório oficial](https://github.com/ti-no-canada). Ele serve como um guia rápido para entender os termos mais comuns relacionados ao processo de imigração canadense.
 
 ---
 

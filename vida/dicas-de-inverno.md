@@ -1,7 +1,6 @@
 ---
 title: Trabalho Remoto
 parent: Vida no Canadá
-nav_order: 6
 ---
 
 ### Como se preparar para o inverno

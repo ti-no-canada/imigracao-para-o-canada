@@ -1,7 +1,6 @@
 ---
 title: Ottawa
 parent: Ontario
-nav_order: 2
 ---
 
 # Ottawa e Região

@@ -9,7 +9,7 @@ Repositório do grupo no Telegram **TI no Canadá**, para uma melhor experiênci
 
 [![Grupo oficial no Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Grupo%20Oficial)](https://t.me/tinocanada)
 [![Repositório Oficial](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Repositório%20Oficial)](https://github.com/ti-no-canada)
-[![Regras](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Regras)](./grupo/regras-do-grupo)  
+[![Regras](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Regras)](https://ti-no-canada.github.io/portal/docs/grupo/regras-do-grupo)  
 
 ---
 [![Discussões gerais](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Discussões)](https://t.me/tinocanada/1)
@@ -19,16 +19,16 @@ Repositório do grupo no Telegram **TI no Canadá**, para uma melhor experiênci
 
 ---
 
-Consulte nosso [Glossário](./grupo/glossario) para entender palavras ou siglas desconhecidas.
+Consulte nosso [Glossário](https://ti-no-canada.github.io/portal/docs/grupo/glossario) para entender palavras ou siglas desconhecidas.
 
 # Informações sobre imigração
 
-- [Informações sobre visto](./vida/visao-geral)
-- [Como conseguir uma permissão de trabalho no Canadá (Work Permit)](./trabalho/work-permit)
-- [Feiras de Emprego](./trabalho/feiras-emprego)
-- [Equivalência de diploma no Canadá](./estudo/equivalencia-de-diploma)
-- [Tradução Juramentada](./vida/traducao-juramentada)
-- Estudo de [Inglês](./estudo/idiomas/ingles) / [Francês](./estudo/idiomas/frances)
+- [Informações sobre visto](https://ti-no-canada.github.io/portal/docs/vida/visao-geral)
+- [Como conseguir uma permissão de trabalho no Canadá (Work Permit)](https://ti-no-canada.github.io/portal/docs/trabalho/work-permit)
+- [Feiras de Emprego](https://ti-no-canada.github.io/portal/docs/trabalho/feiras-emprego)
+- [Equivalência de diploma no Canadá](https://ti-no-canada.github.io/portal/docs/estudo/equivalencia-de-diploma)
+- [Tradução Juramentada](https://ti-no-canada.github.io/portal/docs/vida/traducao-juramentada)
+- Estudo de [Inglês](https://ti-no-canada.github.io/portal/docs/estudo/idiomas/ingles) / [Francês](https://ti-no-canada.github.io/portal/docs/estudo/idiomas/frances)
 - [Mapa Mental sobre imigração para o Canadá (em construção)](https://app.mindmapmaker.org/#m:mm1317040e39d442459abc6bbfc9189fff)
 
 # Custo de vida
@@ -51,7 +51,7 @@ Consulte nosso [Glossário](./grupo/glossario) para entender palavras ou siglas 
 
 #### CanPR _(Aplicativo de terceiros)_
 
-Informações sobre imigração e processos como o [Express Entry](./vida/dicas-de-inverno).
+Informações sobre imigração e processos como o [Express Entry](https://ti-no-canada.github.io/portal/docs/vida/dicas-de-inverno).
 
 - [Android](https://play.google.com/store/apps/details?id=maaz.canpr.myapplication&hl=en_CA)
 - [iOS](https://apps.apple.com/ca/app/canpr/id1447024170)
@@ -72,22 +72,25 @@ Economize tempo na chegada ao Canadá com declarações eletrônicas.
 
 # Mercado de TI no Canadá
 
-- [Sites de empregos no Canadá](./trabalho/sites-de-emprego)
-- [Feiras de emprego](./trabalho/feiras-emprego)
-- [Trabalho remoto](./trabalho/trabalho-remoto)
-- [Dicas para entrevistas e currículos](./trabalho/Entrevistas-de-emprego)
+- [Sites de empregos no Canadá](https://ti-no-canada.github.io/portal/docs/trabalho/sites-de-emprego)
+- [Feiras de emprego](https://ti-no-canada.github.io/portal/docs/trabalho/feiras-emprego)
+- [Trabalho remoto](https://ti-no-canada.github.io/portal/docs/trabalho/trabalho-remoto)
+- [Dicas para entrevistas e currículos](https://ti-no-canada.github.io/portal/docs/trabalho/Entrevistas-de-emprego)
 
 # Províncias e territórios do Canadá
 
 Cada província e território possui características únicas. Consulte os links abaixo para mais informações:
 
-- [Alberta](https://en.wikipedia.org/wiki/Alberta) - Idioma: Inglês | [Clima](https://www.currentresults.com/Weather/Canada/Alberta/average-alberta-weather.php)
-- [British Columbia](https://en.wikipedia.org/wiki/British_Columbia) - Idioma: Inglês | [Clima](https://www.currentresults.com/Weather/Canada/British-Columbia/average-british-columbia-weather.php)
-- [Manitoba](https://en.wikipedia.org/wiki/Manitoba) - Idioma: Inglês | [Clima](https://www.currentresults.com/Weather/Canada/Manitoba/average-manitoba-weather.php)
-- [New Brunswick](https://en.wikipedia.org/wiki/New_Brunswick) - Idiomas: Inglês e Francês | [Clima](https://www.currentresults.com/Weather/Canada/New-Brunswick/average-new-brunswick-weather.php)
-- [Nova Scotia](https://en.wikipedia.org/wiki/Nova_Scotia) - Idioma: Inglês | [Clima](https://www.currentresults.com/Weather/Canada/Nova-Scotia/average-nova-scotia-weather.php)
-- [Ontario](https://en.wikipedia.org/wiki/Ontario) - Idioma: Inglês | [Clima](https://www.currentresults.com/Weather/Canada/Ontario/average-ontario-weather.php)
-- [Quebec](https://en.wikipedia.org/wiki/Quebec) - Idioma: Francês | [Clima](https://www.currentresults.com/Weather/Canada/Quebec/average-quebec-weather.php)
+- [Alberta](https://ti-no-canada.github.io/portal/docs/vida/alberta/visao-geral)
+- [British Columbia](https://ti-no-canada.github.io/portal/docs/vida/british-columbia/visao-geral) 
+- [Manitoba](https://ti-no-canada.github.io/portal/docs/vida/manitoba/visao-geral)
+- [Newfoundland and Labrador](https://ti-no-canada.github.io/portal/docs/vida/newfoundland-and-labrador/visao-geral) 
+- [New Brunswick](https://ti-no-canada.github.io/portal/docs/vida/new-brunswick/visao-geral)
+- [Nova Scotia](https://ti-no-canada.github.io/portal/docs/vida/nova-scotia/visao-geral) 
+- [Ontario](https://ti-no-canada.github.io/portal/docs/vida/ontario/visao-geral) 
+- [Prince Edward Island](https://ti-no-canada.github.io/portal/docs/vida/prince-edward-island/visao-geral) 
+- [Saskatchewan](https://ti-no-canada.github.io/portal/docs/vida/saskatchewan/visao-geral) 
+- [Quebec](https://ti-no-canada.github.io/portal/docs/vida/quebec/visao-geral)
 
 # Agradecimentos
 

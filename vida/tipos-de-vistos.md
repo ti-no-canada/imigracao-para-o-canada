@@ -1,7 +1,6 @@
 ---
 title: Tipos de Vistos
 parent: Vida no Canadá
-nav_order: 4
 ---
 
 ## Quando é necessário visto?
@@ -24,7 +23,7 @@ Sim. Contudo, desde maio de 2017, brasileiros que já visitaram o Canadá nos ú
 - **Closed Work Permit**: Permite trabalhar apenas para a empresa que patrocinou sua imigração. O visto geralmente expira em cerca de 3 anos ou em caso de desligamento (empresa ou funcionário).  
 - **Open Work Permit**: Permite trabalhar em qualquer lugar durante o período de validade do visto.  
 
-[Saiba mais sobre Work Permit](../trabalho/work-permit).
+[Saiba mais sobre Work Permit](https://ti-no-canada.github.io/portal/docs/trabalho/work-permit).
 
 ## O que é Permanent Resident (PR)?
 
@@ -33,7 +32,7 @@ Sim. Contudo, desde maio de 2017, brasileiros que já visitaram o Canadá nos ú
 ## O que é Express Entry?
 
 É o sistema eletrônico de avaliação para residência permanente, baseado em pontos que consideram:  
-- **Nível de ensino**: [Saiba mais sobre equivalência de diploma](../estudo/equivalencia-de-diploma).  
+- **Nível de ensino**: [Saiba mais sobre equivalência de diploma](https://ti-no-canada.github.io/portal/docs/estudo/equivalencia-de-diploma).  
 - **Fluência no idioma**: Testes aceitos incluem [CELPIP](https://www.celpip.ca) e [IELTS](https://www.ielts.org).  
 - **Experiência profissional**: Deve ser em profissões classificadas como **NOC 0, A ou B**. [Descubra seu NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html).  
 
@@ -84,7 +83,7 @@ Não, exceto para imigração na província de Québec. Saber francês pode cont
 
 Na área de TI, experiência comprovada (mínimo 3 anos) pode substituir a graduação. Contudo, diplomas contam mais pontos no processo de seleção.
 
-[Saiba mais sobre equivalência educacional](../estudo/equivalencia-de-diploma).
+[Saiba mais sobre equivalência educacional](https://ti-no-canada.github.io/portal/docs/estudo/equivalencia-de-diploma).
 
 ## Salário mínimo e impostos
 
