@@ -1,7 +1,7 @@
 ---
 title: Tradução Juramentada
 parent: Vida no Canadá
-nav_order: 2
+nav_order: 5
 ---
 
 # Tradução Juramentada

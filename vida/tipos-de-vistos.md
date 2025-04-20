@@ -1,7 +1,7 @@
 ---
 title: Tipos de Vistos
 parent: Vida no Canadá
-nav_order: 2
+nav_order: 4
 ---
 
 ## Quando é necessário visto?
