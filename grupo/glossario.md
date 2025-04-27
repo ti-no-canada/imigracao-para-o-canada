@@ -1,7 +1,6 @@
 ---
 title: Glossário
 parent: Informações Gerais
-nav_order: 1
 ---
 
 # Glossário de Siglas para Imigração no Canadá

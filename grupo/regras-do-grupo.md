@@ -1,7 +1,6 @@
 ---
 title: Regras do Grupo
 parent: Informações Gerais
-nav_order: 1
 ---
 # Regras do Grupo
 

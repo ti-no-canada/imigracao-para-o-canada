@@ -1,7 +1,6 @@
 ---
 title: Trabalho Remoto
 parent: Trabalho
-nav_order: 3
 ---
 
 
