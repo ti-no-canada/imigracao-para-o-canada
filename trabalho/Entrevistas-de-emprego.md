@@ -14,6 +14,21 @@ Entrevistas de emprego para profissionais de tecnologia no Canadá podem ser mai
 
 As entrevistas geralmente possuem **3 fases principais**: **Recrutador**, **Code Assessment/Entrevista Técnica** e **Entrevista com Lideranças**. Em alguns casos, as fases 2 e 3 podem ocorrer no mesmo dia.
 
+### Como funciona e as diferenças dos tipos de recruiters que você pode encontrar 
+
+| What’s the Difference?               | Head-hunter (Recrutador de Agência)                   | Talent Acquisition (Recrutador Interno)         | Community Recruiter (Agências de Emprego / Bancos de Talentos) |
+|-------------------------------------|--------------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------|
+| **Who they work for**               | Uma agência de recrutamento que trabalha para várias empresas | A empresa que está contratando                   | Um centro de empregos, ONG ou programa governamental             |
+| **What they care about**            | Preencher vagas rapidamente para seus clientes pagantes | Encontrar a pessoa certa para sua própria empresa | Ajudar pessoas da comunidade a conseguir empregos                |
+| **Types of jobs**                   | Geralmente vagas mais de nicho, especializadas ou de nível mais alto | Todos os tipos, mas apenas para sua empresa       | Todos os tipos, geralmente de nível inicial ou intermediário     |
+| **How they see you**                | Um ótimo candidato... se você se encaixar na busca atual deles | Um potencial colega de equipe                    | Alguém para apoiar e incentivar                                  |
+| **Do they “own” your candidacy?**   | Sim — eles te "representam" para o cliente deles        | Sim — eles te apresentam ao gerente de contratação | Na verdade não — apenas ajudam a fazer a conexão                 |
+| **Contacting them**                 | Você pode tentar — mas se não gostarem do seu perfil, não espere uma resposta rápida | Mande mensagem! Eles devem responder             | Com certeza — e têm mais chances de responder                    |
+| **What jobs they know about**       | Vagas ocultas que você não verá anunciadas             | Vagas abertas na própria empresa                  | Vagas publicadas + conexões com empregadores locais              |
+| **Why they do it**                  | Ganhar comissão por preencher vagas                    | Encontrar ótimos profissionais para a equipe deles | Ajudar quem procura emprego na comunidade a ter sucesso          |
+| **How they work with you**          | Rápido e focado em resultados - contratação = vitória  | Focado no relacionamento                          | Amigável, com base em orientação                                 | 
+
+
 ---
 
 ### Fase 1: Recrutador
