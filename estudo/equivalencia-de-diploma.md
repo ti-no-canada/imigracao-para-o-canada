@@ -1,7 +1,6 @@
 ---
 title: Equivalência de Diploma
 parent: Estudos
-nav_order: 1
 ---
 
 # Equivalência de Diploma no Canadá (Validação do Diploma)

@@ -1,7 +1,6 @@
 ---
 title: Manitoba
 parent: Vida no Canadá
-nav_order: 1
 ---
 
 # Manitoba

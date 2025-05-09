@@ -1,7 +1,6 @@
 ---
 title: Quebec
 parent: Vida no Canadá
-nav_order: 5
 ---
 
 # Quebec

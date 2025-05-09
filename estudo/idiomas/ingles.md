@@ -1,7 +1,6 @@
 ---
 title: Inglês
 parent: Estudos
-nav_order: 2
 ---
 
 # Dicas de idiomas

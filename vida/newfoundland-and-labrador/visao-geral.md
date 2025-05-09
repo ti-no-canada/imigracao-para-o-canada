@@ -1,7 +1,6 @@
 ---
 title: Newfoundland and Labrador
 parent: Vida no Canadá
-nav_order: 1
 ---
 
 # Newfoundland and Labrador

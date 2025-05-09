@@ -1,7 +1,6 @@
 ---
 title: Ontario
 parent: Vida no Canadá
-nav_order: 1
 ---
 
 # Ontario

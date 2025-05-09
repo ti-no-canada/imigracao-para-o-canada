@@ -1,7 +1,6 @@
 ---
 title: Nova Scotia
 parent: Vida no Canadá
-nav_order: 1
 ---
 
 # Nova Scotia

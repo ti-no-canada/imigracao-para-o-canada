@@ -1,7 +1,6 @@
 ---
 title: Alberta
 parent: Vida no Canadá
-nav_order: 1
 ---
 
 # Alberta

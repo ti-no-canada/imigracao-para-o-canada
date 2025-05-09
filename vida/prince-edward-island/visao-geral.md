@@ -1,7 +1,6 @@
 ---
 title: Prince Edward Island
 parent: Vida no Canadá
-nav_order: 1
 ---
 
 # Prince Edward Island

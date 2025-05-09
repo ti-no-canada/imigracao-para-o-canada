@@ -14,26 +14,37 @@ Entrevistas de emprego para profissionais de tecnologia no Canadá podem ser mai
 
 As entrevistas geralmente possuem **3 fases principais**: **Recrutador**, **Code Assessment/Entrevista Técnica** e **Entrevista com Lideranças**. Em alguns casos, as fases 2 e 3 podem ocorrer no mesmo dia.
 
-### Como funciona e as diferenças dos tipos de recruiters que você pode encontrar 
-
-| Qual é a Diferença? (What’s the Difference?) | Recrutador de Agência (Head-hunter)                  | Recrutador Interno (Talent Acquisition)         | Bancos de Talentos (Community Recruiter)                      |
-|----------------------------------------------|------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|
-| **Para quem trabalham (Who they work for)**   | Uma agência de recrutamento que trabalha para várias empresas | A empresa que está contratando                 | Um centro de empregos, ONG ou programa governamental           |
-| **O que valorizam (What they care about)**    | Preencher vagas rapidamente para seus clientes pagantes | Encontrar a pessoa certa para sua própria empresa | Ajudar pessoas da comunidade a conseguir empregos              |
-| **Tipos de vaga (Types of jobs)**             | Geralmente vagas mais de nicho, especializadas ou de nível mais alto | Todos os tipos, mas apenas para sua empresa     | Todos os tipos, geralmente de nível inicial ou intermediário   |
-| **Como veem você (How they see you)**         | Um ótimo candidato... se você se encaixar na busca atual deles | Um potencial colega de equipe                  | Alguém para apoiar e incentivar                                |
-| **Eles “possuem” sua candidatura? (Do they own your candidacy?)** | Sim — eles te "representam" para o cliente deles      | Sim — eles te apresentam ao gerente de contratação | Na verdade não — apenas ajudam a fazer a conexão               |
-| **Contato com eles (Contacting them)**        | Você pode tentar — mas se não gostarem do seu perfil, não espere uma resposta rápida | Mande mensagem! Eles devem responder           | Com certeza — e têm mais chances de responder                  |
-| **Vagas que conhecem (What jobs they know about)** | Vagas ocultas que você não verá anunciadas           | Vagas abertas na própria empresa                | Vagas publicadas + conexões com empregadores locais            |
-| **Por que fazem isso (Why they do it)**       | Ganhar comissão por preencher vagas                  | Encontrar ótimos profissionais para a equipe deles | Ajudar quem procura emprego na comunidade a ter sucesso        |
-| **Como trabalham com você (How they work with you)** | Rápido e focado em resultados - contratação = vitória | Focado no relacionamento                        | Amigável, com base em orientação                               |
-
-
 ---
 
 ### Fase 1: Recrutador
 
 O recrutador pode ser interno (da própria empresa) ou externo (de uma agência de recrutamento). Veja o recrutador como um aliado no processo, mas lembre-se de que ele também está focado em atender às necessidades da empresa. O recrutador fornecerá informações importantes sobre a vaga e o processo.
+
+É importante desmistificar a crença de que recrutadores terceirizados (headhunters) buscam contratar candidatos pelo menor salário possível. Na realidade, o modelo de remuneração das agências de recrutamento está diretamente atrelado ao salário final do candidato contratado.
+
+As agências tipicamente recebem uma taxa de colocação (placement fee) que corresponde a uma porcentagem do salário anual do profissional. Por exemplo, considerando uma taxa de 10% sobre um intervalo salarial de $50.000 a $70.000:
+
+- Salário de $50.000 → Taxa de $5.000
+- Salário de $70.000 → Taxa de $7.000
+
+Deste valor, o recrutador recebe uma comissão que varia entre 5% e 10%. Portanto, é do interesse do recrutador terceirizado negociar o salário mais alto possível dentro da faixa estabelecida, desde que o candidato atenda aos requisitos da vaga.
+
+Por outro lado, recrutadores internos (Talent Acquisition) trabalham com orçamentos predefinidos e tendem a oferecer valores mais conservadores inicialmente, cabendo ao candidato negociar melhores condições.
+
+
+| Qual é a Diferença? | Recrutador de Agência (Head-hunter)                  | Recrutador Interno (Talent Acquisition)         | Bancos de Talentos (Community Recruiter)                      |
+|----------------------------------------------|------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|
+| **Para quem trabalham**   | Uma agência de recrutamento que trabalha para várias empresas | A empresa que está contratando                 | Um centro de empregos, ONG ou programa governamental           |
+| **O que valorizam**    | Preencher vagas rapidamente para seus clientes pagantes | Encontrar a pessoa certa para sua própria empresa | Ajudar pessoas da comunidade a conseguir empregos              |
+| **Tipos de vagas**             | Geralmente vagas mais de nicho, especializadas ou de nível mais alto | Todos os tipos, mas apenas para sua empresa     | Todos os tipos, geralmente de nível inicial ou intermediário   |
+| **Como veem você**         | Um ótimo candidato... se você se encaixar na busca atual deles | Um potencial colega de equipe                  | Alguém para apoiar e incentivar                                |
+| **Eles “possuem” sua candidatura?** | Sim — eles te "representam" para o cliente deles      | Sim — eles te apresentam ao gerente de contratação | Na verdade não — apenas ajudam a fazer a conexão               |
+| **Contato com eles**        | Você pode tentar — mas se não gostarem do seu perfil, não espere uma resposta rápida | Mande mensagem! Eles devem responder           | Com certeza — e têm mais chances de responder                  |
+| **Vagas que conhecem** | Vagas ocultas que você não verá anunciadas           | Vagas abertas na própria empresa                | Vagas publicadas + conexões com empregadores locais            |
+| **Por que fazem isso**       | Ganhar comissão por preencher vagas                  | Encontrar ótimos profissionais para a equipe deles | Ajudar quem procura emprego na comunidade a ter sucesso        |
+| **Como trabalham com você** | Rápido e focado em resultados - contratação = vitória | Focado no relacionamento                        | Amigável, com base em orientação                               |
+
+
 
 #### Dicas para essa fase:
 - **Seja objetivo**: Responda às perguntas de forma clara e direta. Evite entrar em muitos detalhes técnicos ou falar excessivamente.

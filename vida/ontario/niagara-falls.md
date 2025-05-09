@@ -1,7 +1,6 @@
 ---
 title: Niagara Falls
 parent: Ontario
-nav_order: 3
 ---
 
 # Niagara Falls e Região
