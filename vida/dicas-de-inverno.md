@@ -1,5 +1,5 @@
 ---
-title: Trabalho Remoto
+title: Dicas de Inverno
 parent: Vida no Canadá
 ---
 
